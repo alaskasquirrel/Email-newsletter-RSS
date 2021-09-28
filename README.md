@@ -1,11 +1,11 @@
-﻿﻿﻿﻿﻿科技与生活 Email newsletter RSS
+﻿﻿﻿﻿﻿﻿科技与生活 Email newsletter RSS
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
 |Email |RSS app|
 |:---|:----|
 |[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30">ProtonMail[开源](https://github.com/protonmail) ioi/android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)|Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> An awesome Free and Open Source RSS Feed reader|
-|[德国](https://tutanota.com/)<img src="https://f-droid.org/repo/icons-640/de.tutao.tutanota.387010.png" width="30">Tutanota[开源](https://github.com/tutao) ios/android||
+|[德国](https://tutanota.com/)<img src="https://f-droid.org/repo/icons-640/de.tutao.tutanota.387010.png" width="30">Tutanota[开源](https://github.com/tutao) ios/android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)||
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)||
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱||
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱||
@@ -70,7 +70,7 @@
 <tr>
     <td rowspan="3">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
-    <td>Balkan Insight is BIRN’s flagship English-language website and it provides daily news, as well as analytical insight and investigations, on key issues in ten countries: Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania and Serbia, with occasional coverage of Turkey and Greece. From 2019, Balkan Insight is extending its coverage on Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
+    <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/;
         https://balkaninsight.com/newsletters</td></tr>    
 </table>
