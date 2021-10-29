@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -17,6 +17,7 @@
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)||
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱||
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱||
+|<img src="https://cyberfear.com/img/logo.svg" width="75"> [CyberFear](https://cyberfear.com) 匿名邮箱||
 
 
 |邮箱 newsletter 订阅|简介|
