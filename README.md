@@ -1,6 +1,10 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork.
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
+
+[RSSHub](https://rsshub.app/)
+
+[给微信公众号生成RSS](https://wechat.privacyhide.com/)
 
 #### 平台：
 
@@ -22,11 +26,16 @@
 
 |邮箱 newsletter 订阅|简介|
 |:---|:---|
+|[Superdaily](https://www.superdaily.cn)||
+|ChinAI Newsletter|https://chinai.substack.com/|
+|<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="55"> [城堡阅读](https://zhiy.cc/c6da9003b743b65f4c0ccd295cc484e57)|分享个体见闻、探索内心宇宙 [RSS](https://rsshub.app/yuque/doc/297292)|
 |[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志|
 | <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30">[Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
 |<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表. |
 |<img src="https://newslab.info/wp-content/uploads/2016/08/logo.png" width="75">新闻实验室 [付费版](https://newslab.info/join/)／ [免费版](https://www.getrevue.co/profile/newslab)| 出品人：方可成，香港中文大学新闻与传播学院助理教授，宾夕法尼亚大学Annenberg传播学院博士，曾在《南方周末》报社担任记者，政见CNPolitics发起人，《东方历史评论》编辑，本科和硕士毕业于北京大学新闻与传播学院。 |
+|[灵感买家俱乐部](https://club.q24.io)|  |
+|[林中来信](https://laixin.one)|  |
 |[唯理通讯 Veritas](https://www.veritaschina.org/newsletter)|  |
 |[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想 |
 |[Mukti - 费照君](https://feizhaojun.com)| 每周分享 |
@@ -38,8 +47,15 @@
 |[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗 |
 |[随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息 |
 |[海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察 |
+|[刻意周刊](https://wenboblog.com/)|  |
 |<img src="https://buttondown.s3.amazonaws.com/icons/1d272fcb-2021-470e-af25-ecd15566e0ff.png" width="25"> [Nothing Here](https://buttondown.email/nothing)| At Nothing Here, we scour the internet so you don’t have to, and serve up a selection of interesting articles on culture, politics, ecology, climate change, the end of the world, and all that good shit. We’ll also let you know what books, films, TV, and music we’ve been enjoying, because, hell, sometimes you need something to distract from the endless parade of atrocities that is the 21st Century. [full archives ](https://buttondown.email/nothing/archive/) |
-|[International Centre for Stem Education](https://icse.eu/startseite/newsletter/)| Through our international newsletter we keep our partners, stakeholders and anyone interested in our work informed about the latest events and conferences, as well as reports and materials from ICSE and its projects. The newsletter is issued to our unique and unparalleled network of around 2000 STEM education researchers, |
+|[International Centre for Stem Education](https://icse.eu/startseite/newsletter/)| Through our international newsletter we keep our partners, stakeholders and anyone interested in our work informed about the latest events and conferences, as well as reports and materials from ICSE and its projects. The newsletter is issued to our unique and unparalleled network of around 2000 STEM education researchers |
+|[KAIX.IN](https://kaix.in)|  |
+|[亨利朱週報](https://henrychu.substack.com/p/-no1)|  |
+
+
+
+
 
 <table>
   <tr>
@@ -49,10 +65,15 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="5">科技</td>
+    <td rowspan="6">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="15"></td>
+    <td></td>
+    <td>https://sspai.com/feed</td>
   </tr>
   <tr>
     <td><img src="https://s.anw.red/anyway.fm/logo.svg" width="25">安妮薇时报Anyway.News</td>
@@ -66,12 +87,12 @@
   </tr>
   <tr>
     <td><img src="https://wanqu.co/static/images/wanqu/round-logo.png" width="25">湾区日报</td>
-    <td></td>
+    <td>关注创业与技术，每天推送3到5篇优质英文文章</td>
     <td>https://wanqu.co/feed/<br></td>
   </tr>
   <tr>
     <td><img src="https://techtaiwan.com/app/uploads/2021/05/logo-techtaiwan-1.png" width="75">TechTaiwan</td>
-    <td></td>
+    <td>Founded in 2021, TechTaiwan offers daily news updates and insights on Taiwan’s technology industry, especially semiconductor, electric vehicles, telecom and industry 4.0.</td>
     <td>https://techtaiwan.com/feed/</td>
   </tr>
   <tr>
