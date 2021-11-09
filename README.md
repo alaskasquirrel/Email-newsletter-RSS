@@ -1,10 +1,30 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork.
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork.
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
 [RSSHub](https://rsshub.app/)
 
 [给微信公众号生成RSS](https://wechat.privacyhide.com/)
+
+[小鸟文学](http://aves.art) app [用户隐私协议](https://app.aves.art/page/privacy_agreement)
+
+《Design360'》杂志
+
+<table>
+  <tr>
+  <th><a href="https://theshanghairen.com"> The Shanghairen 沪誌 </a></th>
+  <th><a href=""> THE FOOCHOWKA 福州客  </a></th>
+  <th><a href="https://www.thenowyorker.com/"> The Now Yorker 纽约客 </a></th>
+  <th><a href="http://www.theparisianer.eu/"> The Parisianer 巴黎人 </a></th>
+  <th><a href="http://www.thetokyoiter.com/"> The Tokyoiter 东京人 </a></th>
+  <tr>
+  <td><a href="https://theshanghairen.com"><img width="100px" src="https://theshanghairen.com/static/covers/01.jpg"/></a></td>
+  <td><a href=""><img width="100px" src=""/></a></td>
+  <td><a href="https://www.thenowyorker.com/"><img width="100px" src=""/></a></td>
+  <td><a href="http://www.theparisianer.eu/"><img width="100px" src="http://www.theparisianer.eu/images/the_parisianer_slide/the_parisianer_094.jpg"></a></td>
+  <td><a href="http://www.thetokyoiter.com/"><img width="100px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
+  </tr>
+</table>
 
 #### 平台：
 
@@ -17,7 +37,7 @@
 |Email |RSS app|
 |:---|:----|
 |[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30">ProtonMail[开源](https://github.com/protonmail) ioi/android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> An awesome Free and Open Source RSS Feed reader|
-|[德国](https://tutanota.com/)<img src="https://f-droid.org/repo/icons-640/de.tutao.tutanota.387010.png" width="30">Tutanota[开源](https://github.com/tutao) ios/android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)||
+|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30">Tutanota[开源](https://github.com/tutao) ios/android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="30"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)||
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱||
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱||
@@ -30,6 +50,7 @@
 |[ChinAI Newsletter](https://chinai.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4962753-3f4d-4196-8c89-c63ef265df3c_256x256" width="30"> Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape|
 |<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="55"> [城堡阅读](https://zhiy.cc/c6da9003b743b65f4c0ccd295cc484e57)|分享个体见闻、探索内心宇宙 [RSS](https://rsshub.app/yuque/doc/297292)|
 |[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式|
+|<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)||
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志|
 | <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30">[Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
 |<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表. |
@@ -50,10 +71,10 @@
 |<img src="https://verbo2009.github.io/images/avatar.png?v=1630666480471" width="30"> [刻意周刊](https://wenboblog.com/)| 科技/互联网/商业/创业/投资等相关优质内容，每周一期，周五或周六更新，更多内容请访问：[Superdaily](https://www.superdaily.cn/) |
 |<img src="https://buttondown.s3.amazonaws.com/icons/1d272fcb-2021-470e-af25-ecd15566e0ff.png" width="25"> [Nothing Here](https://buttondown.email/nothing)| At Nothing Here, we scour the internet so you don’t have to, and serve up a selection of interesting articles on culture, politics, ecology, climate change, the end of the world, and all that good shit. We’ll also let you know what books, films, TV, and music we’ve been enjoying, because, hell, sometimes you need something to distract from the endless parade of atrocities that is the 21st Century. [full archives ](https://buttondown.email/nothing/archive/) |
 |[International Centre for Stem Education](https://icse.eu/startseite/newsletter/)| Through our international newsletter we keep our partners, stakeholders and anyone interested in our work informed about the latest events and conferences, as well as reports and materials from ICSE and its projects. The newsletter is issued to our unique and unparalleled network of around 2000 STEM education researchers |
+|[苔原通信](https://mailchi,mp/37a061991a71/20210328)|  |
 |[KAIX.IN](https://kaix.in)|  |
 |[亨利朱週報](https://henrychu.substack.com/p/-no1)| <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> 訂閱電子報，獲得實用的生活、工作技巧！ |
-
-
+|[iD公社](https://www.hi-id.com)| <img src="https://www.hi-id.com/imgg/hiidlogo2X.png" width="30"> |
 
 
 
@@ -65,7 +86,7 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="6">科技</td>
+    <td rowspan="8">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
@@ -74,6 +95,16 @@
     <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="15"></td>
     <td></td>
     <td>https://sspai.com/feed</td>
+  </tr>
+  <tr>
+    <td><img src="https://www.voicer.me/wp-content/themes/voicer4/images/logo@2x.png" width="30"></td>
+    <td></td>
+    <td>https://www.voicer.me</td>
+  </tr>
+  <tr>
+    <td>饱蠹楼阅读</td>
+    <td></td>
+    <td>https://www.baodulou.com</td>  
   </tr>
   <tr>
     <td><img src="https://s.anw.red/anyway.fm/logo.svg" width="25">安妮薇时报Anyway.News</td>
