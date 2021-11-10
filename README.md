@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork.
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork.
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -19,12 +19,13 @@
   <th><a href="http://www.thetokyoiter.com/"> The Tokyoiter 东京人 </a></th>
   <tr>
   <td><a href="https://theshanghairen.com"><img width="100px" src="https://theshanghairen.com/static/covers/01.jpg"/></a></td>
-  <td><a href=""><img width="100px" src=""/></a></td>
-  <td><a href="https://www.thenowyorker.com/"><img width="100px" src=""/></a></td>
+  <td><a href=""><img width="100px" src="https://mmbiz.qpic.cn/mmbiz_jpg/11ppmb8Jo9ptgbf8CRn5ibgUYxMaLTmQsR4p3XXDnow8ibvbez8jLZKBAC3HFgUKSfhiaahrp9zo9bhkNOKlW2iaqg/640"/></a></td>
+  <td><a href="https://www.thenowyorker.com/"><img width="100px" src="http://i3.sinaimg.cn/book/2016/0927/U13293P112DT20160927153832.jpg"/></a></td>
   <td><a href="http://www.theparisianer.eu/"><img width="100px" src="http://www.theparisianer.eu/images/the_parisianer_slide/the_parisianer_094.jpg"></a></td>
   <td><a href="http://www.thetokyoiter.com/"><img width="100px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
   </tr>
 </table>
+
 
 #### 平台：
 
@@ -37,7 +38,7 @@
 |Email |RSS app|
 |:---|:----|
 |[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30">ProtonMail[开源](https://github.com/protonmail) ioi/android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> An awesome Free and Open Source RSS Feed reader|
-|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30">Tutanota[开源](https://github.com/tutao) ios/android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="30"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
+|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30">Tutanota[开源](https://github.com/tutao) ios/android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="45"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)||
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱||
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱||
@@ -92,12 +93,12 @@
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="15"></td>
+    <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="12"></td>
     <td></td>
     <td>https://sspai.com/feed</td>
   </tr>
   <tr>
-    <td><img src="https://www.voicer.me/wp-content/themes/voicer4/images/logo@2x.png" width="30"></td>
+    <td><img src="https://www.voicer.me/wp-content/themes/voicer4/images/logo@2x.png" width="50"></td>
     <td></td>
     <td>https://www.voicer.me</td>
   </tr>
