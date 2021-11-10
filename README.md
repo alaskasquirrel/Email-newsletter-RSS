@@ -1,14 +1,22 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork.
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
+[中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
+
+[PodLetter 播客简报导航](https://www.podletter.club/)
+
 [RSSHub](https://rsshub.app/)
+
+[RSS Source](https://rss-source.com/)
+
+ [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 
 [给微信公众号生成RSS](https://wechat.privacyhide.com/)
 
 [小鸟文学](http://aves.art) app [用户隐私协议](https://app.aves.art/page/privacy_agreement)
 
-《Design360'》杂志
+《Design360°》杂志
 
 <table>
   <tr>
@@ -29,11 +37,21 @@
 
 #### 平台：
 
-[知园](https://zhiy.cc)
+<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc)
 
-[Substack](https://substack.com)
+<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com)
 
-[Hedwig](https://hedwig.pub)
+<img src="" width="30"> [Hedwig](https://hedwig.pub)
+
+<img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)
+
+<img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)
+
+[竹白](https://zhubai.love/)
+
+
+
+
 
 |Email |RSS app|
 |:---|:----|
@@ -45,37 +63,67 @@
 |<img src="https://cyberfear.com/img/logo.svg" width="75"> [CyberFear](https://cyberfear.com) 匿名邮箱||
 
 
+
+
+
+
 |邮箱 newsletter 订阅|简介|
 |:---|:---|
-|[Superdaily](https://www.superdaily.cn)|<img src="https://www.superdaily.cn/assets/new/img/logo.png" width="55">重点关注泛互联网、创业投资、创新科技、商业财经、认知成长等领域的优质内容，如深度长文、报道、数据、报告、视频、播客等。专业的内容团队，从海量内容中，基于信息密度、结构化、信息源可信度等推荐原则，为你精选每日值得一看的内容。|
+|[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。|
+|[Λ-Reading]()|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecc1474-39f8-4a6b-a014-d4c3354f8a72_334x334.png" width="30"> 包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
+|[A Learning a Day](https://alearningaday.blog)| <img src="https://alearningadayblog.files.wordpress.com/2017/07/alearingadaylogov6.png" width="30"> |
 |[ChinAI Newsletter](https://chinai.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4962753-3f4d-4196-8c89-c63ef265df3c_256x256" width="30"> Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape|
-|<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="55"> [城堡阅读](https://zhiy.cc/c6da9003b743b65f4c0ccd295cc484e57)|分享个体见闻、探索内心宇宙 [RSS](https://rsshub.app/yuque/doc/297292)|
-|[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式|
-|<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)||
-|[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志|
-| <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30">[Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
-|<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表. |
+| <img src="https://iois.me/wp-content/uploads/2020/03/2020newlogo-300px0304.png" width="30"> [Dailyio](https://iois.me/) | Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions) |
+|[Superdaily](https://www.superdaily.cn)|<img src="https://www.superdaily.cn/assets/new/img/logo.png" width="55">重点关注泛互联网、创业投资、创新科技、商业财经、认知成长等领域的优质内容，如深度长文、报道、数据、报告、视频、播客等。专业的内容团队，从海量内容中，基于信息密度、结构化、信息源可信度等推荐原则，为你精选每日值得一看的内容。|
+| <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30"> [Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
+|<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表。 |
+|[Faust Media](https://faust.substack.com/)| Fabric 主要是以每周资讯汇总以及资讯简评为主。软件体验、科技事件、互联网新闻报道，优质内容推荐，是这个专栏未来的重心。 |
+|[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式。|
+|<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)|由 Issei 制作的月刊，介绍从自己的视角看到的世界，以及关于设计、艺术和文化的推荐信息。|
+|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
 |<img src="https://newslab.info/wp-content/uploads/2016/08/logo.png" width="75">新闻实验室 [付费版](https://newslab.info/join/)／ [免费版](https://www.getrevue.co/profile/newslab)| 出品人：方可成，香港中文大学新闻与传播学院助理教授，宾夕法尼亚大学Annenberg传播学院博士，曾在《南方周末》报社担任记者，政见CNPolitics发起人，《东方历史评论》编辑，本科和硕士毕业于北京大学新闻与传播学院。 |
 |[灵感买家俱乐部](https://club.q24.io)| 网络杂志 |
 |<img src="https://laixin.one/content/images/2021/06/Red.png" width="30"> [林中来信](https://laixin.one)| 《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。 |
-|[唯理通讯 Veritas](https://www.veritaschina.org/newsletter)| <img src="https://www.veritaschina.org/assets/img/vChina/trans_logo.png" width="30">唯理通讯推荐精选自互联网的深度文本。我们希望这些内容传播富有思考的声音，并促进订阅者对社会议题的关注。我们相信，在互联网的信息洪流中仍有独立思考的可能 |
-|[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想 |
-|[Mukti - 费照君](https://feizhaojun.com) 五道口乐哥| 每周分享 |
-| <img src="https://qiniu.yilifangshuyi.com/ed332bb81f0adeaa33ff64f6df2471e1/ed332bb81f0adeaa33ff64f6df2471e1" width="30"> [潦草学者](https://zhiy.cc/messy) | 分享日常思考。长期关注互联网商业，效率工具 |
-|[事不过三](https://via.hedwig.pub)| 重要的事情不过三件 |
+|[唯理通讯 Veritas](https://www.veritaschina.org/newsletter)| 唯理通讯推荐精选自互联网的深度文本。我们希望这些内容传播富有思考的声音，并促进订阅者对社会议题的关注。我们相信，在互联网的信息洪流中仍有独立思考的可能。 |
+|[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想。 |
+|[Mukti - 费照君](https://feizhaojun.com) 五道口乐哥| 每周分享。 |
+| <img src="https://qiniu.yilifangshuyi.com/ed332bb81f0adeaa33ff64f6df2471e1/ed332bb81f0adeaa33ff64f6df2471e1" width="30"> [潦草学者](https://zhiy.cc/messy) | 分享日常思考。长期关注互联网商业，效率工具。 |
+|[事不过三](https://via.hedwig.pub)| 重要的事情不过三件。文浩（即刻ID：蛋散）关于认识自己、好好学习、好好生活的分享。 |
 |<img src="https://qiniu.yilifangshuyi.com/6ea6cc48bebbf5f2e145276512ca5049/6ea6cc48bebbf5f2e145276512ca5049" width="30"> [白宇极](https://zhiy.cc/baiyuji)| 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。 |
-|<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生 |
-|[生活奇旅](https://newsletter.weichen.blog)| 探寻如何更好地生活 |
-|[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗 |
-|<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息 |
-|[海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察 |
+|<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
+|[生活奇旅](https://newsletter.weichen.blog)| 探寻如何更好地生活。 |
+|[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗。 |
+|<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息。 |
 |<img src="https://verbo2009.github.io/images/avatar.png?v=1630666480471" width="30"> [刻意周刊](https://wenboblog.com/)| 科技/互联网/商业/创业/投资等相关优质内容，每周一期，周五或周六更新，更多内容请访问：[Superdaily](https://www.superdaily.cn/) |
 |<img src="https://buttondown.s3.amazonaws.com/icons/1d272fcb-2021-470e-af25-ecd15566e0ff.png" width="25"> [Nothing Here](https://buttondown.email/nothing)| At Nothing Here, we scour the internet so you don’t have to, and serve up a selection of interesting articles on culture, politics, ecology, climate change, the end of the world, and all that good shit. We’ll also let you know what books, films, TV, and music we’ve been enjoying, because, hell, sometimes you need something to distract from the endless parade of atrocities that is the 21st Century. [full archives ](https://buttondown.email/nothing/archive/) |
 |[International Centre for Stem Education](https://icse.eu/startseite/newsletter/)| Through our international newsletter we keep our partners, stakeholders and anyone interested in our work informed about the latest events and conferences, as well as reports and materials from ICSE and its projects. The newsletter is issued to our unique and unparalleled network of around 2000 STEM education researchers |
-|[苔原通信](https://mailchi,mp/37a061991a71/20210328)|  |
 |[KAIX.IN](https://kaix.in)|  |
-|[亨利朱週報](https://henrychu.substack.com/p/-no1)| <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> 訂閱電子報，獲得實用的生活、工作技巧！ |
 |[iD公社](https://www.hi-id.com)| <img src="https://www.hi-id.com/imgg/hiidlogo2X.png" width="30"> |
+|[Data Stitches](https://datastitches.substack.com/)| 分享数据可视化、交互叙事项目以及创作者们使用的工具。 |
+|[Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
+|[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
+|[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
+|<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="55"> [城堡阅读](https://zhiy.cc/c6da9003b743b65f4c0ccd295cc484e57)|分享个体见闻、探索内心宇宙 [RSS](https://rsshub.app/yuque/doc/297292)|
+|[端传媒新闻通讯](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)| 內容包括端传媒每日全部内容，从深度文章到早晚报、端圆桌，以邮件形式整合全文，文章以PDF档案提供。 |
+|[科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
+|[刻意体会](https://kyth.hedwig.pub/)| 即刻团队产品负责人kyth的newsletter。 |
+|[了概（已休刊）](https://liaoguy.com/)| 一个主打用图文帮助读者在5分钟内快速了解当前世界范围内所发生的重要事件的付费订阅制媒体，涉及的主题包括国际关系、政治、经济、科技等。 |
+|[海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察。 |
+|[亨利朱週報](https://henrychu.substack.com/p/-no1)| <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> 訂閱電子報，獲得實用的生活、工作技巧！ |
+|[曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
+|[世界走走](https://sehseh.substack.com/)| 一份最具人味的全球時事刊物。我們試圖重新定義國際新聞，分享世界各地的迷人故事，滿足你最根本的好奇心。 |
+|[苔原通信](https://mailchi,mp/37a061991a71/20210328)|  |
+|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6decee3b-7769-406c-aa0a-089365d411c1_400x400.png" width="30"> [透明盒子计划](https://clearbox.substack.com/)| 作者受Zettelkästen卡片盒学习方法启发，产生笔记，整理成文，讲述关于学习、认知、思维的相关的科学理论及训练方法。 |
+|[推播助栏The Podcast Pick - by Enzo Chen](https://enzochen.substack.com/)| 由撰稿人陈恒一创办的一份关于中文Podcast的免费Newsletter，形式分为文章和播客两种，前者涵盖中文Podcast节目推荐、Podcast新闻梳理和评论、Podcast创作者访谈，后者主要分享个人感想。 |
+|[维舟](https://weizhou.substack.com/)| 书评人、作家维舟的公众号备份。 |
+|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
+|[一人公司](https://happyxiao.com/nl/)| happy xiao分享实用经验和优质点子，帮你提高效率，挥洒创意。 |
+|[一天世界](https://yitianshijie.net/)|<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> 浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
+|[增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
+
+
+
+
 
 
 
@@ -87,7 +135,7 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="8">科技</td>
+    <td rowspan="9">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
@@ -128,6 +176,11 @@
     <td>https://techtaiwan.com/feed/</td>
   </tr>
   <tr>
+    <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="30"><td>
+    <td>The Information是一家来自美国旧金山的订阅制科技媒体</td>
+    <td></td>
+  </tr>
+  <tr>
     <td rowspan="3">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
@@ -148,7 +201,14 @@
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/;
-        https://balkaninsight.com/newsletters</td></tr>    
+        https://balkaninsight.com/newsletters</td>
+</tr>
+<tr>
+    <td> Project Veritas </td>
+    <td></td>
+    <td>https://www.projectveritas.com/</td>
+</tr>    
 </table>
+
 
 
