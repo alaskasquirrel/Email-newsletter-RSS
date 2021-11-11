@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢 [陆屿](https://sspai.com/u/liam4ever)、[Forchan](https://sspai.com/u/vinson1900)、[Enzo4pod](https://sspai.com/u/m7acp4we)、[钴酸锂](https://sspai.com/u/9vc1ncuy) 等人分享。期待你的参与 Issues or Fork
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢分享。期待你的参与 Issues or Fork
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -6,9 +6,9 @@
 
 [PodLetter 播客简报导航](https://www.podletter.club/)
 
-[RSSHub](https://rsshub.app/)
+[RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器
 
-[RSS Source](https://rss-source.com/)
+[RSS Source](https://rss-source.com/) ｜订阅源推荐
 
  [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 
@@ -37,11 +37,15 @@
 
 #### 平台：
 
-<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc)
+<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="75"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)
 
-<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com)
+<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)
 
-<img src="" width="30"> [Hedwig](https://hedwig.pub)
+<img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ" width="50"> [语雀](https://www.yuque.com/) , [服务协议](https://www.yuque.com/terms)
+
+<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)
+
+[Hedwig](https://hedwig.pub)
 
 <img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)
 
@@ -55,11 +59,11 @@
 
 |Email |RSS app|
 |:---|:----|
-|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30">ProtonMail[开源](https://github.com/protonmail) ioi/android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> An awesome Free and Open Source RSS Feed reader|
-|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30">Tutanota[开源](https://github.com/tutao) ios/android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="45"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
-|<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)||
-|[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱||
-|<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱||
+|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> An awesome Free and Open Source RSS Feed reader|
+|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="45"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
+|<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)|[Inoreader](https://www.inoreader.com/)|
+|[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
+|<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
 |<img src="https://cyberfear.com/img/logo.svg" width="75"> [CyberFear](https://cyberfear.com) 匿名邮箱||
 
 
@@ -141,7 +145,7 @@
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="12"></td>
+    <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="10"></td>
     <td></td>
     <td>https://sspai.com/feed</td>
   </tr>
@@ -176,7 +180,7 @@
     <td>https://techtaiwan.com/feed/</td>
   </tr>
   <tr>
-    <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="30"><td>
+    <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="50"><td>
     <td>The Information是一家来自美国旧金山的订阅制科技媒体</td>
     <td></td>
   </tr>
@@ -209,6 +213,5 @@
     <td>https://www.projectveritas.com/</td>
 </tr>    
 </table>
-
 
 
