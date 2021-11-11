@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络，感谢分享。期待你的参与 Issues or Fork
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络分享。期待你的参与 Issues or Fork
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -37,7 +37,7 @@
 
 #### 平台：
 
-<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="75"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)
+<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="65"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)
 
 <img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)
 
@@ -45,13 +45,15 @@
 
 <img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)
 
-[Hedwig](https://hedwig.pub)
+<img src="https://www.podletter.club/assets/images/logos/Hedwig.png" width="30"> [Hedwig](https://hedwig.pub)
+
+<img src="https://www.podletter.club/assets/images/logos/Medium.png" width="30"> [Medium](https://medium.com/)
 
 <img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)
 
 <img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)
 
-[竹白](https://zhubai.love/)
+<img src="https://www.podletter.club/assets/images/logos/Zhubai.png" width="30"> [竹白](https://zhubai.love/)
 
 
 
@@ -59,12 +61,12 @@
 
 |Email |RSS app|
 |:---|:----|
-|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) <img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> An awesome Free and Open Source RSS Feed reader|
-|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="45"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
-|<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/)|[Inoreader](https://www.inoreader.com/)|
+|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|<img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) An awesome Free and Open Source RSS Feed reader|
+|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy Policy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="45"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
+|<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/ecloud/)|[Inoreader](https://www.inoreader.com/)|
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
-|<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
-|<img src="https://cyberfear.com/img/logo.svg" width="75"> [CyberFear](https://cyberfear.com) 匿名邮箱||
+|<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱 [Terms of Service](https://www.tildamail.com/terms-of-service)|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
+|<img src="https://cyberfear.com/img/logo.svg" width="75"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
 
 
 
@@ -82,9 +84,11 @@
 | <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30"> [Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
 |<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表。 |
 |[Faust Media](https://faust.substack.com/)| Fabric 主要是以每周资讯汇总以及资讯简评为主。软件体验、科技事件、互联网新闻报道，优质内容推荐，是这个专栏未来的重心。 |
+|<img width="30" src="https://qiniu.zhiy.cc/72df0e169369f4baa5546c6593dfe699/72df0e169369f4baa5546c6593dfe699"> [Futurow 未来派](https://zhiy.cc/futurow)| 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。 |
 |[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式。|
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)|由 Issei 制作的月刊，介绍从自己的视角看到的世界，以及关于设计、艺术和文化的推荐信息。|
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
+|<img width="30" src="https://imgs.zhubai.pub/e579663cdf754ff99671458d9cc5ad56.jpg"> [The Quibbler](https://thequibbler.zhubai.love/)|这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。李奇|
 |<img src="https://newslab.info/wp-content/uploads/2016/08/logo.png" width="75">新闻实验室 [付费版](https://newslab.info/join/)／ [免费版](https://www.getrevue.co/profile/newslab)| 出品人：方可成，香港中文大学新闻与传播学院助理教授，宾夕法尼亚大学Annenberg传播学院博士，曾在《南方周末》报社担任记者，政见CNPolitics发起人，《东方历史评论》编辑，本科和硕士毕业于北京大学新闻与传播学院。 |
 |[灵感买家俱乐部](https://club.q24.io)| 网络杂志 |
 |<img src="https://laixin.one/content/images/2021/06/Red.png" width="30"> [林中来信](https://laixin.one)| 《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。 |
@@ -104,26 +108,29 @@
 |[KAIX.IN](https://kaix.in)|  |
 |[iD公社](https://www.hi-id.com)| <img src="https://www.hi-id.com/imgg/hiidlogo2X.png" width="30"> |
 |[Data Stitches](https://datastitches.substack.com/)| 分享数据可视化、交互叙事项目以及创作者们使用的工具。 |
-|[Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
+|<img src="https://www.podletter.club/assets/images/logos/N-StarRocket.jpg" width="30"> [Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
 |[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
 |[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
 |<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="55"> [城堡阅读](https://zhiy.cc/c6da9003b743b65f4c0ccd295cc484e57)|分享个体见闻、探索内心宇宙 [RSS](https://rsshub.app/yuque/doc/297292)|
 |[端传媒新闻通讯](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)| 內容包括端传媒每日全部内容，从深度文章到早晚报、端圆桌，以邮件形式整合全文，文章以PDF档案提供。 |
+|<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 一档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |[科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[刻意体会](https://kyth.hedwig.pub/)| 即刻团队产品负责人kyth的newsletter。 |
 |[了概（已休刊）](https://liaoguy.com/)| 一个主打用图文帮助读者在5分钟内快速了解当前世界范围内所发生的重要事件的付费订阅制媒体，涉及的主题包括国际关系、政治、经济、科技等。 |
-|[海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察。 |
-|[亨利朱週報](https://henrychu.substack.com/p/-no1)| <img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> 訂閱電子報，獲得實用的生活、工作技巧！ |
-|[曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
+|<img width="30" src="https://www.podletter.club/assets/images/logos/N-Hsxg.png"> [海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察。[会员订阅](http://haishangxingguang.mikecrm.com/7INJhZW) |
+|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> [亨利朱週報](https://henrychu.substack.com/p/-no1)| 訂閱電子報，獲得實用的生活、工作技巧！ |
+|<img width="30" src="https://www.podletter.club/assets/images/logos/N-Mb.png"> [曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
 |[世界走走](https://sehseh.substack.com/)| 一份最具人味的全球時事刊物。我們試圖重新定義國際新聞，分享世界各地的迷人故事，滿足你最根本的好奇心。 |
+|<img width="30" src="https://qiniu.yilifangshuyi.com/5bcaba913455ba6a244bff7dbaa57a69/5bcaba913455ba6a244bff7dbaa57a69"> [水山说](https://zhiy.cc/ssshuos)| 前在行产品负责人 美团/搜狐/九鼎集团高级产品专家 设计/摄影/科技/互联网/营销都有所涉猎 |
 |[苔原通信](https://mailchi,mp/37a061991a71/20210328)|  |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6decee3b-7769-406c-aa0a-089365d411c1_400x400.png" width="30"> [透明盒子计划](https://clearbox.substack.com/)| 作者受Zettelkästen卡片盒学习方法启发，产生笔记，整理成文，讲述关于学习、认知、思维的相关的科学理论及训练方法。 |
-|[推播助栏The Podcast Pick - by Enzo Chen](https://enzochen.substack.com/)| 由撰稿人陈恒一创办的一份关于中文Podcast的免费Newsletter，形式分为文章和播客两种，前者涵盖中文Podcast节目推荐、Podcast新闻梳理和评论、Podcast创作者访谈，后者主要分享个人感想。 |
+|<img width="30" src="https://www.podletter.club/assets/images/logos/ThePodcastPick.png"> [推播助栏The Podcast Pick - by Enzo Chen](https://enzochen.substack.com/)| 由撰稿人陈恒一创办的一份关于中文Podcast的免费Newsletter，形式分为文章和播客两种，前者涵盖中文Podcast节目推荐、Podcast新闻梳理和评论、Podcast创作者访谈，后者主要分享个人感想。 |
+|<img width="30" src="https://www.podletter.club/assets/images/logos/N-Wlx.jpg"> [王龙行](https://zhiy.cc/long)| 分享我写的关于创业、产品的笔记，包括我的碎片化思考、工作笔记、优质内容推荐等。 |
 |[维舟](https://weizhou.substack.com/)| 书评人、作家维舟的公众号备份。 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
 |[一人公司](https://happyxiao.com/nl/)| happy xiao分享实用经验和优质点子，帮你提高效率，挥洒创意。 |
-|[一天世界](https://yitianshijie.net/)|<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> 浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
-|[增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
+|<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
+|<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 
 
 
@@ -160,7 +167,7 @@
     <td>https://www.baodulou.com</td>  
   </tr>
   <tr>
-    <td><img src="https://s.anw.red/anyway.fm/logo.svg" width="25">安妮薇时报Anyway.News</td>
+    <td><img src="https://www.podletter.club/assets/images/logos/N-AnywayNews.png" width="30">安妮薇时报Anyway.News</td>
     <td></td>
     <td>https://anyway.fm/news/rss.xml</a></td>
   </tr>
