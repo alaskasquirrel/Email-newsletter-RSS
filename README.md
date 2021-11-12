@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络分享。期待你的参与 Issues or Fork
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络分享。期待你的参与 Issues or Fork
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -221,4 +221,8 @@
 </tr>    
 </table>
 
+
+
+
+![stars](https://starchart.cc/alaskasquirrel/Email-newsletter-RSS.svg)
 
