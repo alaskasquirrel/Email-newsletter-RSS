@@ -1,19 +1,29 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿下述讯息源皆来自网络分享。期待你的参与 Issues or Fork
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ 期待你的参与 Issues or Fork
+
+**兼听则明，偏信则暗**
+
+******
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
 [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 
+[Newsletter-list](https://github.com/chasays/newsletter-list) (中文)
+
 [PodLetter 播客简报导航](https://www.podletter.club/)
+
+[如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662)
 
 [RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器
 
-[RSS Source](https://rss-source.com/) ｜订阅源推荐
+[RSS Source](https://rss-source.com/) 订阅源推荐
 
  [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 
 [给微信公众号生成RSS](https://wechat.privacyhide.com/)
 
+
+******
 
 
 <table>
@@ -24,31 +34,32 @@
   <th><a href="http://www.theparisianer.eu/"> The Parisianer 巴黎人 </a></th>
   <th><a href="http://www.thetokyoiter.com/"> The Tokyoiter 东京人 </a></th>
   <tr>
-  <td><a href="https://theshanghairen.com"><img width="100px" src="https://theshanghairen.com/static/covers/01.jpg"/></a></td>
-  <td><a href=""><img width="100px" src="https://mmbiz.qpic.cn/mmbiz_jpg/11ppmb8Jo9ptgbf8CRn5ibgUYxMaLTmQsR4p3XXDnow8ibvbez8jLZKBAC3HFgUKSfhiaahrp9zo9bhkNOKlW2iaqg/640"/></a></td>
-  <td><a href="https://www.thenowyorker.com/"><img width="100px" src="http://i3.sinaimg.cn/book/2016/0927/U13293P112DT20160927153832.jpg"/></a></td>
-  <td><a href="http://www.theparisianer.eu/"><img width="100px" src="http://www.theparisianer.eu/images/the_parisianer_slide/the_parisianer_094.jpg"></a></td>
-  <td><a href="http://www.thetokyoiter.com/"><img width="100px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
+  <td><a href="https://theshanghairen.com"><img width="125px" src="https://theshanghairen.com/static/covers/01.jpg"/></a></td>
+  <td><a href=""><img width="175px" src="https://mmbiz.qpic.cn/mmbiz_jpg/11ppmb8Jo9ptgbf8CRn5ibgUYxMaLTmQsR4p3XXDnow8ibvbez8jLZKBAC3HFgUKSfhiaahrp9zo9bhkNOKlW2iaqg/640"/></a></td>
+  <td><a href="https://www.thenowyorker.com/"><img width="175px" src="http://i3.sinaimg.cn/book/2016/0927/U13293P112DT20160927153832.jpg"/></a></td>
+  <td><a href="http://www.theparisianer.eu/"><img width="125px" src="http://www.theparisianer.eu/images/the_parisianer_slide/the_parisianer_094.jpg"></a></td>
+  <td><a href="http://www.thetokyoiter.com/"><img width="125px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
   </tr>
 </table>
 
 
-|**平台**|||
+
+|**平台**：( [关注隐私](https://github.com/ffffffff0x/Digital-Privacy) )|||
 |:---|:---|:---|
-|<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="65"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)|<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)|<img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ" width="50"> [语雀](https://www.yuque.com/) , [服务协议](https://www.yuque.com/terms)
-|<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)|<img src="https://www.podletter.club/assets/images/logos/Hedwig.png" width="30"> [Hedwig](https://hedwig.pub)|<img src="https://www.podletter.club/assets/images/logos/Medium.png" width="30"> [Medium](https://medium.com/)
-|<img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)|<img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)|<img src="https://www.podletter.club/assets/images/logos/Zhubai.png" width="30"> [竹白](https://zhubai.love/)
+|<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="65"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)|<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)|<img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ" width="50"> [语雀](https://www.yuque.com/) , [服务协议](https://www.yuque.com/terms)|
+|<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)|<img src="https://www.podletter.club/assets/images/logos/Hedwig.png" width="30"> [Hedwig](https://hedwig.pub)|<img src="https://www.podletter.club/assets/images/logos/Medium.png" width="30"> [Medium](https://medium.com/)|
+|<img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)|<img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)|<img src="https://www.podletter.club/assets/images/logos/Zhubai.png" width="30"> [竹白](https://zhubai.love/)|
 
 
 
 |Email |RSS|
 |:---|:----|
 |[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|<img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) An awesome Free and Open Source RSS Feed reader|
-|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy Policy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="45"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
+|[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy Policy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="75"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/ecloud/)|[Inoreader](https://www.inoreader.com/)|
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱 [Terms of Service](https://www.tildamail.com/terms-of-service)|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
-|<img src="https://cyberfear.com/img/logo.svg" width="75"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
+|<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
 
 
 
@@ -111,7 +122,7 @@
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 
- <a href="https://devurls.com/"><img width="75" src="https://devurls.com/images/logo-devurls.png"></a> <a href="https://finurls.com/"><img width="75" src="https://finurls.com/images/logo-finurls.png"></a>  <a href="https://mathurls.com/"><img width="75" src="https://mathurls.com/images/logo-mathurls.png"></a>  <a href="https://physurls.com/"><img width="75" src="https://physurls.com/images/logo-physurls.png"></a> <a href="https://sciurls.com/"><img width="75" src="https://sciurls.com/images/logo-sciurls.png"></a>  <a href="https://techurls.com/"><img width="75" src="https://techurls.com/images/logo-techurls.png"></a>  <a href="https://tuxurls.com/"><img width="75" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
+ <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
 
 <table>
   <tr>
@@ -121,18 +132,23 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="11">科技</td>
+    <td rowspan="12">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
+<tr>
+    <td><img width="30" src="https://news.ycombinator.com/y18.gif"> Hacker News </td>
+    <td></td>
+    <td>https://hnrss.github.io/</td>
+</tr>
   <tr>
     <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="10"></td>
     <td></td>
     <td>https://sspai.com/feed</td>
   </tr>
   <tr>
-    <td><img src="https://www.voicer.me/wp-content/themes/voicer4/images/logo@2x.png" width="50"></td>
+    <td><img src="https://www.voicer.me/wp-content/themes/voicer4/images/logo@2x.png" width="75"></td>
     <td></td>
     <td>https://www.voicer.me</td>
   </tr>
@@ -157,7 +173,7 @@
     <td>https://anyway.fm/news/rss.xml</a></td>
   </tr>
   <tr>
-    <td><img src="https://p1.ssl.qhimg.com/t01e88440b10da41210.png" width="25">奇舞周刊</td>
+    <td><img src="https://p1.ssl.qhimg.com/t01e88440b10da41210.png" width="35">奇舞周刊</td>
     <td></td>
     <td>https://weekly.75.team/rss</a></td>
   </tr>
@@ -172,7 +188,7 @@
     <td>https://techtaiwan.com/feed/</td>
   </tr>
   <tr>
-    <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="50"><td>
+    <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="100"><td>
     <td>The Information是一家来自美国旧金山的订阅制科技媒体</td>
     <td></td>
   </tr>
@@ -205,6 +221,8 @@
     <td>https://www.projectveritas.com/</td>
 </tr>    
 </table>
+
+
 
 ![stars](https://starchart.cc/alaskasquirrel/Email-newsletter-RSS.svg)
 
