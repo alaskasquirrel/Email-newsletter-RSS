@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ 期待你的参与 Issues or Fork
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ 期待你的参与 Issues or Fork
 
 **兼听则明，偏信则暗**
 
@@ -19,6 +19,8 @@
 [RSS Source](https://rss-source.com/) 订阅源推荐
 
  [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
+
+[Feeddd](https://github.com/feeddd/feeds) 免费的公众号 RSS，支持扩展任意 app.
 
 [给微信公众号生成RSS](https://wechat.privacyhide.com/)
 
@@ -132,7 +134,7 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="12">科技</td>
+    <td rowspan="13">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
@@ -193,6 +195,11 @@
     <td></td>
   </tr>
   <tr>
+  <td>The Intercept</td>
+  <td></td>
+  <td>https://theintercept.com</td>
+  </tr>
+  <tr>
     <td rowspan="3">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
@@ -221,6 +228,7 @@
     <td>https://www.projectveritas.com/</td>
 </tr>    
 </table>
+
 
 
 
