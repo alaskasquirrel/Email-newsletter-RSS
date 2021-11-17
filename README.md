@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ 期待你的参与 Issues or Fork
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ 期待你的分享 Issues or Fork
 
 **兼听则明，偏信则暗**
 
@@ -28,6 +28,12 @@
 ******
 
 
+
+<a href="https://new.shuge.org/"><img src="https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png" width="75"></a> [书格](https://new.shuge.org/)：每个人都能自由地看到我们的文明。
+
+
+
+
 <table>
   <tr>
   <th><a href="https://theshanghairen.com"> The Shanghairen 沪誌 </a></th>
@@ -51,7 +57,7 @@
 |<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="65"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)|<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)|<img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ" width="50"> [语雀](https://www.yuque.com/) , [服务协议](https://www.yuque.com/terms)|
 |<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)|<img src="https://www.podletter.club/assets/images/logos/Hedwig.png" width="30"> [Hedwig](https://hedwig.pub)|<img src="https://www.podletter.club/assets/images/logos/Medium.png" width="30"> [Medium](https://medium.com/)|
 |<img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)|<img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)|<img src="https://www.podletter.club/assets/images/logos/Zhubai.png" width="30"> [竹白](https://zhubai.love/)|
-
+|[Convertkit](https://convertkit.com/) , [Privacy Policy](https://convertkit.com/privacy)|||
 
 
 |Email |RSS|
@@ -112,6 +118,7 @@
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Hsxg.png"> [海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察。[会员订阅](http://haishangxingguang.mikecrm.com/7INJhZW) |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> [亨利朱週報](https://henrychu.substack.com/p/-no1)| 訂閱電子報，獲得實用的生活、工作技巧！ |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Mb.png"> [曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
+|[商业内观](https://if.zoepi.online/)| [RSS](https://rss.zoepi.online) |
 |[世界走走](https://sehseh.substack.com/)| 一份最具人味的全球時事刊物。我們試圖重新定義國際新聞，分享世界各地的迷人故事，滿足你最根本的好奇心。 |
 |<img width="30" src="https://qiniu.yilifangshuyi.com/5bcaba913455ba6a244bff7dbaa57a69/5bcaba913455ba6a244bff7dbaa57a69"> [水山说](https://zhiy.cc/ssshuos)| 前在行产品负责人 美团/搜狐/九鼎集团高级产品专家 设计/摄影/科技/互联网/营销都有所涉猎 |
 |[苔原通信](https://mailchi,mp/37a061991a71/20210328)|  |
@@ -134,21 +141,37 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="13">科技</td>
+    <td rowspan="17">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
 <tr>
+    <td><img width="50" src="https://pmthinking.com/wp-content/uploads/2020/05/logo.png"></td>
+    <td>关注互联网产品的设计与运营等内容</td>
+    <td>https://pmthinking.com/subscribe</td>
+</tr>
+<tr>
     <td><img width="30" src="https://news.ycombinator.com/y18.gif"> Hacker News </td>
-    <td></td>
+    <td>https://news.ycombinator.com/</td>
     <td>https://hnrss.github.io/</td>
+</tr>
+<tr>
+    <td>hackernewsletter</td>
+    <td>Since 2010,we've put out a weekly newsletter of the best articles on startups,technology,programming,and more.</td>
+    <td>https://hackernewsletter.com/</td>
 </tr>
   <tr>
     <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="10"></td>
     <td></td>
     <td>https://sspai.com/feed</td>
   </tr>
+<tr>
+    <td><img width="60" src="https://www.wired.com/verso/static/wired/assets/logo-header.a7598835a549cb7d5ce024ef0710935927a034f9.svg"></td>
+    <td></td>
+    <td>https://www.wired.com/subscribe/
+        https://www.wired.com/newsletter</td>
+</tr>
   <tr>
     <td><img src="https://www.voicer.me/wp-content/themes/voicer4/images/logo@2x.png" width="75"></td>
     <td></td>
@@ -179,6 +202,11 @@
     <td></td>
     <td>https://weekly.75.team/rss</a></td>
   </tr>
+<tr>
+    <td>酷壳-CoolShell <img width="35" src="https://coolshell.cn/wp-content/uploads/2011/03/me-293x300.jpg"> 陈皓</td>
+    <td>享受编程和技术所带来的快乐——Coding Your Ambition</td>
+    <td>https://coolshell.cn/feed</td>
+</tr>
   <tr>
     <td><img src="https://wanqu.co/static/images/wanqu/round-logo.png" width="25">湾区日报</td>
     <td>关注创业与技术，每天推送3到5篇优质英文文章</td>
@@ -216,18 +244,80 @@
     <td>https://cprss.s3.amazonaws.com/rubyweekly,com.xml</td>
   </tr>
 <tr>
-    <td rowspan="3">海外</td>
+    <td rowspan="4">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
-    <td>https://balkaninsight.com/feed/;
+    <td>https://balkaninsight.com/feed/
         https://balkaninsight.com/newsletters</td>
 </tr>
 <tr>
     <td> Project Veritas </td>
     <td></td>
     <td>https://www.projectveritas.com/</td>
-</tr>    
+</tr>
+    <td><img width="35" src="https://www.sipri.org/sites/default/files/logo.svg">Stockholm International Peace Research Institute</td>
+    <td>The independent resource on global security</td>
+    <td>https://www.sipri.org/</td>
+<tr>
+    <td>Nuclear Newswire  |  American Nuclear Society</td>
+    <td></td>
+    <td>https://www.ans.org/news/</td>
+</tr>
+<tr>
+</tr>
+<tr>
+    <td rowspan="8">军事</td>
+    <td>Alert 5：Military Aviation News</td>
+    <td>Bringing you military aviation news from around the world. Mostly updated daily.</td>
+    <td>http://alert5.com/</td>
+</tr>
+<tr>
+    <td>Arms Control Wonk – an arms control blog network</td>
+    <td>Founded in 2004 by Jeffrey Lewis, Arms Control Wonk was the first blog on arms control, disarmament and nonproliferation. It has since been a home to everything that is "too wonky or obscene" for publication about nuclear weapons. The site now features thirty-plus contributors with an archive of over three thousand articles.</td>
+    <td>https://www.armscontrolwonk.com/subscribe/</td>
+</tr>
+<tr>
+    <td>UK Defence Journal</td>
+    <td></td>
+    <td>https://ukdefencejournal.org.uk/</td>
+</tr>
+<tr>
+    <td>Navy Lookout</td>
+    <td></td>
+    <td>https://www.navylookout.com/</td>
+</tr>
+<tr>
+    <td><img width="30" src="https://u0v052dm9wl3gxo0y3lx0u44wz-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/LOGO1-1.jpg">Think Defence</td>
+    <td>UK defence and security; analysis, reference content, opinions and resources.</td>
+    <td>https://www.thinkdefence.co.uk/</td>
+</tr>
+<tr>
+    <td>Defense News</td>
+    <td>Founded in 1986, Defense News is the authoritative, independent, professional news source for the world’s defense decision-makers.</td>
+    <td>https://www.defensenews.com/</td>
+</tr>
+<tr>
+    <td>The War Zone | The Drive</td>
+    <td>A strong offense for the world of defense.</td>
+    <td>https://www.thedrive.com/the-war-zone</td>
+</tr>
+<tr>
+    <td><img width="75" src="https://www.f-16.net/images/header/F-16.net/10.jpg">F-16.net - The ultimate F-16, F-22, F-35 reference</td>
+    <td></td>
+    <td>https://www.f-16.net/</td>
+</tr>
+<tr>
+    <td rowspan="10">Space</td>
+    <td>深空探测学报(中英文）</td>
+    <td></td>
+    <td>http://jdse.bit.edu.cn/sktcxb/</td>
+</tr>
 </table>
+
+
+
+
+
 
 
 
