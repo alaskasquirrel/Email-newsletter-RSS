@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
 
 感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 期待你的分享 Issues or Fork
 
@@ -69,8 +69,8 @@
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/ecloud/)|[Inoreader](https://www.inoreader.com/)|
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱 [Terms of Service](https://www.tildamail.com/terms-of-service)|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
-|<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)|
-|[Firefox Relay](https://relay.firefox.com/) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。|
+|<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
+|[Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。||
 
 
 
@@ -180,7 +180,7 @@
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
 <tr>
-    <td><img width="50" src="https://pmthinking.com/wp-content/uploads/2020/05/logo.png"></td>
+    <td><img width="100" src="https://pmthinking.com/wp-content/uploads/2020/05/logo.png"></td>
     <td>关注互联网产品的设计与运营等内容</td>
     <td>https://pmthinking.com/subscribe</td>
 </tr>
@@ -271,7 +271,7 @@
     <td>https://techtaiwan.com/feed/</td>
   </tr>
   <tr>
-      <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="100"></td>
+      <td><img src="https://www.theinformation.com/assets/the-information-logo-df91ff4c4e75eb3654f741eabe34f3d4d28d4418f7da78991493134900c599c7.svg" width="125"></td>
     <td>一家来自美国旧金山的订阅制科技媒体</td>
     <td>https://www.theinformation.com/</td>
   </tr>
@@ -340,7 +340,7 @@
     <td>https://www.navylookout.com/</td>
 </tr>
 <tr>
-    <td><img width="30" src="https://u0v052dm9wl3gxo0y3lx0u44wz-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/LOGO1-1.jpg">Think Defence</td>
+    <td><img width="50" src="https://u0v052dm9wl3gxo0y3lx0u44wz-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/LOGO1-1.jpg">Think Defence</td>
     <td>UK defence and security; analysis, reference content, opinions and resources.</td>
     <td>https://www.thinkdefence.co.uk/</td>
 </tr>
@@ -355,7 +355,7 @@
     <td>https://www.thedrive.com/the-war-zone</td>
 </tr>
 <tr>
-    <td><img width="75" src="https://www.f-16.net/images/header/F-16.net/10.jpg">F-16.net - The ultimate F-16, F-22, F-35 reference</td>
+    <td><img width="100" src="https://www.f-16.net/images/header/F-16.net/10.jpg">F-16.net - The ultimate F-16, F-22, F-35 reference</td>
     <td></td>
     <td>https://www.f-16.net/</td>
 </tr>
@@ -366,7 +366,7 @@
     <td>http://jdse.bit.edu.cn/sktcxb/</td>
 </tr>
 <tr>
-    <td><img width="100" src="http://www.spacesafetymagazine.com/wp-content/uploads/2013/07/Banner-SSM-960x90-1.jpg"></td>
+    <td><img width="200" src="http://www.spacesafetymagazine.com/wp-content/uploads/2013/07/Banner-SSM-960x90-1.jpg"></td>
     <td>Space Safety Magazine</td>
     <td>https://www.spacesafetymagazine.com/</td>
 </tr>
@@ -386,11 +386,12 @@
     <td>https://www.spaceflightfans.cn/</td>
 </tr>
 <tr>
-    <td><img width="35" src="https://www.sdss.org/wp-content/uploads/2014/05/sdsslogowhite.png">The Sloan Digital Sky Survey</td>
+    <td><img width="75" src="https://www.sdss.org/wp-content/uploads/2014/05/sdsslogowhite.png">The Sloan Digital Sky Survey</td>
     <td>Mapping the Universe</td>
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
