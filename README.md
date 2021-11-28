@@ -10,7 +10,7 @@
 
 方可成： [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 
-[小叉的梦呓](https://chasays.hedwig.pub/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
+[小叉的梦呓](https://chasays.zhubai.love/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
 
 [PodLetter 播客简报导航](https://www.podletter.club/)
 
