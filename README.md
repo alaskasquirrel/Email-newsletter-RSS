@@ -88,7 +88,7 @@
 | <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30"> [Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
 |<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表。 |
 |[Faust Media](https://faust.substack.com/)| Fabric 主要是以每周资讯汇总以及资讯简评为主。软件体验、科技事件、互联网新闻报道，优质内容推荐，是这个专栏未来的重心。 |
-|<img width="30" src="https://qiniu.zhiy.cc/72df0e169369f4baa5546c6593dfe699/72df0e169369f4baa5546c6593dfe699"> [Futurow 未来派](https://zhiy.cc/futurow)| 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。 |
+|<img width="30" src="https://qiniu.zhiy.cc/72df0e169369f4baa5546c6593dfe699/72df0e169369f4baa5546c6593dfe699"> [Futurow 未来派](https://futurow.zhubai.love/)| 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。 |
 |[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式。|
 |[结绳志 Tying Knots](https://tyingknots.net/)|这是一个致力于介绍人类学观点、方法与行动的平台。|
 |<img width="35" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibeXhqe87IYicsHXSc78NryDDgfco2GkSXR8doVvxOyfdMQiaS1YCicMiaUY9IK0U1TsbMibfpiaqHbL07oFHAWYSExUg/640"> [Louiscard' Blog](https://louiscard.com/category/newsletter/) 吕江涛|Develop a personal productivity system as a product|
