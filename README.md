@@ -108,7 +108,7 @@
 |<img src="https://qiniu.yilifangshuyi.com/6ea6cc48bebbf5f2e145276512ca5049/6ea6cc48bebbf5f2e145276512ca5049" width="30"> [白宇极](https://zhiy.cc/baiyuji)| 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
 |[生活奇旅](https://newsletter.weichen.blog)| 探寻如何更好地生活。 |
-|[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗。 |
+|[自说自话](https://landisland.zhubai.love/)| 没有记录就没有发生，而记录本身已经是一种反抗。 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息。 |
 |<img src="https://verbo2009.github.io/images/avatar.png?v=1630666480471" width="30"> [刻意周刊](https://wenboblog.com/)| 科技/互联网/商业/创业/投资等相关优质内容，每周一期，周五或周六更新，更多内容请访问：[Superdaily](https://www.superdaily.cn/) |
 |<img src="https://buttondown.s3.amazonaws.com/icons/1d272fcb-2021-470e-af25-ecd15566e0ff.png" width="25"> [Nothing Here](https://buttondown.email/nothing)| At Nothing Here, we scour the internet so you don’t have to, and serve up a selection of interesting articles on culture, politics, ecology, climate change, the end of the world, and all that good shit. We’ll also let you know what books, films, TV, and music we’ve been enjoying, because, hell, sometimes you need something to distract from the endless parade of atrocities that is the 21st Century. [full archives ](https://buttondown.email/nothing/archive/) |
