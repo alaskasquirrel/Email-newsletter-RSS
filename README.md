@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
 
 感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 期待你的分享 Issues or Fork
 
@@ -71,7 +71,7 @@
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱 [Terms of Service](https://www.tildamail.com/terms-of-service)|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
 |<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
 |<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)||
-|<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="35"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)||
+|<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)||
 
 
 
@@ -307,7 +307,7 @@
         https://balkaninsight.com/newsletters</td>
 </tr>
 <tr>
-    <td><img width="50" src="http://seekvectorlogo.com/wp-content/uploads/2018/09/quanta-magazine-vector-logo.png"></td>
+    <td><img width="150" src="http://seekvectorlogo.com/wp-content/uploads/2018/09/quanta-magazine-vector-logo.png"></td>
     <td></td>
     <td>https://api.quantamagazine.org/feed/</td>
 </tr>
@@ -404,6 +404,8 @@
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
+
 
 
 
