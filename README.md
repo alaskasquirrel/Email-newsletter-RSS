@@ -22,7 +22,7 @@
 
  [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 
-[Feeddd](https://github.com/feeddd/feeds) 免费的公众号 RSS，支持扩展任意 app.
+[Feeddd](https://feeddd.org/) 免费的公众号 RSS，支持扩展任意 app.
 
 [给微信公众号生成RSS](https://wechat.privacyhide.com/)
 
