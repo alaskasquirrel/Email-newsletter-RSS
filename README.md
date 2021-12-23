@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
 
 感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 期待你的分享 Issues or Fork
 
@@ -22,7 +22,7 @@
 
  [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
 
-[Feeddd](https://feeddd.org/) 免费的公众号 RSS，支持扩展任意 app.
+[Feeddd](https://github.com/feeddd/feeds) 免费的公众号 RSS，支持扩展任意 app.
 
 [给微信公众号生成RSS](https://wechat.privacyhide.com/)
 
@@ -72,6 +72,10 @@
 |<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
 |<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)||
 |<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)||
+
+
+
+ [arXiv.org e-Print archive](https://arxiv.org/)
 
 
 
@@ -177,11 +181,16 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="21">科技</td>
+    <td rowspan="22">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
+<tr>
+    <td>HelloGitHub</td>
+    <td>分享GitHub上有趣、入门级的开源项目</td>
+    <td>https://hellogithub.com/</td>
+</tr>
 <tr>
     <td><img width="111" src="https://pmthinking.com/wp-content/uploads/2020/05/logo.png"></td>
     <td>关注互联网产品的设计与运营等内容</td>
@@ -284,11 +293,16 @@
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="3">Weekly</td>
+    <td rowspan="4">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
   </tr>
+<tr>
+    <td>This Week In React</td>
+    <td>For React Devs</td>
+    <td>https://www.getrevue.co/profile/thisweekinreact/</td>
+</tr>
   <tr>   
     <td>PyCoder's Weekly</td>  
     <td>A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the community</td>
@@ -404,6 +418,7 @@
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
