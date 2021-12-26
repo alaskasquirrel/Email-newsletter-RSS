@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
 
 感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 期待你的分享 Issues or Fork
 
@@ -72,6 +72,7 @@
 |<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
 |<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)||
 |<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)||
+|<img width="35" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/ic_launcher-web.png"> [FairEmail](https://github.com/M66B/FairEmail) Fully featured, open source, privacy friendly email app for Android [Privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail)||
 
 
 
@@ -293,7 +294,7 @@
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="4">Weekly</td>
+    <td rowspan="5">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
@@ -308,6 +309,11 @@
     <td>A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the community</td>
       <td>https://pycoders.com/feed/jDwUnvy8</td>
   </tr>
+<tr>
+    <td>老司机 iOS 周报</td>
+    <td><img width="50" src="https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/ios-weekly.png"></td>
+    <td>https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom</td>
+</tr>
   <tr>
     <td>Ruby Weekly</td>
     <td>A free, once–weekly e-mail round-up of Ruby news and articles.</td>
@@ -328,7 +334,7 @@
 <tr>
     <td><img widt="40" src="https://image4.sixthtone.com/images/logo-black-noodletimes.png"> 澎湃新闻</td>
     <td>Fresh voices from today's China</td>
-    <td>https://www.sixthtone.com/</td>
+    <td>https://www.sixthtone.com/rss</td>
 </tr>
 <tr>
     <td> Project Veritas </td>
@@ -418,6 +424,8 @@
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
+
 
 
 
