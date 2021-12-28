@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
 
 感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 期待你的分享 Issues or Fork
 
@@ -82,6 +82,7 @@
 
 |邮箱 newsletter 订阅|简介|
 |:---|:---|
+|<img width="35" src="https://read.deeplearning.ai/the-batch/_next/image?url=%2Fthe-batch%2Fstatic%2Fimages%2Fbrandimages%2Fthebatchlogo.png"> The Batch: Weekly AI news for engineers, executives, and enthusiasts.|https://read.deeplearning.ai/the-batch/|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。|
 |[Λ-Reading]()|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecc1474-39f8-4a6b-a014-d4c3354f8a72_334x334.png" width="30"> 包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
 |[A Learning a Day](https://alearningaday.blog)| <img src="https://alearningadayblog.files.wordpress.com/2017/07/alearingadaylogov6.png" width="30"> |
@@ -182,7 +183,7 @@
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="22">科技</td>
+    <td rowspan="23">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
@@ -191,6 +192,11 @@
     <td>HelloGitHub</td>
     <td>分享GitHub上有趣、入门级的开源项目</td>
     <td>https://hellogithub.com/</td>
+</tr>
+<tr>
+    <td>Lobsters</td>
+    <td>Lobsters is a computing-focused community centered around link aggregation and discussion, launched on July 3rd, 2012. </td>
+    <td>https://lobste.rs/</td>
 </tr>
 <tr>
     <td><img width="111" src="https://pmthinking.com/wp-content/uploads/2020/05/logo.png"></td>
@@ -424,6 +430,7 @@
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
