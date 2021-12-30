@@ -1,6 +1,12 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：下述讯息源皆来自网络分享，同我本人无任何利害关系，其作者拥有对内容表达的最终解释权，本人在此未添加对下述讯息源内容的任何看法及观点立场。严肃尊重文字创作的所有权归属ⓒ
+﻿﻿免责声明：
 
-感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！ 期待你的分享 Issues or Fork
+1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
+2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
+3. `未收及不会收取任何广告费用,推荐的所有工具链接与本人无任何利害关系`
+
+
+
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！期待你的参与 Issues or Fork  订阅🎧 [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)了解更多讯息!
 
 **兼听则明，偏信则暗**
 
@@ -56,7 +62,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 
 
-|**平台**：( [关注隐私](https://github.com/ffffffff0x/Digital-Privacy) )|||
+|**平台**：( [关注隐私](https://github.com/alaskasquirrel/Privacy) )|||
 |:---|:---|:---|
 |<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="65"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)|<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)|<img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ" width="50"> [语雀](https://www.yuque.com/) , [服务协议](https://www.yuque.com/terms)|
 |<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)|<img src="https://www.podletter.club/assets/images/logos/Hedwig.png" width="30"> [Hedwig](https://hedwig.pub)|<img src="https://www.podletter.club/assets/images/logos/Medium.png" width="30"> [Medium](https://medium.com/)|
@@ -329,7 +335,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://cprss.s3.amazonaws.com/rubyweekly,com.xml</td>
   </tr>
 <tr>
-    <td rowspan="7">海外</td>
+    <td rowspan="8">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/
@@ -339,6 +345,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td><img width="150" src="http://seekvectorlogo.com/wp-content/uploads/2018/09/quanta-magazine-vector-logo.png"></td>
     <td></td>
     <td>https://api.quantamagazine.org/feed/</td>
+</tr>
+<tr>
+    <td>South China Morning Post 南华早报</td>
+    <td>HK, China, Asia news & opinion from SCMP’s global edition</td>
+    <td>https://www.scmp.com/</td>
 </tr>
 <tr>
     <td><img widt="40" src="https://image4.sixthtone.com/images/logo-black-noodletimes.png"> 澎湃新闻</td>
@@ -438,6 +449,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
