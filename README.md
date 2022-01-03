@@ -1,4 +1,4 @@
-﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -11,6 +11,8 @@
 **兼听则明，偏信则暗**
 
 ******
+
+[小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）你还记得《好奇心日报》嘛？
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -183,6 +185,12 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
 
  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
+
+
+
+<img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)
+
+
 
 <table>
   <tr>
