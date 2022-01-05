@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -79,10 +79,14 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/ecloud/)|[Inoreader](https://www.inoreader.com/)|
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱 [Terms of Service](https://www.tildamail.com/terms-of-service)|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
-|<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)||
+|<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)|[蚁阅](https://rss.anyant.com/) - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯|
 |<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)||
 |<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)||
 |<img width="35" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/ic_launcher-web.png"> [FairEmail](https://github.com/M66B/FairEmail) Fully featured, open source, privacy friendly email app for Android [Privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail)||
+
+
+
+刘家财： [使用 Emacs 阅读邮件与 RSS](https://liujiacai.net/blog/2021/03/05/emacs-love-mail-feed/)
 
 
 
@@ -317,7 +321,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="5">Weekly</td>
+    <td rowspan="7">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
@@ -337,11 +341,21 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td><img width="50" src="https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/ios-weekly.png"></td>
     <td>https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom</td>
 </tr>
+<tr>
+    <td>Web Design Weekly</td>
+    <td>Be the first to know about the latest Web Design and Front-end trends. Sign up for our weekly newsletter and get the freshest news, tools and tutorials… for free.</td>
+    <td>https://web-design-weekly.com/</td>
+</tr>
   <tr>
     <td>Ruby Weekly</td>
     <td>A free, once–weekly e-mail round-up of Ruby news and articles.</td>
     <td>https://cprss.s3.amazonaws.com/rubyweekly,com.xml</td>
   </tr>
+<tr>
+    <td>Node Weekly</td>
+    <td>A free, once–weekly e-mail round-up of Node.js news and articles.</td>
+    <td>https://nodeweekly.com/</td>
+</tr>
 <tr>
     <td rowspan="9">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
@@ -462,6 +476,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
