@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -45,11 +45,10 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 
 
-
 <table>
   <tr>
   <th><a href="https://theshanghairen.com"> The Shanghairen 沪誌 </a></th>
-  <th><a href=""> THE FOOCHOWKA 福州客  </a></th>
+  <th><a href=""> THE FOOCHOWKA 福州客 (微信公众号：光与尘文创咖啡) </a></th>
   <th><a href="https://www.thenowyorker.com/"> The Now Yorker 纽约客 </a></th>
   <th><a href="http://www.theparisianer.eu/"> The Parisianer 巴黎人 </a></th>
   <th><a href="http://www.thetokyoiter.com/"> The Tokyoiter 东京人 </a></th>
@@ -61,6 +60,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
   <td><a href="http://www.thetokyoiter.com/"><img width="125px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
   </tr>
 </table>
+
 
 
 
@@ -112,6 +112,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="30" src="https://qiniu.zhiy.cc/72df0e169369f4baa5546c6593dfe699/72df0e169369f4baa5546c6593dfe699"> [Futurow 未来派](https://zhiy.cc/futurow)| 爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么。 |
 |<img width="35" src="https://imgs.zhubai.love/1401319854d844dd8054e4a48a8c692b.jpg"> [GeekPlux](https://geekplux.zhubai.love/)| 技术、金融、设计、区块链、跑步徒步，把有限的生命浪费在无限的浅尝辄止上，Always Exploring。随想随感，每周一更。 |
 |[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式。|
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/242/766/thumb/px2048_copy.jpg"> [HardWayLab](http://newsletter.hardwaylab.com/)|笨方法实践精要，给你提供一份无限检查清单，鼓励你去做成难事。|
 |[结绳志 Tying Knots](https://tyingknots.net/)|这是一个致力于介绍人类学观点、方法与行动的平台。|
 |<img width="35" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibeXhqe87IYicsHXSc78NryDDgfco2GkSXR8doVvxOyfdMQiaS1YCicMiaUY9IK0U1TsbMibfpiaqHbL07oFHAWYSExUg/640"> [Louiscard' Blog](https://louiscard.com/category/newsletter/) 吕江涛|Develop a personal productivity system as a product|
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)|由 Issei 制作的月刊，介绍从自己的视角看到的世界，以及关于设计、艺术和文化的推荐信息。|
@@ -149,6 +150,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[独来读趣](https://molly.hedwig.pub/)|read to the infinity and beyond|
 |[端传媒新闻通讯](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)| 內容包括端传媒每日全部内容，从深度文章到早晚报、端圆桌，以邮件形式整合全文，文章以PDF档案提供。 |
 |[反向连接 Backward Dots](https://backwarddots.hedwig.pub/)| You only connect dots by looking backward. |
+|<img width="35" src="https://qiniu.zhiy.cc/ba64d8dbdd3090f73f1baecd9d50a9a9/ba64d8dbdd3090f73f1baecd9d50a9a9"> [加美财经-深度](https://zhiy.cc/causmoney)| 每周推送海外优秀的深度和特写报道编译，涉及财富、商业、投资和时事等各个方面，不用走出国门，不用精通外语，就可以领略到最优秀的内容风采，拓展视野的最有效工具。[会员](https://www.caus.money/) |
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |[科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
@@ -162,9 +164,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> [亨利朱週報](https://henrychu.substack.com/p/-no1)| 訂閱電子報，獲得實用的生活、工作技巧！ |
 |[光明王](https://lordoflight.substack.com/)| 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Mb.png"> [曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
-|<img width="35" src="https://qiniu.zhiy.cc/1ed6deaaa522dee8f8487f1aa9acefec/1ed6deaaa522dee8f8487f1aa9acefec"> [逆流Upstream](https://zhiy.cc/upstream)| 中文流媒体与创作者经济的深度观察。 |
+|<img width="35" src="https://qiniu.zhiy.cc/1ed6deaaa522dee8f8487f1aa9acefec/1ed6deaaa522dee8f8487f1aa9acefec"> [逆流Upstream](https://zhiy.cc/upstream)| 流媒体与创作者经济的深度观察。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/283/200/thumb/QQ%E5%9B%BE%E7%89%8720210702102835.jpg"> [其思秒想](https://www.getrevue.co/profile/yolo365)| 记录过去一周间，看到的让我有所触动和有趣的内容信息，以及体验发现的书/影/好物。 |
-|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/260/004/thumb/vanilla-appstore.png"> [ 轻芒封面](https://www.getrevue.co/profile/qingmang) 停刊| 每周一到周五，和轻芒一起深度阅读。[PDF存档](https://wj.qq.com/s2/9116430/80fa/) |
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/260/004/thumb/vanilla-appstore.png"> [ 轻芒封面](https://www.getrevue.co/profile/qingmang) 停刊 & [阅览室](https://read.land/)| 每周一到周五，和轻芒一起深度阅读。[PDF存档](https://wj.qq.com/s2/9116430/80fa/) |
 |[商业内观](https://if.zoepi.online/)| [RSS](https://rss.zoepi.online) |
 |<img width="35" src="https://zhiy.cc/default.png"> [社群成长札记](https://zhiy.cc/communitynote)| 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片，纪念这段“跑江湖”的旅程，也作为第一手实践资料，供大家学习。以后合起来也许就是一本书了~ |
 |[声波微步](https://voiceshare.hedwig.pub/)| 有关泛社会议题的观察、解读和生活方式分享。 |
@@ -192,7 +194,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 
 
-<img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)
+<img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)  ｜ [Awesome Tech Conferences](https://curatedtalks.com/)
 
 
 
@@ -204,7 +206,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="23">科技</td>
+    <td rowspan="24">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
@@ -244,6 +246,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>Since 2010,we've put out a weekly newsletter of the best articles on startups,technology,programming,and more.</td>
     <td>https://hackernewsletter.com/</td>
 </tr>
+<tr>
+    <td><img width="35" src="https://sirupsen.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnapkin-header.eef8fdaf.png">Napkin Math</td>
+    <td>A newsletter about using napkin math and first-principle thinking to estimate systems performance — fast, and without writing any code!</td>
+    <td>https://sirupsen.com/napkin</td>
+</tr>
   <tr>
     <td><img src="https://cdn.sspai.com/attachment/origin/2017/08/08/LOGO-Final.png" widht="10"></td>
     <td></td>
@@ -266,9 +273,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://the-offline.com/</td>
 </tr>
   <tr>
-  <td>小鸟文学app</td>
-  <td></td>
-  <td>http://aves.art</td>
+  <td><img width="65" src="https://geeker-cdn.devhub.top/static/images/logo-home-v2.png"></td>
+  <td>极客阅读</td>
+  <td>https://jikeyuedu.cn/)</td>
   </tr>
   <tr>
   <td>《Design360》杂志</td>
@@ -321,7 +328,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="7">Weekly</td>
+    <td rowspan="9">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
@@ -336,6 +343,16 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>A free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the community</td>
       <td>https://pycoders.com/feed/jDwUnvy8</td>
   </tr>
+<tr>
+    <td><img width="30" src="https://weekly.pychina.org/theme/logo.png"></td>
+    <td>蟒周刊</td>
+    <td>https://weekly.pychina.org/</td>
+</tr>
+<tr>
+    <td>Web 技术周刊</td>
+    <td>汇总平时看到的优秀文章，前端为主，兼含其它技术及少量产品、设计、管理内容。</td>
+    <td>https://www.yuque.com/awesome/fe_weekly</td>
+</tr>
 <tr>
     <td>老司机 iOS 周报</td>
     <td><img width="50" src="https://github.com/SwiftOldDriver/iOS-Weekly/raw/master/assets/ios-weekly.png"></td>
@@ -477,6 +494,15 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 </tr>
 </table>
 
+
+
+
+|微博·互联网||
+|:---|:---|
+|GitHubDaily [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/5722964389)||
+|爱可可-爱生活  [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1402400261)||
+|网路冷眼  [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1715118170)||
+|算法时空[ ![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/5819320755)||
 
 
 
