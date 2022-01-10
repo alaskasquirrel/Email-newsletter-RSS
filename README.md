@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -366,7 +366,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
   <tr>
     <td>Ruby Weekly</td>
     <td>A free, once–weekly e-mail round-up of Ruby news and articles.</td>
-    <td>https://cprss.s3.amazonaws.com/rubyweekly,com.xml</td>
+    <td>https://rubyweekly.com/</td>
   </tr>
 <tr>
     <td>Node Weekly</td>
@@ -493,6 +493,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
