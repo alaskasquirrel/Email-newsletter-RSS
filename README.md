@@ -155,6 +155,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |[科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[刻意体会](https://kyth.hedwig.pub/)| 即刻团队产品负责人kyth的newsletter。 |
+|[赫赫文王通訊](https://papyrus.so/@kqh) |《我來幫你刷微博》|
 |<img width="35" src="https://cdn.nlark.com/yuque/0/2020/png/1429145/1606879318661-avatar/e7c2e21b-c440-48c0-9c7a-53061bbf412e.png"> [类地行星](https://www.yuque.com/aiyouzhanglei/ldxx)| 会有一个世界，和地球有一点像，也有一点不像 |
 |<img width="35" src="https://qiniu.zhiy.cc/b1d71ac47a345d21e33c0675e651c5fd/b1d71ac47a345d21e33c0675e651c5fd"> [李雪含](https://zhiy.cc/lixuehan)| 万物之中希望最美，万物之中确定性最贵。 |
 |[了概（已休刊）](https://liaoguy.com/)| 一个主打用图文帮助读者在5分钟内快速了解当前世界范围内所发生的重要事件的付费订阅制媒体，涉及的主题包括国际关系、政治、经济、科技等。 |
