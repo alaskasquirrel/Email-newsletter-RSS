@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -153,9 +153,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://qiniu.zhiy.cc/ba64d8dbdd3090f73f1baecd9d50a9a9/ba64d8dbdd3090f73f1baecd9d50a9a9"> [加美财经-深度](https://zhiy.cc/causmoney)| 每周推送海外优秀的深度和特写报道编译，涉及财富、商业、投资和时事等各个方面，不用走出国门，不用精通外语，就可以领略到最优秀的内容风采，拓展视野的最有效工具。[会员](https://www.caus.money/) |
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
-|[科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
+|<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[刻意体会](https://kyth.hedwig.pub/)| 即刻团队产品负责人kyth的newsletter。 |
-|<img width="35" src="https://papyrus.so/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fpapyrus_images%2F6bd46d676ad85ae5e4d7a6e4d2506b6a&w=48&q=75">[赫赫文王通訊](https://papyrus.so/@kqh) |《我來幫你刷微博》|
 |<img width="35" src="https://cdn.nlark.com/yuque/0/2020/png/1429145/1606879318661-avatar/e7c2e21b-c440-48c0-9c7a-53061bbf412e.png"> [类地行星](https://www.yuque.com/aiyouzhanglei/ldxx)| 会有一个世界，和地球有一点像，也有一点不像 |
 |<img width="35" src="https://qiniu.zhiy.cc/b1d71ac47a345d21e33c0675e651c5fd/b1d71ac47a345d21e33c0675e651c5fd"> [李雪含](https://zhiy.cc/lixuehan)| 万物之中希望最美，万物之中确定性最贵。 |
 |[了概（已休刊）](https://liaoguy.com/)| 一个主打用图文帮助读者在5分钟内快速了解当前世界范围内所发生的重要事件的付费订阅制媒体，涉及的主题包括国际关系、政治、经济、科技等。 |
@@ -195,7 +194,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 
 
-<img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)  ｜ [Awesome Tech Conferences](https://curatedtalks.com/)
+<img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)  ｜｜ [Awesome Tech Conferences](https://curatedtalks.com/)
 
 
 
@@ -207,11 +206,16 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="24">科技</td>
+    <td rowspan="25">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
   </tr>
+<tr>
+    <td>每日时报</td>
+    <td>以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。</td>
+    <td>https://wubaiqing.github.io/zaobao/other/latest.html</td>
+</tr>
 <tr>
     <td>HelloGitHub</td>
     <td>分享GitHub上有趣、入门级的开源项目</td>
@@ -375,7 +379,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://nodeweekly.com/</td>
 </tr>
 <tr>
-    <td rowspan="9">海外</td>
+    <td rowspan="10">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/
@@ -395,6 +399,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td><img widt="40" src="https://image4.sixthtone.com/images/logo-black-noodletimes.png"> 澎湃新闻</td>
     <td>Fresh voices from today's China</td>
     <td>https://www.sixthtone.com/rss</td>
+</tr>
+<tr>
+    <td>敏迪選讀</td>
+    <td></td>
+    <td>https://www.mindiworldnews.com/</td>
 </tr>
 <tr>
     <td>Five Books</td>
@@ -494,6 +503,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
+
 
 
 
