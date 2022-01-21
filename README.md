@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -177,6 +177,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://qiniu.zhiy.cc/468c25ad923b9d810102949d087b39c2/468c25ad923b9d810102949d087b39c2"> [孙浩闻](https://zhiy.cc/hwiyh)| 在做互联网项目的大学生，将以我的视角分享对生活、读书、互联网的思考，和优质内容的推荐。是完全不考虑流量而写的真心话，分享我认为有价值的内容。 |
 |[苔原通信](https://mailchi,mp/37a061991a71/20210328)| 不定期群发的情书，每月不会少于一期。 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6decee3b-7769-406c-aa0a-089365d411c1_400x400.png" width="30"> [透明盒子计划](https://clearbox.substack.com/)| 作者受Zettelkästen卡片盒学习方法启发，产生笔记，整理成文，讲述关于学习、认知、思维的相关的科学理论及训练方法。 |
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/046/307/thumb/lV9-F5ey_400x400.jpg"> [图拉鼎的产品通讯](https://news.imtx.me/)| 分享我的产品动态、开发故事和其他我觉得值得分享的不限于技术圈的东西。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/ThePodcastPick.png"> [推播助栏The Podcast Pick - by Enzo Chen](https://enzochen.substack.com/)| 由撰稿人陈恒一创办的一份关于中文Podcast的免费Newsletter，形式分为文章和播客两种，前者涵盖中文Podcast节目推荐、Podcast新闻梳理和评论、Podcast创作者访谈，后者主要分享个人感想。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Wlx.jpg"> [王龙行](https://zhiy.cc/long)| 分享我写的关于创业、产品的笔记，包括我的碎片化思考、工作笔记、优质内容推荐等。 |
 |[维舟](https://weizhou.substack.com/)| 书评人、作家维舟的公众号备份。 |
@@ -192,7 +193,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
 
-
+MacroMarketsDaily Newsletter 
 
 <img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)  ｜[Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com/)｜ [Awesome Tech Conferences](https://curatedtalks.com/)
 
