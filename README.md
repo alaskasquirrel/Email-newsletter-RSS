@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -13,6 +13,8 @@
 ******
 
 [小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）你还记得《好奇心日报》嘛？
+
+[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 👍
 
 [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
 
@@ -41,7 +43,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 
 
-<a href="https://new.shuge.org/"><img src="https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png" width="75"></a> [书格](https://new.shuge.org/)：每个人都能自由地看到我们的文明。
+<a href="https://new.shuge.org/"><img src="https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png" width="75"></a> [书格](https://new.shuge.org/)：每个人都能自由地看到我们的文明。🔥
 
 
 
@@ -74,19 +76,19 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 |Email |RSS|
 |:---|:----|
-|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|<img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) An awesome Free and Open Source RSS Feed reader|
+|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|<img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) An awesome Free and Open Source RSS Feed reader ❤️|
 |[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy Policy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="75"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/ecloud/)|[Inoreader](https://www.inoreader.com/)|
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
 |<img src="https://www.tildamail.com/9ac94b6fc2065b04e6069a165e9f7fdb.svg" width="30"> [Tildamail](https://www.tildamail.com/sign-up) 去中心化邮箱 [Terms of Service](https://www.tildamail.com/terms-of-service)|<img src="https://netnewswire.com/images/nnw_icon_256.png" width="35"> [NetNewsWire](https://netnewswire.com/) is a free and open source RSS reader for Mac, iPhone, and iPad. [Privacy Policy](https://netnewswire.com/privacypolicy)|
 |<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)|[蚁阅](https://rss.anyant.com/) - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯|
-|<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)||
+|<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)|[the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|
 |<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)||
 |<img width="35" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/ic_launcher-web.png"> [FairEmail](https://github.com/M66B/FairEmail) Fully featured, open source, privacy friendly email app for Android [Privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail)||
 
 
 
-刘家财： [使用 Emacs 阅读邮件与 RSS](https://liujiacai.net/blog/2021/03/05/emacs-love-mail-feed/)
+刘家财：<img width="35" src="https://www.gnu.org/software/emacs/images/emacs.png"> [使用 Emacs 阅读邮件与 RSS](https://liujiacai.net/blog/2021/03/05/emacs-love-mail-feed/)
 
 
 
@@ -193,7 +195,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
 
-MacroMarketsDaily Newsletter 
+[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)  
 
 <img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)  ｜[Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com/)｜ [Awesome Tech Conferences](https://curatedtalks.com/)
 
@@ -334,7 +336,7 @@ MacroMarketsDaily Newsletter
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="9">Weekly</td>
+    <td rowspan="12">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
@@ -343,6 +345,12 @@ MacroMarketsDaily Newsletter
     <td>This Week In React</td>
     <td>For React Devs</td>
     <td>https://www.getrevue.co/profile/thisweekinreact/</td>
+</tr>
+<tr>
+    <td><img width="35" src="https://react.statuscode.com/images/reactkeith.png">React Status</td>
+    <td>A weekly roundup of the latest React and React Native links and tutorials.
+</td>
+    <td>https://react.statuscode.com/</td>
 </tr>
   <tr>   
     <td>PyCoder's Weekly</td>  
@@ -365,6 +373,11 @@ MacroMarketsDaily Newsletter
     <td>https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom</td>
 </tr>
 <tr>
+    <td>Go语言爱好者周刊</td>
+    <td></td>
+    <td>https://studygolang.com/go/weekly</td>
+</tr>
+<tr>
     <td>Web Design Weekly</td>
     <td>Be the first to know about the latest Web Design and Front-end trends. Sign up for our weekly newsletter and get the freshest news, tools and tutorials… for free.</td>
     <td>https://web-design-weekly.com/</td>
@@ -378,6 +391,11 @@ MacroMarketsDaily Newsletter
     <td>Node Weekly</td>
     <td>A free, once–weekly e-mail round-up of Node.js news and articles.</td>
     <td>https://nodeweekly.com/</td>
+</tr>
+<tr>
+    <td><img width="35" src="https://css-weekly.com/wp-content/themes/cssweekly/img/cssweekly-logo.svg">CSS Weekly</td>
+    <td>Weekly e-mail roundup of CSS articles,tutorials, experiments, and tools curated by Zoran Jambor</td>
+    <td>https://css-weekly.com/</td>
 </tr>
 <tr>
     <td rowspan="10">海外</td>
@@ -511,8 +529,11 @@ MacroMarketsDaily Newsletter
 
 
 
-|微博·互联网||
+
+
+|微博||
 |:---|:---|
+|Metaxy_Research [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1928552571) 财经博主||
 |GitHubDaily [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/5722964389)||
 |爱可可-爱生活  [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1402400261)||
 |网路冷眼  [![](https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/sina_logo.png)](https://m.weibo.cn/u/1715118170)||
