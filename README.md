@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -145,6 +145,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="40" src="https://shyrz.me/content/images/size/w1000/2021/09/Shyrism.News-Banner.png"> [Shyrism.News](https://shyrz.me/newsletter/)| A curated newsletter with novetly, stories and thoughts sent out semi-monthly to make you wiser. 一份甄选的时事通讯，涵盖奇闻、故事和思考，两周一期，使你更明智。[Subscribe](https://shyrz.substack.com/) |
 |<img src="https://www.podletter.club/assets/images/logos/N-StarRocket.jpg" width="30"> [Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
 |[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
+|[TourTalk全球宏观研究及大类资产配置](https://www.getrevue.co/profile/tourtalk)| TourTalk Finance成立于2018年，立足于FICC视角下外汇、债券、股指及大宗商品市场的研究及交易。 我们以全球宏观对冲的思路，捕捉经济周期中循环往复的投资及交易机会TourTalk Finance目前主营全球市场策略分析报告、投资咨询、自营交易，为全球金融从业者、投资者提供专业的宏观经济及金融市场的分析与研究。 |
 |[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
 |<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="75"> [城堡阅读](https://www.yuque.com/gaohui-bdaa2/chengbao)|分享个体见闻、探索内心宇宙。 [RSS](https://rsshub.app/yuque/doc/297292)|
 |<img width="35" src="https://qiniu.zhiy.cc/ee1d68a52d8fa3ada4f33eaf4ab1c6a3/ee1d68a52d8fa3ada4f33eaf4ab1c6a3"> [创投止观舍](https://zhiy.cc/zhiguan)|您好，朋友！我：创过业，打过工，目前在互联网大厂做投资并购。希望我分享的想法和经历，能够对你有帮助。让我们一起，求知，求道。|
@@ -186,6 +187,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[小胖’s Daily Note](http://littlefat.cn/)| 记录我日常发现的一些东西。 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
 |[熊言熊语](https://podcast.kaopubear.top/)| 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。 |
+|<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/074/950/thumb/8444874114_39814.jpeg"> [一方天地](http://newsletter.emmmme.com/)| 在这里，我会分享一些的阅读与思考。 |
 |<img width="35" src="https://qiniu.zhiy.cc/584d45d0dd17a1bd297af2577bd00a71/584d45d0dd17a1bd297af2577bd00a71"> [元朔](https://zhiy.cc/yyds)| 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的Newsletter均为免费，欢迎订阅。 |
 |[一人公司](https://happyxiao.com/nl/)| happy xiao分享实用经验和优质点子，帮你提高效率，挥洒创意。 |
@@ -398,7 +400,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://css-weekly.com/</td>
 </tr>
 <tr>
-    <td rowspan="10">海外</td>
+    <td rowspan="11">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/
@@ -418,6 +420,12 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td><img widt="40" src="https://image4.sixthtone.com/images/logo-black-noodletimes.png"> 澎湃新闻</td>
     <td>Fresh voices from today's China</td>
     <td>https://www.sixthtone.com/rss</td>
+</tr>
+<tr>
+    <td>UCLA Health</td>
+    <td>UCLA Health offers publications for patients and physicians highlighting the latest findings in medicine, research and wellness to support healthy active living.
+</td>
+    <td>https://www.uclahealth.org/subscribe</td>
 </tr>
 <tr>
     <td>敏迪選讀</td>
@@ -522,6 +530,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
