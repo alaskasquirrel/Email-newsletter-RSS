@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -121,6 +121,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
 |<img width="35" src="https://zhiy.cc/default.png"> [Sustainable Curiosity](https://zhiy.cc/mccc)|小陈的Every other day reading sharing，这里是我日间碎片化阅读的批注和观点的集散地，偶尔也会来书评和主题文章推荐。关注领域：互联网、商业纪实、效率工具和数字化管理提升。|
 |<img width="30" src="https://imgs.zhubai.pub/e579663cdf754ff99671458d9cc5ad56.jpg"> [The Quibbler](https://thequibbler.zhubai.love/) 李奇|这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。|
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/398/170/thumb/6605C0A2-221B-4233-B754-0E256AFA5711.jpeg"> [Weekly newsletter of haikebang.com](http://x.haikebang.com/)|「骇客邦」会员通讯|
 |[Yestoday](https://yestoday.substack.com/)|投资即阅读|
 |<img src="https://newslab.info/wp-content/uploads/2016/08/logo.png" width="75">新闻实验室 [付费版](https://newslab.info/join/)／ [免费版](https://www.getrevue.co/profile/newslab)| 出品人：方可成，香港中文大学新闻与传播学院助理教授，宾夕法尼亚大学Annenberg传播学院博士，曾在《南方周末》报社担任记者，政见CNPolitics发起人，《东方历史评论》编辑，本科和硕士毕业于北京大学新闻与传播学院。 |
 |[灵感买家俱乐部](https://club.q24.io)| 网络杂志 |
