@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -12,7 +12,7 @@
 
 ******
 
-[小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）你还记得《好奇心日报》嘛？
+[小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）[newsletter](https://app.aves.art/api/lb_post/share?id=1405) 
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 👍
 
@@ -153,7 +153,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[地心引力](https://walnut.hedwig.pub/)|关注效率工具与生活方式，一起脱离重力束缚|
 |[独来读趣](https://molly.hedwig.pub/)|read to the infinity and beyond|
 |[端传媒新闻通讯](https://i.init.shop/collections/newsletter/products/daily-newsletter-original)| 內容包括端传媒每日全部内容，从深度文章到早晚报、端圆桌，以邮件形式整合全文，文章以PDF档案提供。 |
-|[反向连接 Backward Dots](https://backwarddots.hedwig.pub/)| You only connect dots by looking backward. |
+|<img width="35" src="https://imgs.zhubai.love/fe88900f9f04474385da7177f293299d.jpg"> [反向连接 Backward Dots](https://backwarddots.hedwig.pub/)| You only connect dots by looking backward. |
 |<img width="35" src="https://qiniu.zhiy.cc/ba64d8dbdd3090f73f1baecd9d50a9a9/ba64d8dbdd3090f73f1baecd9d50a9a9"> [加美财经-深度](https://zhiy.cc/causmoney)| 每周推送海外优秀的深度和特写报道编译，涉及财富、商业、投资和时事等各个方面，不用走出国门，不用精通外语，就可以领略到最优秀的内容风采，拓展视野的最有效工具。[会员](https://www.caus.money/) |
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
@@ -195,6 +195,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
+|[李亚洲的Newsletter](https://m.weibo.cn/u/1009508005)| 机器之心联合创始人、副主编 |
 
  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
 
