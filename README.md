@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -26,7 +26,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 [PodLetter 播客简报导航](https://www.podletter.club/)
 
-[如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662)
+[如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662) 
+
+[Every](https://every.to/) Think things through
 
 [RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器
 
@@ -128,7 +130,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://laixin.one/content/images/2021/06/Red.png" width="30"> [林中来信](https://laixin.one)| 《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。 |
 |[唯理通讯 Veritas](https://www.veritaschina.org/newsletter)| 唯理通讯推荐精选自互联网的深度文本。我们希望这些内容传播富有思考的声音，并促进订阅者对社会议题的关注。我们相信，在互联网的信息洪流中仍有独立思考的可能。 |
 |[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想。 |
-|[Mukti - 费照君](https://feizhaojun.com) 五道口乐哥| 每周分享。 |
+|<img width="35" src="https://imgs.zhubai.love/cf42d578d162447d86250f48d227e7dd.png"> [好工具周刊](https://bestxtools.zhubai.love/)| 发现并分享有趣，有创意，免费、好用的工具，每周四发布。—— 由 BestXTools 创作 |
+|[Mukti - 费照君](https://feizhaojun.com) 五道口乐哥| 订阅更新每周分享。 |
 | <img src="https://qiniu.yilifangshuyi.com/ed332bb81f0adeaa33ff64f6df2471e1/ed332bb81f0adeaa33ff64f6df2471e1" width="30"> [潦草学者](https://zhiy.cc/messy) | 分享日常思考。长期关注互联网商业，效率工具。 |
 |[事不过三](https://via.hedwig.pub)| 重要的事情不过三件。文浩（即刻ID：蛋散）关于认识自己、好好学习、好好生活的分享。 |
 |<img src="https://qiniu.yilifangshuyi.com/6ea6cc48bebbf5f2e145276512ca5049/6ea6cc48bebbf5f2e145276512ca5049" width="30"> [白宇极](https://zhiy.cc/baiyuji)| 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。 |
@@ -191,12 +194,13 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/074/950/thumb/8444874114_39814.jpeg"> [一方天地](http://newsletter.emmmme.com/)| 在这里，我会分享一些的阅读与思考。 |
 |<img width="35" src="https://qiniu.zhiy.cc/584d45d0dd17a1bd297af2577bd00a71/584d45d0dd17a1bd297af2577bd00a71"> [元朔](https://zhiy.cc/yyds)| 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的Newsletter均为免费，欢迎订阅。 |
+|<img width="35" src="https://imgs.zhubai.love/e312c8ce1f8246059f42c06cc091a477.jpeg"> [一人杂志](https://matsuri.zhubai.love/)| 介绍工具，分享新知，阐述洞见。 |
 |[一人公司](https://happyxiao.com/nl/)| happy xiao分享实用经验和优质点子，帮你提高效率，挥洒创意。 |
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
 |[李亚洲的Newsletter](https://m.weibo.cn/u/1009508005)| 机器之心联合创始人、副主编 |
-|<img width="30" src="https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png"> [好工具周刊](https://bestxtools.zhubai.love/) | 发现并分享有趣，有创意，免费、好用的工具，每周四发布。[RSS](https://discuss-cn.bestxtools.com/atom/t/weekly) ; [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) |
+|<img width="35" src="https://imgs.zhubai.love/cf42d578d162447d86250f48d227e7dd.png"> [好工具周刊](https://bestxtools.zhubai.love/)| 发现并分享有趣，有创意，免费、好用的工具，每周四发布。[RSS](https://discuss-cn.bestxtools.com/atom/t/weekly) ; [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) |
 
  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
 
@@ -341,7 +345,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="12">Weekly</td>
+    <td rowspan="13">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
@@ -366,6 +370,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td><img width="30" src="https://weekly.pychina.org/theme/logo.png"></td>
     <td>蟒周刊</td>
     <td>https://weekly.pychina.org/</td>
+</tr>
+<tr>
+    <td>Vue.js News</td>
+    <td>https://news.vuejs.org/</td>
+    <td></td>
 </tr>
 <tr>
     <td>Web 技术周刊</td>
@@ -533,6 +542,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
