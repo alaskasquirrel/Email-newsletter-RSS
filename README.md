@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -118,6 +118,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[happy letter](http://xiao.do)|每个工作日发送简短实用的效率方法，健康吸光，思维模式。|
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/242/766/thumb/px2048_copy.jpg"> [HardWayLab](http://newsletter.hardwaylab.com/)|笨方法实践精要，给你提供一份无限检查清单，鼓励你去做成难事。|
 |[结绳志 Tying Knots](https://tyingknots.net/)|这是一个致力于介绍人类学观点、方法与行动的平台。|
+|[Last Week in AI](https://lastweekin.ai/)||
 |<img width="35" src="https://mmbiz.qpic.cn/mmbiz_jpg/ibeXhqe87IYicsHXSc78NryDDgfco2GkSXR8doVvxOyfdMQiaS1YCicMiaUY9IK0U1TsbMibfpiaqHbL07oFHAWYSExUg/640"> [Louiscard' Blog](https://louiscard.com/category/newsletter/) 吕江涛|Develop a personal productivity system as a product|
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)|由 Issei 制作的月刊，介绍从自己的视角看到的世界，以及关于设计、艺术和文化的推荐信息。|
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
@@ -159,6 +160,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/fe88900f9f04474385da7177f293299d.jpg"> [反向连接 Backward Dots](https://backwarddots.hedwig.pub/)| You only connect dots by looking backward. |
 |<img width="35" src="https://qiniu.zhiy.cc/ba64d8dbdd3090f73f1baecd9d50a9a9/ba64d8dbdd3090f73f1baecd9d50a9a9"> [加美财经-深度](https://zhiy.cc/causmoney)| 每周推送海外优秀的深度和特写报道编译，涉及财富、商业、投资和时事等各个方面，不用走出国门，不用精通外语，就可以领略到最优秀的内容风采，拓展视野的最有效工具。[会员](https://www.caus.money/) |
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
+|<img width="35" src="https://xiaobot.oss-cn-shanghai.aliyuncs.com/paper/qianguyihao.jpeg"> [惊鸿壹面](https://xiaobot.net/p/qianguyihao)| 每日更新：读书笔记、产品思考、软件工具、信息推荐、具体生活。热爱阅读和分享。探索小而美的一面，比宏大更宏大。https://qianguyihao.com/ |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[刻意体会](https://kyth.hedwig.pub/)| 即刻团队产品负责人kyth的newsletter。 |
@@ -169,6 +171,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[羅越𐃏尋回微博](https://luoyue2020.micro.blog/categories/medley/) Medley| 日文譯者、撰稿人，自稱「日劇愛好家」。畢業於南京大學中文系，曾任職日系雜誌《with》、《美的BITEKI》中文版編輯，主要翻譯作品：太宰治《斜陽》、宮下奈都《羊與鋼的森林》等。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Hsxg.png"> [海上星光](https://hsxg.ghost.io)| 记录一个产品经理和一个设计师对行业和世界的观察。[会员订阅](http://haishangxingguang.mikecrm.com/7INJhZW) |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe27ec530-d1eb-4a0c-98b8-76ef8dea0d73_1010x1010.png" width="30"> [亨利朱週報](https://henrychu.substack.com/p/-no1)| 訂閱電子報，獲得實用的生活、工作技巧！ |
+|[混沌周刊](https://weekly.love/)| 有关科技，有关开发，有关生活 |
 |[光明王](https://lordoflight.substack.com/)| 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Mb.png"> [曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
 |<img width="35" src="https://qiniu.zhiy.cc/1ed6deaaa522dee8f8487f1aa9acefec/1ed6deaaa522dee8f8487f1aa9acefec"> [逆流Upstream](https://zhiy.cc/upstream)| 流媒体与创作者经济的深度观察。 |
@@ -197,6 +200,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/e312c8ce1f8246059f42c06cc091a477.jpeg"> [一人杂志](https://matsuri.zhubai.love/)| 介绍工具，分享新知，阐述洞见。 |
 |[一人公司](https://happyxiao.com/nl/)| happy xiao分享实用经验和优质点子，帮你提高效率，挥洒创意。 |
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
+|[意游未尽](https://pangliacci.hedwig.pub/)|个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。|
+|[在诗外](https://lauren.hedwig.pub/)|关于如何成为更好的人类，关注自我成长、文化和科技。汝果欲学诗，功夫在诗外。|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
 |[李亚洲的Newsletter](https://m.weibo.cn/u/1009508005)| 机器之心联合创始人、副主编 |
