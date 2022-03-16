@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -145,6 +145,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗。 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息。 |
 |<img src="https://verbo2009.github.io/images/avatar.png?v=1630666480471" width="30"> [刻意周刊](https://wenboblog.com/)| 科技/互联网/商业/创业/投资等相关优质内容，每周一期，周五或周六更新，更多内容请访问：[Superdaily](https://www.superdaily.cn/) |
+|[codedump的网络日志](https://www.getrevue.co/profile/lichuang)|  |
 |<img src="https://buttondown.s3.amazonaws.com/icons/1d272fcb-2021-470e-af25-ecd15566e0ff.png" width="25"> [Nothing Here](https://buttondown.email/nothing)| At Nothing Here, we scour the internet so you don’t have to, and serve up a selection of interesting articles on culture, politics, ecology, climate change, the end of the world, and all that good shit. We’ll also let you know what books, films, TV, and music we’ve been enjoying, because, hell, sometimes you need something to distract from the endless parade of atrocities that is the 21st Century. [full archives ](https://buttondown.email/nothing/archive/) |
 |[International Centre for Stem Education](https://icse.eu/startseite/newsletter/)| Through our international newsletter we keep our partners, stakeholders and anyone interested in our work informed about the latest events and conferences, as well as reports and materials from ICSE and its projects. The newsletter is issued to our unique and unparalleled network of around 2000 STEM education researchers |
 |[KAIX.IN](https://kaix.in)|  |
@@ -194,6 +195,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/230/226/thumb/WechatIMG25.jpeg"> [随机波动](https://www.getrevue.co/profile/stovol/)| 一档由三位女性媒体人创办的泛文化类播客。 |
 |<img width="35" src="https://qiniu.zhiy.cc/468c25ad923b9d810102949d087b39c2/468c25ad923b9d810102949d087b39c2"> [孙浩闻](https://zhiy.cc/hwiyh)| 在做互联网项目的大学生，将以我的视角分享对生活、读书、互联网的思考，和优质内容的推荐。是完全不考虑流量而写的真心话，分享我认为有价值的内容。 |
 |[苔原通信](https://mailchi,mp/37a061991a71/20210328)| 不定期群发的情书，每月不会少于一期。 |
+|[体验碎周报](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)| 龙爪槐守望者 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6decee3b-7769-406c-aa0a-089365d411c1_400x400.png" width="30"> [透明盒子计划](https://clearbox.substack.com/)| 作者受Zettelkästen卡片盒学习方法启发，产生笔记，整理成文，讲述关于学习、认知、思维的相关的科学理论及训练方法。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/046/307/thumb/lV9-F5ey_400x400.jpg"> [图拉鼎的产品通讯](https://news.imtx.me/)| 分享我的产品动态、开发故事和其他我觉得值得分享的不限于技术圈的东西。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/ThePodcastPick.png"> [推播助栏The Podcast Pick - by Enzo Chen](https://enzochen.substack.com/)| 由撰稿人陈恒一创办的一份关于中文Podcast的免费Newsletter，形式分为文章和播客两种，前者涵盖中文Podcast节目推荐、Podcast新闻梳理和评论、Podcast创作者访谈，后者主要分享个人感想。 |
