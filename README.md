@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -109,9 +109,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[anpu](https://www.anpu-oystermusic.com/)| 张悬 |
 |[Ali Abdaal](https://aliabdaal.com/newsletter/)| 一名医生，分享可行的生产力提升，实际的生活建议，高品质的见解。 |
 |[Auster's Halftime](https://archive.aweber.com/newsletter/awlist6147253)| A randomly issued personal newsletter of Auster Shi. |
+|<img width="35" src="https://imgs.zhubai.love/ae93799c021c4c029bf7dfd78464bce3.png"> [CatTalk数字花园](https://cattalk.zhubai.love/)| 一个互联网技术从业者的所思所想，希望这些内容能为同行者提供一些价值 |
 |[ChinAI Newsletter](https://chinai.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4962753-3f4d-4196-8c89-c63ef265df3c_256x256" width="30"> Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
 | <img src="https://iois.me/wp-content/uploads/2020/03/2020newlogo-300px0304.png" width="30"> [Dailyio](https://iois.me/) | Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions) |
 | <img width="35" src="https://i0.wp.com/perell.com/wp-content/uploads/2020/12/david-perell-md-1.jpg"> [David Perell — Weekly Newsletters](https://perell.com/newsletter/) | Monday Musings and Friday Finds. |
+| <img width="35" src="https://imgs.zhubai.love/10e8aeaef2b540d7b264ff9f8d7fc9f7.png"> [DecoHack周刊](https://decohack.zhubai.love/) | 为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。 内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式 每周更新 |
 |[Superdaily](https://www.superdaily.cn)|<img src="https://www.superdaily.cn/assets/new/img/logo.png" width="55">重点关注泛互联网、创业投资、创新科技、商业财经、认知成长等领域的优质内容，如深度长文、报道、数据、报告、视频、播客等。专业的内容团队，从海量内容中，基于信息密度、结构化、信息源可信度等推荐原则，为你精选每日值得一看的内容。|
 | <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30"> [Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
 |<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表。 |
