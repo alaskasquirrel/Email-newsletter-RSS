@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -11,6 +11,10 @@
 **兼听则明，偏信则暗**
 
 ******
+
+<img width="35" src="https://www.podletter.club/assets/images/logo-collapsed@2x.png"> [PodLetter 播客简报导航](https://www.podletter.club/)
+
+<img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 独立开发产品变现周刊 https://www.ezindie.com/
 
 [小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）[newsletter](https://app.aves.art/api/lb_post/share?id=1405) 
 
@@ -25,8 +29,6 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 方可成： [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 
 [小叉的梦呓](https://chasays.hedwig.pub/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
-
-[PodLetter 播客简报导航](https://www.podletter.club/)
 
 [如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662) 
 
@@ -154,8 +156,10 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://interconnected.blog/content/images/size/w1000/2020/02/Interconnected_cropped_white_transparent.png"> [interconnected](https://interconnected.blog/)| Internet's only bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations. New post every week by Kevin Xu (@kevinsxu) |
 |[iD公社](https://www.hi-id.com)| <img src="https://www.hi-id.com/imgg/hiidlogo2X.png" width="30"> |
 |[Data Stitches](https://datastitches.substack.com/)| 分享数据可视化、交互叙事项目以及创作者们使用的工具。 |
+|<img width="35" src="https://imgs.zhubai.love/0ca256393bca4d43bad190c7c932d9af.jpg"> [Jiayuan Thoughts](https://jiayuan.zhubai.love/)| Read, Learn, Share. |
 |[Random Lab](https://random-lab.ghost.io/)| 投资行业从业，内容包括商业观察、品牌出海、读书笔记，以及奢侈品行业二三事。 |
 |<img width="35" src=""> [Re:Play](https://replay.cafe/)| Re:Play 是由三位不专业的音乐爱好者([Justin](https://twitter.com/MapleShadow), [Oscar](https://twitter.com/oscarlee_), [Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张专辑。 |
+|[Shiye newsletter](https://shiye.substack.com/)|  |
 |<img width="40" src="https://shyrz.me/content/images/size/w1000/2021/09/Shyrism.News-Banner.png"> [Shyrism.News](https://shyrz.me/newsletter/)| A curated newsletter with novetly, stories and thoughts sent out semi-monthly to make you wiser. 一份甄选的时事通讯，涵盖奇闻、故事和思考，两周一期，使你更明智。[Subscribe](https://shyrz.substack.com/) |
 |<img src="https://www.podletter.club/assets/images/logos/N-StarRocket.jpg" width="30"> [Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
 |[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
@@ -171,6 +175,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://qiniu.zhiy.cc/ba64d8dbdd3090f73f1baecd9d50a9a9/ba64d8dbdd3090f73f1baecd9d50a9a9"> [加美财经-深度](https://zhiy.cc/causmoney)| 每周推送海外优秀的深度和特写报道编译，涉及财富、商业、投资和时事等各个方面，不用走出国门，不用精通外语，就可以领略到最优秀的内容风采，拓展视野的最有效工具。[会员](https://www.caus.money/) |
 |<img width="35" src="https://imgs.zhubai.love/5da34eaadcb449a0998051538230ca3d.png"> [简悦周报](https://simpread.zhubai.love/)| 简悦周报官方推送渠道，同时也会分享开发故事与生产力工具，效率等工具的使用心得。—— 由 Kenshin 创作 |
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
+|<img width="35" src="https://imgs.zhubai.love/d31c200e037e486d910d5e7f793906f2.jpg"> [关雅荻·天生勇气](https://guanyadi.zhubai.love/)| 户外极限运动的体验与思考（超马越野跑、环球帆船赛等）/ 影视文化等领域观察与思考 / 随机漫步的思考碎片 |
 |<img width="35" src="https://xiaobot.oss-cn-shanghai.aliyuncs.com/paper/qianguyihao.jpeg"> [惊鸿壹面](https://xiaobot.net/p/qianguyihao)| 每日更新：读书笔记、产品思考、软件工具、信息推荐、具体生活。热爱阅读和分享。探索小而美的一面，比宏大更宏大。https://qianguyihao.com/ |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
@@ -207,11 +212,13 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
 |[熊言熊语](https://podcast.kaopubear.top/)| 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。 |
 |<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
+|[野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
+|<img width="35" src="https://imgs.zhubai.love/e0026abebb5f48a9ac0dc9de7d035c37.jpg"> [野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记，每两周一期，免费订阅。傅丰元 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/074/950/thumb/8444874114_39814.jpeg"> [一方天地](http://newsletter.emmmme.com/)| 在这里，我会分享一些的阅读与思考。 |
 |<img width="35" src="https://harryyifei.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F881d2838-988e-4277-9e42-b232d76b0bad%2Fimages%2Ff3d1ad77-6e3c-4f38-b6e1-518611731ecc.svg&w=1080&q=80"> [一飞周报](https://harryyifei.com/weekly)| harryyifei |
 |<img width="35" src="https://qiniu.zhiy.cc/584d45d0dd17a1bd297af2577bd00a71/584d45d0dd17a1bd297af2577bd00a71"> [元朔](https://zhiy.cc/yyds)| 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的Newsletter均为免费，欢迎订阅。 |
 |<img width="35" src="https://imgs.zhubai.love/e312c8ce1f8246059f42c06cc091a477.jpeg"> [一人杂志](https://matsuri.zhubai.love/)| 介绍工具，分享新知，阐述洞见。 |
-|[一人公司](https://happyxiao.com/nl/)| happy xiao分享实用经验和优质点子，帮你提高效率，挥洒创意。 |
+|[可乐](https://coke.do/)| happy xiao 简短实用的效率方法，健康习惯，思维模式 |
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |[意游未尽](https://pangliacci.hedwig.pub/)|个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。|
 |[在诗外](https://lauren.hedwig.pub/)|关于如何成为更好的人类，关注自我成长、文化和科技。汝果欲学诗，功夫在诗外。|
