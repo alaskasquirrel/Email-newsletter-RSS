@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -15,6 +15,8 @@
 <img width="35" src="https://www.podletter.club/assets/images/logo-collapsed@2x.png"> [PodLetter 播客简报导航](https://www.podletter.club/)
 
 <img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 独立开发产品变现周刊 https://www.ezindie.com/
+
+<img width="35" src="https://www.outsightchina.com/img/nav-logo.27cf7cfc.svg> [看鉴中国 | Outsight China](https://www.outsightchina.com/)
 
 [小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）[newsletter](https://app.aves.art/api/lb_post/share?id=1405) 
 
@@ -107,6 +109,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://read.deeplearning.ai/the-batch/_next/image?url=%2Fthe-batch%2Fstatic%2Fimages%2Fbrandimages%2Fthebatchlogo.png"> The Batch: Weekly AI news for engineers, executives, and enthusiasts.|https://read.deeplearning.ai/the-batch/|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。|
 |[Λ-Reading]()|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecc1474-39f8-4a6b-a014-d4c3354f8a72_334x334.png" width="30"> 包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
+|Adam Tooze|https://adamtooze.com/blog/|
 |[A Learning a Day](https://alearningaday.blog)| <img src="https://alearningadayblog.files.wordpress.com/2017/07/alearingadaylogov6.png" width="30"> |
 |[anpu](https://www.anpu-oystermusic.com/)| 张悬 |
 |[Ali Abdaal](https://aliabdaal.com/newsletter/)| 一名医生，分享可行的生产力提升，实际的生活建议，高品质的见解。 |
@@ -204,6 +207,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[苔原通信](https://mailchi,mp/37a061991a71/20210328)| 不定期群发的情书，每月不会少于一期。 |
 |[体验碎周报](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)| 龙爪槐守望者 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6decee3b-7769-406c-aa0a-089365d411c1_400x400.png" width="30"> [透明盒子计划](https://clearbox.substack.com/)| 作者受Zettelkästen卡片盒学习方法启发，产生笔记，整理成文，讲述关于学习、认知、思维的相关的科学理论及训练方法。 |
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/790/thumb/logo.jpg"> [同时](https://www.getrevue.co/profile/tongshi)| 葛小孩 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/046/307/thumb/lV9-F5ey_400x400.jpg"> [图拉鼎的产品通讯](https://news.imtx.me/)| 分享我的产品动态、开发故事和其他我觉得值得分享的不限于技术圈的东西。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/ThePodcastPick.png"> [推播助栏The Podcast Pick - by Enzo Chen](https://enzochen.substack.com/)| 由撰稿人陈恒一创办的一份关于中文Podcast的免费Newsletter，形式分为文章和播客两种，前者涵盖中文Podcast节目推荐、Podcast新闻梳理和评论、Podcast创作者访谈，后者主要分享个人感想。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Wlx.jpg"> [王龙行](https://zhiy.cc/long)| 分享我写的关于创业、产品的笔记，包括我的碎片化思考、工作笔记、优质内容推荐等。 |
@@ -221,6 +225,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[可乐](https://coke.do/)| happy xiao 简短实用的效率方法，健康习惯，思维模式 |
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |[意游未尽](https://pangliacci.hedwig.pub/)|个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。|
+|<img width="35" src="https://imgs.zhubai.love/6982c8460aa142a780459496b134ed2a.jpg"> [杂事](https://maguisine.zhubai.love/)|独立出版收集狂的吐槽与推荐—— 由 ShivaD 创作|
 |[在诗外](https://lauren.hedwig.pub/)|关于如何成为更好的人类，关注自我成长、文化和科技。汝果欲学诗，功夫在诗外。|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
