@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -145,6 +145,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想。 |
 |<img width="35" src="https://imgs.zhubai.love/cf42d578d162447d86250f48d227e7dd.png"> [好工具周刊](https://bestxtools.zhubai.love/)| 发现并分享有趣，有创意，免费、好用的工具，每周四发布。—— 由 BestXTools 创作 |
 |[Mukti - 费照君](https://feizhaojun.com) 五道口乐哥| 订阅更新每周分享。 |
+|<img width="35" src="https://imgs.zhubai.love/74e7878acdde41dc95fe1cc17a29d129.jpg">[琛差不齐](https://chencibuqi.zhubai.love/)| 个人向 newsletter，不定期推荐 3±1 件事儿。涵盖阅读、效率、心理健康和女性主义等各种主题。 |
 | <img src="https://qiniu.yilifangshuyi.com/ed332bb81f0adeaa33ff64f6df2471e1/ed332bb81f0adeaa33ff64f6df2471e1" width="30"> [潦草学者](https://zhiy.cc/messy) | 分享日常思考。长期关注互联网商业，效率工具。 |
 |[事不过三](https://via.hedwig.pub)| 重要的事情不过三件。文浩（即刻ID：蛋散）关于认识自己、好好学习、好好生活的分享。 |
 |<img src="https://qiniu.yilifangshuyi.com/6ea6cc48bebbf5f2e145276512ca5049/6ea6cc48bebbf5f2e145276512ca5049" width="30"> [白宇极](https://zhiy.cc/baiyuji)| 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。 |
@@ -183,6 +184,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://xiaobot.oss-cn-shanghai.aliyuncs.com/paper/qianguyihao.jpeg"> [惊鸿壹面](https://xiaobot.net/p/qianguyihao)| 每日更新：读书笔记、产品思考、软件工具、信息推荐、具体生活。热爱阅读和分享。探索小而美的一面，比宏大更宏大。https://qianguyihao.com/ |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
+|[惊奇短信](https://www.getrevue.co/profile/gexu)| 船长的惊奇短信 |
 |[刻意体会](https://kyth.hedwig.pub/)| 即刻团队产品负责人kyth的newsletter。 |
 |<img width="35" src="https://cdn.nlark.com/yuque/0/2020/png/1429145/1606879318661-avatar/e7c2e21b-c440-48c0-9c7a-53061bbf412e.png"> [类地行星](https://www.yuque.com/aiyouzhanglei/ldxx)| 会有一个世界，和地球有一点像，也有一点不像 |
 |<img width="35" src="https://qiniu.zhiy.cc/b1d71ac47a345d21e33c0675e651c5fd/b1d71ac47a345d21e33c0675e651c5fd"> [李雪含](https://zhiy.cc/lixuehan)| 万物之中希望最美，万物之中确定性最贵。 |
@@ -195,6 +197,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[光明王](https://lordoflight.substack.com/)| 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。 |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Mb.png"> [曼報](https://mailchi.mp/f91ecf7c7eb8/mannyli)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。 |
 |<img width="35" src="https://qiniu.zhiy.cc/1ed6deaaa522dee8f8487f1aa9acefec/1ed6deaaa522dee8f8487f1aa9acefec"> [逆流Upstream](https://zhiy.cc/upstream)| 流媒体与创作者经济的深度观察。 |
+|[若有所播丨To Be Podcasting](https://www.getrevue.co/profile/tobepodcasting)|  |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/283/200/thumb/QQ%E5%9B%BE%E7%89%8720210702102835.jpg"> [其思秒想](https://www.getrevue.co/profile/yolo365)| 记录过去一周间，看到的让我有所触动和有趣的内容信息，以及体验发现的书/影/好物。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/260/004/thumb/vanilla-appstore.png"> [ 轻芒封面](https://www.getrevue.co/profile/qingmang) 停刊 & [阅览室](https://read.land/)| 每周一到周五，和轻芒一起深度阅读。[PDF存档](https://wj.qq.com/s2/9116430/80fa/) |
 |[商业内观](https://if.zoepi.online/)| [RSS](https://rss.zoepi.online) |
@@ -207,6 +210,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://qiniu.zhiy.cc/468c25ad923b9d810102949d087b39c2/468c25ad923b9d810102949d087b39c2"> [孙浩闻](https://zhiy.cc/hwiyh)| 在做互联网项目的大学生，将以我的视角分享对生活、读书、互联网的思考，和优质内容的推荐。是完全不考虑流量而写的真心话，分享我认为有价值的内容。 |
 |[苔原通信](https://mailchi,mp/37a061991a71/20210328)| 不定期群发的情书，每月不会少于一期。 |
 |[体验碎周报](https://www.ftium4.com/categories/%E4%BD%93%E9%AA%8C%E7%A2%8E%E5%91%A8%E6%8A%A5/)| 龙爪槐守望者 |
+|<img width="35" src="https://imgs.zhubai.love/dbccaf2f8a994d69803b091b1b1d65f2.jpeg"> [桌沿奇思](https://deskside.zhubai.love/)| 或许能为迷茫的你，点亮一把炬火。 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6decee3b-7769-406c-aa0a-089365d411c1_400x400.png" width="30"> [透明盒子计划](https://clearbox.substack.com/)| 作者受Zettelkästen卡片盒学习方法启发，产生笔记，整理成文，讲述关于学习、认知、思维的相关的科学理论及训练方法。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/790/thumb/logo.jpg"> [同时](https://www.getrevue.co/profile/tongshi)| 葛小孩 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/046/307/thumb/lV9-F5ey_400x400.jpg"> [图拉鼎的产品通讯](https://news.imtx.me/)| 分享我的产品动态、开发故事和其他我觉得值得分享的不限于技术圈的东西。 |
@@ -217,7 +221,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
 |[熊言熊语](https://podcast.kaopubear.top/)| 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。 |
 |<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
-|[野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
+|<img width="35" src="https://imgs.zhubai.love/ef6903d18f5341ec83fafebc4bca8de0.png"> [试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。 |
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/629/thumb/90udvAmT.jpg"> [野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
 |<img width="35" src="https://imgs.zhubai.love/e0026abebb5f48a9ac0dc9de7d035c37.jpg"> [野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记，每两周一期，免费订阅。傅丰元 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/074/950/thumb/8444874114_39814.jpeg"> [一方天地](http://newsletter.emmmme.com/)| 在这里，我会分享一些的阅读与思考。https://emmmme.com/ |
 |<img width="35" src="https://harryyifei.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F881d2838-988e-4277-9e42-b232d76b0bad%2Fimages%2Ff3d1ad77-6e3c-4f38-b6e1-518611731ecc.svg&w=1080&q=80"> [一飞周报](https://harryyifei.com/weekly)| harryyifei |
@@ -249,7 +254,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <th>RSS</th>
   </tr>
   <tr>
-    <td rowspan="25">科技</td>
+    <td rowspan="26">科技</td>
     <td>阮一峰 科技爱好者周报</td>
     <td></td>
     <td>http://www.ruanyifeng.com/blog/atom.xml</a><br><br></td>
@@ -258,6 +263,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>每日时报</td>
     <td>以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。</td>
     <td>https://wubaiqing.github.io/zaobao/other/latest.html</td>
+</tr>
+<tr>
+    <td>Product Hunt Daily</td>
+    <td>A daily digest of the best of Product Hunt, created by your friends</td>
+    <td>https://www.producthunt.com/newsletter</td>
 </tr>
 <tr>
     <td>HelloGitHub</td>
@@ -376,7 +386,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
   <td>https://theintercept.com</td>
   </tr>
   <tr>
-    <td rowspan="14">Weekly</td>
+    <td rowspan="17">Weekly</td>
     <td>JavaScript Weekly</td>
     <td>A newsletter of JavaScript articles, news and cool projects</td>
     <td>https://cprss.s3.amazonaws.com/javascriptweekly.com.xml</td>
@@ -432,15 +442,30 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>Be the first to know about the latest Web Design and Front-end trends. Sign up for our weekly newsletter and get the freshest news, tools and tutorials… for free.</td>
     <td>https://web-design-weekly.com/</td>
 </tr>
+<tr>
+    <td>PHP Weekly</td>
+    <td></td>
+    <td>https://www.phpweekly.com/</td>
+</tr>
   <tr>
     <td>Ruby Weekly</td>
     <td>A free, once–weekly e-mail round-up of Ruby news and articles.</td>
     <td>https://rubyweekly.com/</td>
   </tr>
 <tr>
+    <td>This Week in Rust</td>
+    <td>Stay up to date with events, learning resources, and recent developments in Rust community.</td>
+    <td>https://this-week-in-rust.org/</td>
+</tr>
+<tr>
     <td>Node Weekly</td>
     <td>A free, once–weekly e-mail round-up of Node.js news and articles.</td>
     <td>https://nodeweekly.com/</td>
+</tr>
+<tr>
+    <td>WebRTC Weekly</td>
+    <td></td>
+    <td>https://webrtcweekly.com/</td>
 </tr>
 <tr>
     <td><img width="35" src="https://css-weekly.com/wp-content/themes/cssweekly/img/cssweekly-logo.svg">CSS Weekly</td>
@@ -583,6 +608,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
 
 
 
