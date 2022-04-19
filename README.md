@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -145,6 +145,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想。 |
 |<img width="35" src="https://imgs.zhubai.love/cf42d578d162447d86250f48d227e7dd.png"> [好工具周刊](https://bestxtools.zhubai.love/)| 发现并分享有趣，有创意，免费、好用的工具，每周四发布。—— 由 BestXTools 创作 |
 |[Mukti - 费照君](https://feizhaojun.com) 五道口乐哥| 订阅更新每周分享。 |
+|<img width="35" src="https://imgs.zhubai.love/710f2ed29b99405f908047c069b60418.jpg"> [叭叭呜](https://babawu.zhubai.love/)| 一起探索，科技革命、商业变革驱动的新世界。于欣烈 |
+|<img width="35" src="https://imgs.zhubai.love/551a14ad2912454ab70789f0fb84edc0.jpg"> [勇气何来](https://yongqi.zhubai.love/)| 个人效率｜思维模型｜创意写作｜健康方法。于欣烈 创作 |
 |<img width="35" src="https://imgs.zhubai.love/74e7878acdde41dc95fe1cc17a29d129.jpg">[琛差不齐](https://chencibuqi.zhubai.love/)| 个人向 newsletter，不定期推荐 3±1 件事儿。涵盖阅读、效率、心理健康和女性主义等各种主题。 |
 | <img src="https://qiniu.yilifangshuyi.com/ed332bb81f0adeaa33ff64f6df2471e1/ed332bb81f0adeaa33ff64f6df2471e1" width="30"> [潦草学者](https://zhiy.cc/messy) | 分享日常思考。长期关注互联网商业，效率工具。 |
 |[事不过三](https://via.hedwig.pub)| 重要的事情不过三件。文浩（即刻ID：蛋散）关于认识自己、好好学习、好好生活的分享。 |
