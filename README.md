@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -16,7 +16,7 @@
 
 <img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 独立开发产品变现周刊 https://www.ezindie.com/
 
-<img width="35" src="https://www.outsightchina.com/img/nav-logo.27cf7cfc.svg> [看鉴中国 | Outsight China](https://www.outsightchina.com/)
+<img width="35" src="https://www.outsightchina.com/img/nav-logo.27cf7cfc.svg"> [看鉴中国 | Outsight China](https://www.outsightchina.com/)
 
 [小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）[newsletter](https://app.aves.art/api/lb_post/share?id=1405) 
 
@@ -30,7 +30,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 方可成： [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 
-[小叉的梦呓](https://chasays.hedwig.pub/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
+[小叉的梦呓](https://chasays.zhubai.love/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
 
 [如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662) 
 
@@ -92,7 +92,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://cyberfear.com/img/logo.svg" width="95"> [CyberFear](https://cyberfear.com) 匿名邮箱 [Privacy Policy](https://cyberfear.com/privacy.html)|[蚁阅](https://rss.anyant.com/) - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯|
 |<img width="35" src="https://addons.mozilla.org/user-media/addon_icons/2633/2633704-64.png"> [Firefox Relay](https://relay.firefox.com) “马甲邮箱”，通过提供一个类似于别名的邮箱地址来保护自己的真实的邮箱地址。[Firefox 扩展插件](https://addons.mozilla.org/zh-CN/firefox/addon/private-relay/)|[the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|
 |<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)|<img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png">  [News](https://f-droid.org/packages/co.appreactor.news/) Feed reader and podcast player for Android|
-|<img width="35" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/ic_launcher-web.png"> [FairEmail](https://github.com/M66B/FairEmail) Fully featured, open source, privacy friendly email app for Android [Privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail)||
+|<img width="35" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/ic_launcher-web.png"> [FairEmail](https://github.com/M66B/FairEmail) Fully featured, open source, privacy friendly email app for Android [Privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail)|[Dinosaur Rss](https://dinorss.org/) A simple, efficient, open source RSS reader service (Win/Mac)|
+|[Disroot: Secure email for your desktop client or via a web interface](https://disroot.org/) , [Privacy Policy ](https://disroot.org/en/privacy_policy)|Disroot<img width="35" src="https://ravenreader.app/wp-content/themes/ravenreader-site/dist/images/raven-logo_c1651b25.svg"> [Raven Reader](https://ravenreader.app/) - All your articles in one place. Beautiful.|
+|[SimpleLogin](https://simplelogin.io/)  Emails are forwarded to your real email address. If you reply to a sender it will use your alias, too. It is designed to be user friendly and available on many platforms.|Open source anonymous email service<img width="35" src="https://nodetics.com/feedbro/shots/reader128.png"> [Feedbro](https://nodetics.com/feedbro/) - RSS Feed Reader with built-in Rule Engine|
 
 
 
@@ -169,7 +171,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[Shiye newsletter](https://shiye.substack.com/)|  |
 |<img width="40" src="https://shyrz.me/content/images/size/w1000/2021/09/Shyrism.News-Banner.png"> [Shyrism.News](https://shyrz.me/newsletter/)| A curated newsletter with novetly, stories and thoughts sent out semi-monthly to make you wiser. 一份甄选的时事通讯，涵盖奇闻、故事和思考，两周一期，使你更明智。[Subscribe](https://shyrz.substack.com/) |
 |<img src="https://www.podletter.club/assets/images/logos/N-StarRocket.jpg" width="30"> [Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
+|<img width="35" src="https://user-images.githubusercontent.com/7054676/56820343-2fe1b580-687e-11e9-8f6f-778df3a8eafd.png"> Manjusaka 的[每周周报](https://manjusaka.itscoder.com/weekly)|  |
 |[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
+|[破茧日报](https://guozh.net/category/daily-information-share/)| 老郭种树 |
 |[TourTalk全球宏观研究及大类资产配置](https://www.getrevue.co/profile/tourtalk)| TourTalk Finance成立于2018年，立足于FICC视角下外汇、债券、股指及大宗商品市场的研究及交易。 我们以全球宏观对冲的思路，捕捉经济周期中循环往复的投资及交易机会TourTalk Finance目前主营全球市场策略分析报告、投资咨询、自营交易，为全球金融从业者、投资者提供专业的宏观经济及金融市场的分析与研究。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/242/766/thumb/%E5%A4%B4%E5%83%8F.png"> [笨方法实验室来信](http://newsletter.hardwaylab.com/)| 旨在给你一份防止自我解体的检查清单，鼓励你去做不败的难事。 |
 |[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
@@ -228,6 +232,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/e0026abebb5f48a9ac0dc9de7d035c37.jpg"> [野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记，每两周一期，免费订阅。傅丰元 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/074/950/thumb/8444874114_39814.jpeg"> [一方天地](http://newsletter.emmmme.com/)| 在这里，我会分享一些的阅读与思考。https://emmmme.com/ |
 |<img width="35" src="https://harryyifei.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F881d2838-988e-4277-9e42-b232d76b0bad%2Fimages%2Ff3d1ad77-6e3c-4f38-b6e1-518611731ecc.svg&w=1080&q=80"> [一飞周报](https://harryyifei.com/weekly)| harryyifei |
+|[调查员手记](https://2999.hedwig.pub/)| Nowhere to go but everywhere |
 |<img width="35" src="https://qiniu.zhiy.cc/584d45d0dd17a1bd297af2577bd00a71/584d45d0dd17a1bd297af2577bd00a71"> [元朔](https://zhiy.cc/yyds)| 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的Newsletter均为免费，欢迎订阅。 |
 |<img width="35" src="https://imgs.zhubai.love/e312c8ce1f8246059f42c06cc091a477.jpeg"> [一人杂志](https://matsuri.zhubai.love/)| 介绍工具，分享新知，阐述洞见。 |
 |[可乐](https://coke.do/)| happy xiao 简短实用的效率方法，健康习惯，思维模式 |
