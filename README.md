@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -124,6 +124,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 | <img width="35" src="https://imgs.zhubai.love/10e8aeaef2b540d7b264ff9f8d7fc9f7.png"> [DecoHack周刊](https://decohack.zhubai.love/) | 为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。 内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式 每周更新 |
 | <img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/016/268/thumb/logo.png?1633788227"> [Dine News](https://news.dinehq.net/) | What’s happening inside and outside the studio |
 | Erika 的追风之旅 | https://erikaqi.substack.com/ |
+| <img width="35" src="https://imgs.zhubai.love/b1297ba3854347cebd645818ca420782.jpeg"> [goodday](https://goodday.zhubai.love/) | 快乐指南—— 由 弯尼 创作 |
 |[Superdaily](https://www.superdaily.cn)|<img src="https://www.superdaily.cn/assets/new/img/logo.png" width="55">重点关注泛互联网、创业投资、创新科技、商业财经、认知成长等领域的优质内容，如深度长文、报道、数据、报告、视频、播客等。专业的内容团队，从海量内容中，基于信息密度、结构化、信息源可信度等推荐原则，为你精选每日值得一看的内容。|
 | <img src="https://www.densediscovery.com/img/logo-top-new.png" width="30"> [Dense Discovery](https://www.densediscovery.com) | A thoughtful weekly newsletter helping you feel inspired, be productive & think critically. |
 |<img src="https://newsletter.dex.group/content/images/2021/03/logo.png" width="30">[DEX周刊](https://newsletter.dex.group) 付费订阅制| 关于产品、设计、前端、软件等内容的精华资讯邮件列表。 |
@@ -159,6 +160,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
 |<img width="35" src="https://imgs.zhubai.love/26df876511bb49129931089bc0103878.png"> [生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。—— 由 炜晨 创作 |
 |[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗。—— 由 陆屿 创作 |
+|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/426/708/thumb/5pDG_j2h.jpg"> [吴说每日精选加密新闻](https://www.getrevue.co/profile/wublockchain12/)| 吴说每日晚报，提供每天最重要的加密新闻与深度好文。 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息。 |
 |<img src="https://verbo2009.github.io/images/avatar.png?v=1630666480471" width="30"> [刻意周刊](https://wenboblog.com/)| 科技/互联网/商业/创业/投资等相关优质内容，每周一期，周五或周六更新，更多内容请访问：[Superdaily](https://www.superdaily.cn/) |
 |[codedump的网络日志](https://www.getrevue.co/profile/lichuang)|  |
@@ -603,12 +605,12 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 </tr>
 <tr>
     <td>Universe Today - Space and astronomy news</td>
-    <td></td>
+    <td>https://www.youtube.com/c/universetodayvids</td>
     <td>https://www.universetoday.com/</td>
 </tr>
 <tr>
     <td>Everyday Astronaut </td>
-    <td></td>
+    <td>https://www.youtube.com/c/EverydayAstronaut</td>
     <td>https://everydayastronaut.com/</td>
 </tr>
 <tr>
@@ -616,12 +618,24 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>我们只是一个个人博客</td>
     <td>https://www.spaceflightfans.cn/</td>
 </tr>
+<tr>   
+    <td>Casey Handmer</td>
+    <td>Space, Travel, Technology, 3D Printing, Energy, Writing</td>
+    <td>https://caseyhandmer.wordpress.com/</td>
+</tr>
+<tr>
+    <td>Space UpClose</td>
+    <td>Ken Kremer</td>
+    <td>https://www.spaceupclose.com/</td>
+</tr>
 <tr>
     <td><img width="75" src="https://www.sdss.org/wp-content/uploads/2014/05/sdsslogowhite.png">The Sloan Digital Sky Survey</td>
     <td>Mapping the Universe</td>
     <td>https://www.sdss.org/</td>
 </tr>
 </table>
+
+
 
 
 
