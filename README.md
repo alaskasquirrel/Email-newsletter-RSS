@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -84,7 +84,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 |Email |RSS|
 |:---|:----|
-|[瑞士](https://protonmail.com/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://protonmail.com/privacy-policy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|<img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) An awesome Free and Open Source RSS Feed reader ❤️|
+|[瑞士](https://proton.me/)<img src="https://avatars.githubusercontent.com/u/6953970" width="30"> [Privacy Policy](https://proton.me/legal/privacy) ProtonMail[开源](https://github.com/protonmail) iOS/Android [记录IP信息](https://www.reddit.com/r/ProtonMail/comments/pil6xi/climate_activist_arrested_after_protonmail/)&[法院判决](https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196)|<img src="https://f-droid.org/repo/com.nononsenseapps.feeder/en-US/icon_Ab31f6rFiG70NRqjyOH87znJd2y38yiEg2Tz_lY791w=.png" width="30"> Android [Feeder](https://f-droid.org/en/packages/com.nononsenseapps.feeder/) An awesome Free and Open Source RSS Feed reader ❤️|
 |[德国](https://tutanota.com/)<img src="https://avatars.githubusercontent.com/u/6120691?s=200&v=4" width="30"> [Privacy Policy](https://tutanota.com/privacy) Tutanota[开源](https://github.com/tutao) iOS/Android [法院判决](https://www.reddit.com/r/tutanota/comments/kaawl1/german_court_forces_encrypted_email_provider/)|<img src="https://www.joshholtz.com/images/2021-01-13/Hero.png" width="75"> An Otter RSS Reader for iOS and macOS [Josh Holtz](https://www.joshholtz.com)|
 |<img src="https://ecloud.global/themes/eCloud/core/img/logo.png" width="25">Webmail [E.email](https://ecloud.global/login) 非盈利组织[ e Foundation](https://e.foundation/ecloud/)|[Inoreader](https://www.inoreader.com/)|
 |[Ubikom](https://www.ubikom.cc/) "自主主权身份"邮箱|[Feedbin](https://feedbin.com/) is the best way to consume content on the Web. By combining RSS, Twitter, and newsletters, you can get all the good parts of the Web in one convenient location. [Privacy Policy](https://feedbin.com/privacy-policy)|
@@ -117,6 +117,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[anpu](https://www.anpu-oystermusic.com/)| 张悬 歌手 |
 |[Ali Abdaal](https://aliabdaal.com/newsletter/)| 一名医生，分享可行的生产力提升，实际的生活建议，高品质的见解。 |
 |[Auster's Halftime](https://archive.aweber.com/newsletter/awlist6147253)| A randomly issued personal newsletter of Auster Shi. |
+|<img width="35" src="https://bitcoinops.org/img/logos/optech-notext.png"> [Bitcoin Optech](https://bitcoinops.org/)| Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies. |
 |<img width="35" src="https://imgs.zhubai.love/ae93799c021c4c029bf7dfd78464bce3.png"> [CatTalk数字花园](https://cattalk.zhubai.love/)| 一个互联网技术从业者的所思所想，希望这些内容能为同行者提供一些价值 |
 |[ChinAI Newsletter](https://chinai.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4962753-3f4d-4196-8c89-c63ef265df3c_256x256" width="30"> Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
 | <img src="https://iois.me/wp-content/uploads/2020/03/2020newlogo-300px0304.png" width="30"> [Dailyio](https://iois.me/) | Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions) |
