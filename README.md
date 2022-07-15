@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -18,7 +18,7 @@
 
 <img width="35" src="https://www.outsightchina.com/img/nav-logo.27cf7cfc.svg"> [看鉴中国 | Outsight China](https://www.outsightchina.com/)
 
-[小鸟文学](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）[newsletter](https://app.aves.art/api/lb_post/share?id=1405) 
+[小鸟文学 ios app](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）newsletter
 
 [中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 👍
 
@@ -182,7 +182,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
 |[破茧日报](https://guozh.net/category/daily-information-share/)| 老郭种树 |
 |[TourTalk全球宏观研究及大类资产配置](https://www.getrevue.co/profile/tourtalk)| TourTalk Finance成立于2018年，立足于FICC视角下外汇、债券、股指及大宗商品市场的研究及交易。 我们以全球宏观对冲的思路，捕捉经济周期中循环往复的投资及交易机会TourTalk Finance目前主营全球市场策略分析报告、投资咨询、自营交易，为全球金融从业者、投资者提供专业的宏观经济及金融市场的分析与研究。 |
-|<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [[Yiqin Fu](https://yiqinfu.zhubai.love/)](https://yiqinfu.zhubai.love/)| 小说和数据都可以看一天 |
+|<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)| 小说和数据都可以看一天 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/242/766/thumb/%E5%A4%B4%E5%83%8F.png"> [笨方法实验室来信](http://newsletter.hardwaylab.com/)| 旨在给你一份防止自我解体的检查清单，鼓励你去做不败的难事。 |
 |[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
 |<img src="https://chengbaoyuedu.cn/wp-content/uploads/2019/10/%E5%9F%8E%E5%A0%A1%E6%A8%AA%E5%B9%85.png" width="75"> [城堡阅读](https://www.yuque.com/gaohui-bdaa2/chengbao)|分享个体见闻、探索内心宇宙。 [RSS](https://rsshub.app/yuque/doc/297292)|
@@ -249,6 +249,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |[意游未尽](https://pangliacci.hedwig.pub/)|个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。|
 |<img width="35" src="https://imgs.zhubai.love/6982c8460aa142a780459496b134ed2a.jpg"> [杂事](https://maguisine.zhubai.love/)|独立出版收集狂的吐槽与推荐—— 由 ShivaD 创作|
+|[工劳小报](https://newsletter.laborinfocn.com/)|关注当代打工人，双周发布工人、劳动相关动态、深度报道、评论的整理小报。|
 |[在诗外](https://lauren.hedwig.pub/)|关于如何成为更好的人类，关注自我成长、文化和科技。汝果欲学诗，功夫在诗外。|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
@@ -494,11 +495,16 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://css-weekly.com/</td>
 </tr>
 <tr>
-    <td rowspan="11">海外</td>
+    <td rowspan="12">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/
         https://balkaninsight.com/newsletters</td>
+</tr>
+<tr>
+    <td>European press roundup</td>
+    <td>eurotopics.net</td>
+    <td></td>
 </tr>
 <tr>
     <td><img width="150" src="http://seekvectorlogo.com/wp-content/uploads/2018/09/quanta-magazine-vector-logo.png"></td>
@@ -641,25 +647,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 </table>
 
 
+
 [Ephemeral New York](https://ephemeralnewyork.wordpress.com/) | Chronicling an ever-changing city through faded and forgotten artifacts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
