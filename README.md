@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -95,10 +95,6 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/ic_launcher-web.png"> [FairEmail](https://github.com/M66B/FairEmail) Fully featured, open source, privacy friendly email app for Android [Privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail)|[Dinosaur Rss](https://dinorss.org/) A simple, efficient, open source RSS reader service (Win/Mac)|
 |[Disroot: Secure email for your desktop client or via a web interface](https://disroot.org/) , [Privacy Policy ](https://disroot.org/en/privacy_policy)|Disroot<img width="35" src="https://ravenreader.app/wp-content/themes/ravenreader-site/dist/images/raven-logo_c1651b25.svg"> [Raven Reader](https://ravenreader.app/) - All your articles in one place. Beautiful.|
 |[SimpleLogin](https://simplelogin.io/)  Emails are forwarded to your real email address. If you reply to a sender it will use your alias, too. It is designed to be user friendly and available on many platforms.|Open source anonymous email service<img width="35" src="https://nodetics.com/feedbro/shots/reader128.png"> [Feedbro](https://nodetics.com/feedbro/) - RSS Feed Reader with built-in Rule Engine|
-
-
-
-刘家财：<img width="35" src="https://www.gnu.org/software/emacs/images/emacs.png"> [使用 Emacs 阅读邮件与 RSS](https://liujiacai.net/blog/2021/03/05/emacs-love-mail-feed/)
 
 
 
@@ -267,6 +263,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[瞬间记忆](https://mio.hedwig.pub/)| 每周五发信的 Newsletter，分享与 Well-being 有关的事情。 |
 |<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
+|[可持续的小勇气](https://sustainablecourage.zhubai.love/)| 一封由个人观察和经历出发，关注生活中可持续的勇气与良善的故事，同时也会收集一些包括但不限于社会创新与设计、人文方面的资讯。希望我的通讯能够给你带来一点点阅读的价值，和一点快乐。—— 由 土狗 创作 |
 
 [极客阅读](https://jikeyuedu.cn/hot)  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
 
@@ -617,10 +614,15 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://www.f-16.net/</td>
 </tr>
 <tr>
-    <td rowspan="10">Space</td>
+    <td rowspan="11">Space</td>
     <td>深空探测学报(中英文）</td>
     <td></td>
     <td>http://jdse.bit.edu.cn/sktcxb/</td>
+</tr>
+<tr>
+    <td>The Planetary Society</td>
+    <td></td>
+    <td>https://www.planetary.org/</td>
 </tr>
 <tr>
     <td><img width="200" src="http://www.spacesafetymagazine.com/wp-content/uploads/2013/07/Banner-SSM-960x90-1.jpg"></td>
@@ -638,9 +640,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://everydayastronaut.com/</td>
 </tr>
 <tr>
-    <td>航天爱好者网 </td>
-    <td>我们只是一个个人博客</td>
-    <td>https://www.spaceflightfans.cn/</td>
+    <td>SatTrackCam Leiden (b)log</td>
+    <td></td>
+    <td>https://sattrackcam.blogspot.com/</td>
 </tr>
 <tr>   
     <td>Casey Handmer</td>
@@ -657,7 +659,13 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>Mapping the Universe</td>
     <td>https://www.sdss.org/</td>
 </tr>
+<tr>
+    <td>The China Aerospace Blog</td>
+    <td></td>
+    <td>https://china-aerospace.blog/</td>
+</tr>
 </table>
+
 
 
 
