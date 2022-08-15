@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -248,7 +248,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[调查员手记](https://2999.hedwig.pub/)| Nowhere to go but everywhere |
 |<img width="35" src="https://qiniu.zhiy.cc/584d45d0dd17a1bd297af2577bd00a71/584d45d0dd17a1bd297af2577bd00a71"> [元朔](https://zhiy.cc/yyds)| 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的Newsletter均为免费，欢迎订阅。 |
 |<img width="35" src="https://imgs.zhubai.love/e312c8ce1f8246059f42c06cc091a477.jpeg"> [一人杂志](https://matsuri.zhubai.love/)| 介绍工具，分享新知，阐述洞见。 |
-|[可乐周报](https://coke.do/)| happy xiao 简短实用的效率方法，健康习惯，思维模式 |
+|[可乐周报](https://coke.do/)| happy xiao 简短实用的效率方法，健康习惯，思维模式。微博@i大狗熊 |
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
 |[意游未尽](https://pangliacci.hedwig.pub/)|个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。|
 |<img width="35" src="https://imgs.zhubai.love/6982c8460aa142a780459496b134ed2a.jpg"> [杂事](https://maguisine.zhubai.love/)|独立出版收集狂的吐槽与推荐—— 由 ShivaD 创作|
