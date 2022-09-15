@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -8,7 +8,7 @@
 
 ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！期待你的参与 Issues or Fork  订阅🎧 [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)了解更多讯息!
 
-**兼听则明，偏信则暗**
+[焦虑自救小册](https://github.com/chenyukang/anxiety-handbook)
 
 ******
 
@@ -180,7 +180,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[Data Stitches](https://datastitches.substack.com/)| 分享数据可视化、交互叙事项目以及创作者们使用的工具。 |
 |<img width="35" src="https://imgs.zhubai.love/0ca256393bca4d43bad190c7c932d9af.jpg"> [Jiayuan Thoughts](https://jiayuan.zhubai.love/)| Read, Learn, Share. |
 |[Random Lab](https://random-lab.ghost.io/)| 投资行业从业，内容包括商业观察、品牌出海、读书笔记，以及奢侈品行业二三事。 |
-|<img width="35" src=""> [Re:Play](https://replay.cafe/)| Re:Play 是由三位不专业的音乐爱好者([Justin](https://twitter.com/MapleShadow), [Oscar](https://twitter.com/oscarlee_), [Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张专辑。 |
+|<img width="35" src="https://replay.justinbot.com/album-logo.png?imageMogr2/quality/80"> [Re:Play](https://replay.cafe/)| imageMogr2/format/webpRe:Play 是由三位不专业的音乐爱好者([Justin](https://twitter.com/MapleShadow), [Oscar](https://twitter.com/oscarlee_), [Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张专辑。 |
 |[Shiye newsletter](https://shiye.substack.com/)|  |
 |<img width="40" src="https://shyrz.me/content/images/size/w1000/2021/09/Shyrism.News-Banner.png"> [Shyrism.News](https://shyrz.me/newsletter/)| A curated newsletter with novetly, stories and thoughts sent out semi-monthly to make you wiser. 一份甄选的时事通讯，涵盖奇闻、故事和思考，两周一期，使你更明智。[Subscribe](https://shyrz.substack.com/) |
 |<img src="https://www.podletter.club/assets/images/logos/N-StarRocket.jpg" width="30"> [Star Rocket 科技創業週報](https://blog.starrocket.io/star-rocket-newsletter/)| 台湾的非营利性创业孵化器Star Rocket旗下的Newsletter，每周筛选出高品质、有深度的科技内容，涵括产业趋势、商业策略，乃至于个人职涯。 |
