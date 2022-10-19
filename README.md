@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -143,12 +143,13 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://github.com/alaskasquirrel/Email-newsletter-RSS/blob/master/images/louiscard.jpg"> [Louiscard' Blog](https://louiscard.com/category/newsletter/) 吕江涛|Develop a personal productivity system as a product|
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/127/845/thumb/Profile.png" width="30"> [MonoGoto](https://monogoto.ryouissei.com)|由 Issei 制作的月刊，介绍从自己的视角看到的世界，以及关于设计、艺术和文化的推荐信息。|
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
+|[前路](https://xiwei.zhubai.love/)|This is a road...|
 |<img width="35" src="https://zhiy.cc/default.png"> [Sustainable Curiosity](https://zhiy.cc/mccc)|小陈的Every other day reading sharing，这里是我日间碎片化阅读的批注和观点的集散地，偶尔也会来书评和主题文章推荐。关注领域：互联网、商业纪实、效率工具和数字化管理提升。|
 |<img width="30" src="https://imgs.zhubai.pub/e579663cdf754ff99671458d9cc5ad56.jpg"> [The Quibbler](https://thequibbler.zhubai.love/) 李奇|这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。|
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/398/170/thumb/6605C0A2-221B-4233-B754-0E256AFA5711.jpeg"> [Weekly newsletter of haikebang.com](http://x.haikebang.com/)|「骇客邦」会员通讯|
 |[Yestoday](https://yestoday.substack.com/)|投资即阅读|
 |<img src="https://newslab.info/wp-content/uploads/2016/08/logo.png" width="75">新闻实验室 [付费版](https://newslab.info/join/)／ [免费版](https://www.getrevue.co/profile/newslab)| 出品人：方可成，香港中文大学新闻与传播学院助理教授，宾夕法尼亚大学Annenberg传播学院博士，曾在《南方周末》报社担任记者，政见CNPolitics发起人，《东方历史评论》编辑，本科和硕士毕业于北京大学新闻与传播学院。 |
-|<img width="35" src="https://i.typlog.com/wangyr45/8354037005_710322.png"> [棱镜通讯](https://www.wangyurui.top/tags/Newsletter/)| 每期选一个话题，Newsletter棱镜通讯主要关注记录、挖掘科学创造、社会思想和个体生活。 |
+|<img width="35" src="https://i.typlog.com/wangyr45/8354037005_710322.png"> [棱镜通讯](https://wangyurui.com/)| 每期选一个话题，Newsletter棱镜通讯主要关注记录、挖掘科学创造、社会思想和个体生活。 |
 |[灵感买家俱乐部](https://club.q24.io)| 网络杂志 |
 |<img width="35" src="https://imgs.zhubai.love/b7db4d6f53c64928bda2601bb8fd1b70.jpeg"> [本夜朽舎](https://honyakusha.zhubai.love/)| 聊翻译，谈科技，分享玩具，胡侃游戏。—— 由 Harvey Janson 创作 |
 |<img src="https://laixin.one/content/images/2021/06/Red.png" width="30"> [林中来信](https://laixin.one)| 《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。 |
@@ -165,6 +166,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 | <img width="35" src="https://imgs.zhubai.love/2ac76d2e672e4224a630bf92b72af005.jpg"> [摄影小报](https://photography.zhubai.love/) | 一个摄影爱好者的好奇心探索。—— 由 东炜黄 创作 |
 |[事不过三](https://via.hedwig.pub)| 重要的事情不过三件。文浩（即刻ID：蛋散）关于认识自己、好好学习、好好生活的分享。 |
 |<img src="https://qiniu.yilifangshuyi.com/6ea6cc48bebbf5f2e145276512ca5049/6ea6cc48bebbf5f2e145276512ca5049" width="30"> [白宇极](https://zhiy.cc/baiyuji)| 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。 |
+|[显济的闲言碎语](https://xianjijeffery.zhubai.love/)| 对交互有点想法的设计师，喜欢写点跟别人不一样的。（如有任何问题，欢迎反馈到我的即刻：显济Jeffery） |
 |<img width="35" src="https://imgs.zhubai.love/29d0d68cb0ec49f09627dfc7e1d6228f.jpg"> [废话少说](https://nonsense.zhubai.love/)| 人文、科技、美学 —— 由 废话少说 创作 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
 |<img width="35" src="https://imgs.zhubai.love/26df876511bb49129931089bc0103878.png"> [生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。—— 由 炜晨 创作 |
@@ -190,6 +192,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[Steve说每周通讯](https://steve.hedwig.pub/)| Steve和朋友们每周精选的优质内容。 |
 |[破茧日报](https://guozh.net/category/daily-information-share/)| 老郭种树 |
 |[TourTalk全球宏观研究及大类资产配置](https://www.getrevue.co/profile/tourtalk)| TourTalk Finance成立于2018年，立足于FICC视角下外汇、债券、股指及大宗商品市场的研究及交易。 我们以全球宏观对冲的思路，捕捉经济周期中循环往复的投资及交易机会TourTalk Finance目前主营全球市场策略分析报告、投资咨询、自营交易，为全球金融从业者、投资者提供专业的宏观经济及金融市场的分析与研究。 |
+|[The Cohort](https://the-cohort.io/)| 5 Top Mobile Marketing Links, Every Day |
 |<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)| 小说和数据都可以看一天 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/242/766/thumb/%E5%A4%B4%E5%83%8F.png"> [笨方法实验室来信](http://newsletter.hardwaylab.com/)| 旨在给你一份防止自我解体的检查清单，鼓励你去做不败的难事。 |
 |[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
@@ -205,6 +208,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
 |<img width="35" src="https://imgs.zhubai.love/d31c200e037e486d910d5e7f793906f2.jpg"> [关雅荻·天生勇气](https://guanyadi.zhubai.love/)| 户外极限运动的体验与思考（超马越野跑、环球帆船赛等）/ 影视文化等领域观察与思考 / 随机漫步的思考碎片 |
 |<img width="35" src="https://xiaobot.oss-cn-shanghai.aliyuncs.com/paper/qianguyihao.jpeg"> [惊鸿壹面](https://xiaobot.net/p/qianguyihao)| 每日更新：读书笔记、产品思考、软件工具、信息推荐、具体生活。热爱阅读和分享。探索小而美的一面，比宏大更宏大。https://qianguyihao.com/ |
+|[机器文摘](https://niupitools.zhubai.love/)| 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）”吧。 |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[惊奇短信](https://www.getrevue.co/profile/gexu)| 船长的惊奇短信 |
