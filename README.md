@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -108,13 +108,16 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |:---|:---|
 |<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作|
 |<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作|
-|<img width="35" src="https://read.deeplearning.ai/the-batch/_next/image?url=%2Fthe-batch%2Fstatic%2Fimages%2Fbrandimages%2Fthebatchlogo.png"> The Batch: Weekly AI news for engineers, executives, and enthusiasts.|订阅更新https://read.deeplearning.ai/the-batch/|
+|[电子达摩](https://sagaiam.zhubai.love/)|致敬吉恩·史密斯。 这份通讯主要关注数字世界内与喜马拉雅有关的讨论 。—— 由 萨特的落叶 创作|
+|<img width="35" src="https://read.deeplearning.ai/the-batch/_next/image?url=%2Fthe-batch%2Fstatic%2Fimages%2Fbrandimages%2Fthebatchlogo.png"> The Batch: Weekly AI news for engineers, executives, and enthusiasts.|订阅更新订阅更新https://read.deeplearning.ai/the-batch/|
 |[TLDR Newsletter](https://tldr.tech/)|TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。|
-|[三十七周刊](http://nl.37weekly.com/)|生活，个人成长 —— Kun|
+|[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。|
+|<img width="35" src="https://imgs.zhubai.love/58a460adaafd4ca7bf14eb8b5605c77a.png"> [37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作|
 |[Λ-Reading](https://rizime.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecc1474-39f8-4a6b-a014-d4c3354f8a72_334x334.png" width="30"> 包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
 |Adam Tooze|https://adamtooze.com/blog/|
-|[A Learning a Day](https://alearningaday.blog)| <img src="https://alearningadayblog.files.wordpress.com/2017/07/alearingadaylogov6.png" width="30"> |
+|[After Work 下班后](https://tangweijuan.zhubai.love/)|分享 设计 —— 由 Tifa 创作|
+|[A Learning a Day](https://alearningaday.blog)|  |
 |[anpu](https://www.anpu-oystermusic.com/)| 张悬 歌手 |
 |[Ali Abdaal](https://aliabdaal.com/newsletter/)| 一名医生，分享可行的生产力提升，实际的生活建议，高品质的见解。 |
 |[Auster's Halftime](https://archive.aweber.com/newsletter/awlist6147253)| A randomly issued personal newsletter of Auster Shi. |
@@ -152,6 +155,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://i.typlog.com/wangyr45/8354037005_710322.png"> [棱镜通讯](https://wangyurui.com/)| 每期选一个话题，Newsletter棱镜通讯主要关注记录、挖掘科学创造、社会思想和个体生活。 |
 |[灵感买家俱乐部](https://club.q24.io)| 网络杂志 |
 |<img width="35" src="https://imgs.zhubai.love/b7db4d6f53c64928bda2601bb8fd1b70.jpeg"> [本夜朽舎](https://honyakusha.zhubai.love/)| 聊翻译，谈科技，分享玩具，胡侃游戏。—— 由 Harvey Janson 创作 |
+|[对话练习](https://dahan.zhubai.love/)| 大憨的生活田野手记。 |
 |<img src="https://laixin.one/content/images/2021/06/Red.png" width="30"> [林中来信](https://laixin.one)| 《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。 |
 |[唯理通讯 Veritas](https://www.veritaschina.org/newsletter)| 唯理通讯推荐精选自互联网的深度文本。我们希望这些内容传播富有思考的声音，并促进订阅者对社会议题的关注。我们相信，在互联网的信息洪流中仍有独立思考的可能。 |
 |[每天一根](https://1genperweek.substack.com/)| 折耳根和朋友们分享的每周中的所见所闻所想。 |
@@ -170,9 +174,10 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/29d0d68cb0ec49f09627dfc7e1d6228f.jpg"> [废话少说](https://nonsense.zhubai.love/)| 人文、科技、美学 —— 由 废话少说 创作 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
 |<img width="35" src="https://imgs.zhubai.love/26df876511bb49129931089bc0103878.png"> [生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。—— 由 炜晨 创作 |
-|[自说自话](https://landisland.hedwig.pub/)| 没有记录就没有发生，而记录本身已经是一种反抗。—— 由 陆屿 创作 |
+|[驯鹿漫游](https://reindeerramble.zhubai.love/)| 记录我近期收集的有趣信息及一些联想。 |
+|[自说自话](https://landisland.zhubai.love/)| 没有记录就没有发生，而记录本身已经是一种反抗。               |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/426/708/thumb/5pDG_j2h.jpg"> [吴说每日精选加密新闻](https://www.getrevue.co/profile/wublockchain12/)| 吴说每日晚报，提供每天最重要的加密新闻与深度好文。 |
-|<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录过去一周，搜寻到的我有所感悟的信息。 |
+|<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录我近期收集的有趣信息及一些联想。不定期更新。个人主页：https://eddiehe.super.site/记录过去一周，搜寻到的我有所感悟的信息。 |
 |<img src="https://verbo2009.github.io/images/avatar.png?v=1630666480471" width="30"> [刻意周刊](https://wenboblog.com/)| 科技/互联网/商业/创业/投资等相关优质内容，每周一期，周五或周六更新，更多内容请访问：[Superdaily](https://www.superdaily.cn/) |
 |[codedump的网络日志](https://www.getrevue.co/profile/lichuang)|  |
 |[DEADWOODS](https://whiteghostfire.zhubai.love/)| @WhiteGhostFire- 的Zine/艺术书专栏：已创作“通假字”系列Vol.1, Vol.2, Vol.3《绿色迷宫》；其他新书创作中…… |
@@ -254,6 +259,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[熊言熊语](https://podcast.kaopubear.top/)| 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。 |
 |<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
 |<img width="35" src="https://imgs.zhubai.love/ef6903d18f5341ec83fafebc4bca8de0.png"> [试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。—— 由 阿颖 创作 |
+|<img width="35" src="https://imgs.zhubai.love/0662acb29b634994a70edda04ab5cdbb.jpg">[「养鹅厂」每周通讯](https://radiochicken.zhubai.love/)| 人的行为总是一再重复。因此卓越不是一时的行为，而是习惯。—— 由 耷耷耷的大耳 创作 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/629/thumb/90udvAmT.jpg"> [野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
 |<img width="35" src="https://imgs.zhubai.love/e0026abebb5f48a9ac0dc9de7d035c37.jpg"> [野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记，每两周一期，免费订阅。傅丰元 |
 |微咸| https://weixian.hedwig.pub/ |
@@ -515,7 +521,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://css-weekly.com/</td>
 </tr>
 <tr>
-    <td rowspan="15">海外</td>
+    <td rowspan="16">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/
@@ -555,6 +561,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>China Skinny</td>
     <td>https://www.chinaskinny.com/newsletter/</td>
     <td>aims to give busy China-related professionals a concise, relevant and informative view of the latest news and trends in the China market in one short weekly read.</td>
+</tr>
+<tr>
+    <td>The Record</td>
+    <td>https://recordnepal.com/</td>
+    <td>位于尼泊尔的一家独立新闻网站，他们会在每周五发出一份newsletter，记录尼泊尔在一周内发生的事情。</td>
 </tr>
 <tr>
     <td>UCLA Health</td>
@@ -690,6 +701,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://china-aerospace.blog/</td>
 </tr>
 </table>
+
 
 
 
