@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -16,7 +16,7 @@
 
 <img width="35" src="https://www.podletter.club/assets/images/logo-collapsed@2x.png"> [PodLetter 播客简报导航](https://www.podletter.club/)
 
-[RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器
+[RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
 
 <img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 独立开发产品变现周刊 https://www.ezindie.com/
 
@@ -34,7 +34,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 方可成： [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 
-[小叉的梦呓](https://chasays.zhubai.love/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
+[小叉的梦呓](https://chasays.zhubai.love/),[RSS](https://rsshub.app/zhubai/chasays)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
 
 [如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662) 
 
@@ -106,24 +106,24 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 
 |邮箱 newsletter 订阅|简介|
 |:---|:---|
-|<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作|
-|<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作|
+|<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作. [https://rsshub.app/zhubai/podpress]|
+|<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作. [RSS](https://rsshub.app/zhubai/podcast)|
 |[电子达摩](https://sagaiam.zhubai.love/)|致敬吉恩·史密斯。 这份通讯主要关注数字世界内与喜马拉雅有关的讨论 。—— 由 萨特的落叶 创作|
 |<img width="35" src="https://read.deeplearning.ai/the-batch/_next/image?url=%2Fthe-batch%2Fstatic%2Fimages%2Fbrandimages%2Fthebatchlogo.png"> The Batch: Weekly AI news for engineers, executives, and enthusiasts.|订阅更新订阅更新https://read.deeplearning.ai/the-batch/|
 |[TLDR Newsletter](https://tldr.tech/)|TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!|
-|[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。|
-|[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。|
-|<img width="35" src="https://imgs.zhubai.love/58a460adaafd4ca7bf14eb8b5605c77a.png"> [37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作|
+|[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。[RSS](https://rsshub.app/zhubai/young)|
+|[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。[RSS](https://rsshub.app/zhubai/podcast/101010)|
+|<img width="35" src="https://imgs.zhubai.love/58a460adaafd4ca7bf14eb8b5605c77a.png"> [37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作. [RSS](https://rsshub.app/zhubai/kun37)|
 |[Λ-Reading](https://rizime.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecc1474-39f8-4a6b-a014-d4c3354f8a72_334x334.png" width="30"> 包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
 |Adam Tooze|https://adamtooze.com/blog/|
-|[After Work 下班后](https://tangweijuan.zhubai.love/)|分享 设计 —— 由 Tifa 创作|
+|[After Work 下班后](https://tangweijuan.zhubai.love/)|分享 设计 —— 由 Tifa 创作. [RSS](https://rsshub.app/zhubai/tangweijuan)|
 |[A Learning a Day](https://alearningaday.blog)|  |
 |[anpu](https://www.anpu-oystermusic.com/)| 张悬 歌手 |
 |[Ali Abdaal](https://aliabdaal.com/newsletter/)| 一名医生，分享可行的生产力提升，实际的生活建议，高品质的见解。 |
 |[Auster's Halftime](https://archive.aweber.com/newsletter/awlist6147253)| A randomly issued personal newsletter of Auster Shi. |
 |<img width="35" src="https://bitcoinops.org/img/logos/optech-notext.png"> [Bitcoin Optech](https://bitcoinops.org/)| Bitcoin Optech helps Bitcoin users and businesses integrate scaling technologies. |
-|<img width="35" src="https://imgs.zhubai.love/7258a53245b94233a0a5ac4e5a24da8b.jpg"> [BLUE·周刊](https://huazi.zhubai.love/)| 本刊记录我每周发现的设计资源、设计资讯以及有关设计的文章。如果你刚好也感兴趣，真的太好了！—— 由 Huazi 创作 |
-|<img width="35" src="https://imgs.zhubai.love/ae93799c021c4c029bf7dfd78464bce3.png"> [CatTalk数字花园](https://cattalk.zhubai.love/)| 一个互联网技术从业者的所思所想，希望这些内容能为同行者提供一些价值 |
+|<img width="35" src="https://imgs.zhubai.love/7258a53245b94233a0a5ac4e5a24da8b.jpg"> [BLUE·周刊](https://huazi.zhubai.love/)| 本刊记录我每周发现的设计资源、设计资讯以及有关设计的文章。如果你刚好也感兴趣，真的太好了！—— 由 Huazi 创作. [RSS](https://rsshub.app/zhubai/huazi) |
+|<img width="35" src="https://imgs.zhubai.love/ae93799c021c4c029bf7dfd78464bce3.png"> [CatTalk数字花园](https://cattalk.zhubai.love/)| 一个互联网技术从业者的所思所想，希望这些内容能为同行者提供一些价值. [RSS](https://rsshub.app/zhubai/cattalk) |
 |[ChinAI Newsletter](https://chinai.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4962753-3f4d-4196-8c89-c63ef265df3c_256x256" width="30"> Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
 |每日一荐|https://github.com/azl397985856/daily-featured|
 | <img src="https://iois.me/wp-content/uploads/2020/03/2020newlogo-300px0304.png" width="30"> [Dailyio](https://iois.me/) | Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions) |
@@ -171,10 +171,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[事不过三](https://via.hedwig.pub)| 重要的事情不过三件。文浩（即刻ID：蛋散）关于认识自己、好好学习、好好生活的分享。 |
 |<img src="https://qiniu.yilifangshuyi.com/6ea6cc48bebbf5f2e145276512ca5049/6ea6cc48bebbf5f2e145276512ca5049" width="30"> [白宇极](https://zhiy.cc/baiyuji)| 我对世界的看法、书信、读书记录以及由此而来的思考。短文居多。 |
 |[显济的闲言碎语](https://xianjijeffery.zhubai.love/)| 对交互有点想法的设计师，喜欢写点跟别人不一样的。（如有任何问题，欢迎反馈到我的即刻：显济Jeffery） |
+|[翻译动态 fanyi.news](https://translation.zhubai.love/)| 一份旨在为译者、翻译行业从业者以及翻译爱好者提供中外网翻译行业资讯的 newsletter。内容定位：即时、专注、有用、有趣。[RSS](https://rsshub.app/zhubai/translation) |
 |<img width="35" src="https://imgs.zhubai.love/29d0d68cb0ec49f09627dfc7e1d6228f.jpg"> [废话少说](https://nonsense.zhubai.love/)| 人文、科技、美学 —— 由 废话少说 创作 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
 |<img width="35" src="https://imgs.zhubai.love/26df876511bb49129931089bc0103878.png"> [生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。—— 由 炜晨 创作 |
-|[驯鹿漫游](https://reindeerramble.zhubai.love/)| 记录我近期收集的有趣信息及一些联想。 |
+|[驯鹿漫游](https://reindeerramble.zhubai.love/)| 记录我近期收集的有趣信息及一些联想。[RSS](https://rsshub.app/zhubai/reindeerramble) |
 |[自说自话](https://landisland.zhubai.love/)| 没有记录就没有发生，而记录本身已经是一种反抗。               |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/426/708/thumb/5pDG_j2h.jpg"> [吴说每日精选加密新闻](https://www.getrevue.co/profile/wublockchain12/)| 吴说每日晚报，提供每天最重要的加密新闻与深度好文。 |
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/214/392/thumb/NOSu6Ng8.jpg?1617343943" width="30"> [随意搜寻](https://www.getrevue.co/profile/thinkingjimmy)| 记录我近期收集的有趣信息及一些联想。不定期更新。个人主页：https://eddiehe.super.site/记录过去一周，搜寻到的我有所感悟的信息。 |
@@ -184,6 +185,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://buttondown.s3.amazonaws.com/icons/1d272fcb-2021-470e-af25-ecd15566e0ff.png" width="25"> [Nothing Here](https://buttondown.email/nothing)| At Nothing Here, we scour the internet so you don’t have to, and serve up a selection of interesting articles on culture, politics, ecology, climate change, the end of the world, and all that good shit. We’ll also let you know what books, films, TV, and music we’ve been enjoying, because, hell, sometimes you need something to distract from the endless parade of atrocities that is the 21st Century. [full archives ](https://buttondown.email/nothing/archive/) |
 |[International Centre for Stem Education](https://icse.eu/startseite/newsletter/)| Through our international newsletter we keep our partners, stakeholders and anyone interested in our work informed about the latest events and conferences, as well as reports and materials from ICSE and its projects. The newsletter is issued to our unique and unparalleled network of around 2000 STEM education researchers |
 |[KAIX.IN](https://kaix.in)|  |
+|[Link设计周刊](https://zjing.zhubai.love/)| 长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。—— 由 正靖Zing 创作, [RSS](https://rsshub.app/zhubai/zjing). |
 |<img width="35" src="https://interconnected.blog/content/images/size/w1000/2020/02/Interconnected_cropped_white_transparent.png"> [interconnected](https://interconnected.blog/)| Internet's only bilingual newsletter on the intersections of tech, business, money, geopolitics, and US-Asia relations. New post every week by Kevin Xu (@kevinsxu) |
 |[iD公社](https://www.hi-id.com)| <img src="https://www.hi-id.com/imgg/hiidlogo2X.png" width="30"> |
 |[Data Stitches](https://datastitches.substack.com/)| 分享数据可视化、交互叙事项目以及创作者们使用的工具。 |
@@ -198,6 +200,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[破茧日报](https://guozh.net/category/daily-information-share/)| 老郭种树 |
 |[TourTalk全球宏观研究及大类资产配置](https://www.getrevue.co/profile/tourtalk)| TourTalk Finance成立于2018年，立足于FICC视角下外汇、债券、股指及大宗商品市场的研究及交易。 我们以全球宏观对冲的思路，捕捉经济周期中循环往复的投资及交易机会TourTalk Finance目前主营全球市场策略分析报告、投资咨询、自营交易，为全球金融从业者、投资者提供专业的宏观经济及金融市场的分析与研究。 |
 |[The Cohort](https://the-cohort.io/)| 5 Top Mobile Marketing Links, Every Day |
+|[unBlock 区块链周报](https://unblock.zhubai.love/)| 从技术角度解读区块链热点，区块链入门教程. [RSS](https://rsshub.app/zhubai/unblock). |
 |<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)| 小说和数据都可以看一天 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/242/766/thumb/%E5%A4%B4%E5%83%8F.png"> [笨方法实验室来信](http://newsletter.hardwaylab.com/)| 旨在给你一份防止自我解体的检查清单，鼓励你去做不败的难事。 |
 |[财新网电邮通讯](https://other.caixin.com/e_newsletter/)| 财新网的newsletter，可选新闻、评论等类别订阅。 |
@@ -213,7 +216,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://qiniu.zhiy.cc/ba3abc021fcf37e548f6c42b19bc0b1d/ba3abc021fcf37e548f6c42b19bc0b1d"> [精选日报](https://zhiy.cc/daynews)| 一文了解天下事。 |
 |<img width="35" src="https://imgs.zhubai.love/d31c200e037e486d910d5e7f793906f2.jpg"> [关雅荻·天生勇气](https://guanyadi.zhubai.love/)| 户外极限运动的体验与思考（超马越野跑、环球帆船赛等）/ 影视文化等领域观察与思考 / 随机漫步的思考碎片 |
 |<img width="35" src="https://xiaobot.oss-cn-shanghai.aliyuncs.com/paper/qianguyihao.jpeg"> [惊鸿壹面](https://xiaobot.net/p/qianguyihao)| 每日更新：读书笔记、产品思考、软件工具、信息推荐、具体生活。热爱阅读和分享。探索小而美的一面，比宏大更宏大。https://qianguyihao.com/ |
-|[机器文摘](https://niupitools.zhubai.love/)| 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）”吧。 |
+|[机器文摘](https://niupitools.zhubai.love/)| 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）”吧。[RSS](https://rsshub.app/zhubai/niupitools) |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[惊奇短信](https://www.getrevue.co/profile/gexu)| 船长的惊奇短信 |
@@ -228,6 +231,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/80bd7899c57d46e9a77c1b20d006eb28.png"> [花生碎](https://peanutbutter.zhubai.love/)| 记录是种自我建档。—— 由 花生酱 创作 |
 |[混沌周刊](https://weekly.love/)| 有关科技，有关开发，有关生活 |
 |[光明王](https://lordoflight.substack.com/)| 加入你的网上邻居，一起阅读新闻，一起奇思妙想，一起欢度时光。 |
+|[火车在经过](https://yidian.zhubai.love/)| 用想象力实现对日常的补给. [RSS](https://rsshub.app/zhubai/yidian) |
 |<img width="30" src="https://www.podletter.club/assets/images/logos/N-Mb.png"> [曼報](https://manny-li.com/)| 由曾担任过游戏产业分析师和创投公司总监的李易鸿（Manny）创办，是一份关注科技及创新趋势的Newsletter，内容包括介绍科技产业的新闻，以及深度分析文章。[Podcast](https://open.firstory.me/rss/user/ckb7oop2y0yit0873vc36njil) |
 |<img width="35" src="https://imgs.zhubai.love/303bf9a3fd114f72a7cdf01dfe216048.jpeg"> [青陈 QingChen](https://qingchen.zhubai.love/)| 分享广义的阅读。关于产品、科技、设计与人文 —— 由 汗青 创作 |
 |<img width="35" src="https://qiniu.zhiy.cc/1ed6deaaa522dee8f8487f1aa9acefec/1ed6deaaa522dee8f8487f1aa9acefec"> [逆流Upstream](https://zhiy.cc/upstream)| 流媒体与创作者经济的深度观察。 |
@@ -255,13 +259,15 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/e09f43c49696452dbe939221b4970f66.png"> [大人的坚持魔法术](https://bodeng.zhubai.love/)| 分享一些坚持的魔法，做乌龟赛跑里的乌龟就够了。每周四发出。—— 由 01 创作 |
 |[小胖’s Daily Note](http://littlefat.cn/)| 记录我日常发现的一些东西。 |
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
+|[若有所播](https://tobepodcasting.zhubai.love/)| 这是一份由播客专栏「若有所播」主理人、《北海怪兽》主播若冰撰写的生活阅读电子报，如无意外，两周一更。 除了 newsletter 以外，你还可以收听播客《北海怪兽》、订阅公众号「若有所播」、订阅小报童「若有所播」。[RSS](https://rsshub.app/zhubai/tobepodcasting) |
 |[New Frontend](https://nextfe.com/)|  |
+|[闲棋冷子](https://lengzi.zhubai.love/)| 研究交叉领域，训练思维模型。 |
 |[熊言熊语](https://podcast.kaopubear.top/)| 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。 |
 |<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
 |<img width="35" src="https://imgs.zhubai.love/ef6903d18f5341ec83fafebc4bca8de0.png"> [试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。—— 由 阿颖 创作 |
 |<img width="35" src="https://imgs.zhubai.love/0662acb29b634994a70edda04ab5cdbb.jpg">[「养鹅厂」每周通讯](https://radiochicken.zhubai.love/)| 人的行为总是一再重复。因此卓越不是一时的行为，而是习惯。—— 由 耷耷耷的大耳 创作 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/629/thumb/90udvAmT.jpg"> [野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
-|<img width="35" src="https://imgs.zhubai.love/e0026abebb5f48a9ac0dc9de7d035c37.jpg"> [野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记，每两周一期，免费订阅。傅丰元 |
+|<img width="35" src="https://imgs.zhubai.love/e0026abebb5f48a9ac0dc9de7d035c37.jpg"> [野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记—— 由 傅丰元 创作. [RSS](https://rsshub.app/zhubai/bobfu) |
 |微咸| https://weixian.hedwig.pub/ |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/074/950/thumb/8444874114_39814.jpeg"> [一方天地](http://newsletter.emmmme.com/)| 在这里，我会分享一些的阅读与思考。https://emmmme.com/ |
 |<img width="35" src="https://harryyifei.com/_next/image?url=https%3A%2F%2Fsuper-static-assets.s3.amazonaws.com%2F881d2838-988e-4277-9e42-b232d76b0bad%2Fimages%2Ff3d1ad77-6e3c-4f38-b6e1-518611731ecc.svg&w=1080&q=80"> [一飞周报](https://harryyifei.com/weekly)| harryyifei |
@@ -276,6 +282,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[在诗外](https://lauren.hedwig.pub/)|关于如何成为更好的人类，关注自我成长、文化和科技。汝果欲学诗，功夫在诗外。|
 |<img src="https://www.podletter.club/assets/images/logos/default.png" width="30"> [增长黑客周刊](http://ghacker.vip/)| 范冰的Newsletter，关注增长案例、工具资源、效率认知。 |
 |[知更鸟文档](https://robin.hedwig.pub/)| 🤖 每周一份关于「💡 Thought」，「🔧 Tools」和「🌊 Creativity」的所见分享。 |
+|[竹本一世](https://benyu.zhubai.love/)| 关注工具、产品、人机交互、Web3 和创作者经济w |
 |[李亚洲的Newsletter](https://m.weibo.cn/u/1009508005)| 机器之心联合创始人、副主编 |
 |<img width="35" src="https://imgs.zhubai.love/cf42d578d162447d86250f48d227e7dd.png"> [好工具周刊](https://bestxtools.zhubai.love/)| 发现并分享有趣，有创意，免费、好用的工具，每周四发布。[RSS](https://discuss-cn.bestxtools.com/atom/t/weekly) ; [微信订阅](https://discuss-cn.bestxtools.com/d/5/2) |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/418/047/thumb/logo.png"> [酷玩周刊](https://www.getrevue.co/profile/coldplay-weekly)| 发掘一切有趣的数字生活 |
