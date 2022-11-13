@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -113,6 +113,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[TLDR Newsletter](https://tldr.tech/)|TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。[RSS](https://rsshub.app/zhubai/young)|
 |[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。[RSS](https://rsshub.app/zhubai/podcast/101010)|
+|[321来信](https://321laixin.zhubai.love/)|💌 3 个推荐，2 个碎片 ，1 个想法，周二更新，关注互联网新技术、社交媒体、人。|
 |<img width="35" src="https://imgs.zhubai.love/58a460adaafd4ca7bf14eb8b5605c77a.png"> [37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作. [RSS](https://rsshub.app/zhubai/kun37)|
 |[Λ-Reading](https://rizime.substack.com/)|<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecc1474-39f8-4a6b-a014-d4c3354f8a72_334x334.png" width="30"> 包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
 |Adam Tooze|https://adamtooze.com/blog/|
@@ -238,6 +239,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[若有所播丨To Be Podcasting](https://www.getrevue.co/profile/tobepodcasting)|  |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/283/200/thumb/QQ%E5%9B%BE%E7%89%8720210702102835.jpg"> [其思秒想](https://www.getrevue.co/profile/yolo365)| 记录过去一周间，看到的让我有所触动和有趣的内容信息，以及体验发现的书/影/好物。 |
 |<img width="35" src="https://imgs.zhubai.love/602daa5045b04e7ca5832ce33b2aa928.jpg"> [漫无目的](https://manwumudi.zhubai.love/)| 系好安全带，带上小水杯，让我们漫无目的的飘向外太空。—— 由 Dennis 创作 |
+|[曲率飞船](https://warpdrive.zhubai.love/)| 用思想熨平身边的空间，一起在曲率驱动下探索生活的边界吧！【 新知｜阅读｜生活｜社会 】 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/260/004/thumb/vanilla-appstore.png"> [ 轻芒封面](https://www.getrevue.co/profile/qingmang) 停刊 & [阅览室](https://read.land/)| 每周一到周五，和轻芒一起深度阅读。[PDF存档](https://wj.qq.com/s2/9116430/80fa/) |
 |[商业内观](https://if.zoepi.online/)| [RSS](https://rss.zoepi.online) |
 |<img width="35" src="https://zhiy.cc/default.png"> [社群成长札记](https://zhiy.cc/communitynote)| 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片，纪念这段“跑江湖”的旅程，也作为第一手实践资料，供大家学习。以后合起来也许就是一本书了~ |
@@ -261,7 +263,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0d06cbe-58ca-4935-99a1-7c6d120bcdca_256x256.png" width="30"> [小星星通訊](https://news.oobe.tw/)| 台湾网友OOBE的newletter，没有集中的主题，有一些轻松有趣的资讯。 |
 |[若有所播](https://tobepodcasting.zhubai.love/)| 这是一份由播客专栏「若有所播」主理人、《北海怪兽》主播若冰撰写的生活阅读电子报，如无意外，两周一更。 除了 newsletter 以外，你还可以收听播客《北海怪兽》、订阅公众号「若有所播」、订阅小报童「若有所播」。[RSS](https://rsshub.app/zhubai/tobepodcasting) |
 |[New Frontend](https://nextfe.com/)|  |
+|[玩Android](https://android.zhubai.love/)| 围绕安卓的一些技术知识点~ |
 |[闲棋冷子](https://lengzi.zhubai.love/)| 研究交叉领域，训练思维模型。 |
+|[香江望北](https://hongkong.zhubai.love/)| 关注香港也关心内地，心系祖国又放眼四海。 |
 |[熊言熊语](https://podcast.kaopubear.top/)| 关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。聊学习工作、聊科研科普。 |
 |<img width="35" src="https://imgs.zhubai.love/25f9f6ff9d374e2b82cb9187d70ef07e.jpg"> [夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。—— 由 lika 创作 |
 |<img width="35" src="https://imgs.zhubai.love/ef6903d18f5341ec83fafebc4bca8de0.png"> [试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。—— 由 阿颖 创作 |
