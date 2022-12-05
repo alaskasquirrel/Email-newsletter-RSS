@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -154,6 +154,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="30" src="https://imgs.zhubai.pub/e579663cdf754ff99671458d9cc5ad56.jpg"> [The Quibbler](https://thequibbler.zhubai.love/) 李奇|这是一份关于互联网、科技领域的 Newsletter，每月一期，偶尔提前。|
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/398/170/thumb/6605C0A2-221B-4233-B754-0E256AFA5711.jpeg"> [Weekly newsletter of haikebang.com](http://x.haikebang.com/)|「骇客邦」会员通讯|
 |[Yestoday](https://yestoday.substack.com/)|投资即阅读|
+|[产品鸭](https://produck.zhubai.love/)|每周读一篇新产品与设计思路介绍，创业者产品创业的精神武装。（暂停更新中|
 |<img src="https://newslab.info/wp-content/uploads/2016/08/logo.png" width="75">新闻实验室 [付费版](https://newslab.info/join/)／ [免费版](https://www.getrevue.co/profile/newslab)| 出品人：方可成，香港中文大学新闻与传播学院助理教授，宾夕法尼亚大学Annenberg传播学院博士，曾在《南方周末》报社担任记者，政见CNPolitics发起人，《东方历史评论》编辑，本科和硕士毕业于北京大学新闻与传播学院。 |
 |<img width="35" src="https://i.typlog.com/wangyr45/8354037005_710322.png"> [棱镜通讯](https://wangyurui.com/)| 每期选一个话题，Newsletter棱镜通讯主要关注记录、挖掘科学创造、社会思想和个体生活。 |
 |[灵感买家俱乐部](https://club.q24.io)| 网络杂志 |
@@ -220,6 +221,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/d31c200e037e486d910d5e7f793906f2.jpg"> [关雅荻·天生勇气](https://guanyadi.zhubai.love/)| 户外极限运动的体验与思考（超马越野跑、环球帆船赛等）/ 影视文化等领域观察与思考 / 随机漫步的思考碎片 |
 |<img width="35" src="https://xiaobot.oss-cn-shanghai.aliyuncs.com/paper/qianguyihao.jpeg"> [惊鸿壹面](https://xiaobot.net/p/qianguyihao)| 每日更新：读书笔记、产品思考、软件工具、信息推荐、具体生活。热爱阅读和分享。探索小而美的一面，比宏大更宏大。https://qianguyihao.com/ |
 |[机器文摘](https://niupitools.zhubai.love/)| 定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）”吧。[RSS](https://rsshub.app/zhubai/niupitools) |
+|[橘子咖啡馆](https://www.getrevue.co/profile/oran_ge)|  |
 |<img src="https://invisible.school/content/images/2021/02/----2-1.png" width="30"> [看不见的学园](https://invisible.school/)| 档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。[会员计划](https://invisible.school/membership/) |
 |<img width="35" src="https://daodu.tech/wp-content/uploads/2019/04/%E9%A6%96%E9%A0%81LOGO%E5%A4%A7.png"> [科技島讀（已休刊）](https://daodu.tech/)| 由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。 |
 |[惊奇短信](https://www.getrevue.co/profile/gexu)| 船长的惊奇短信 |
