@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -14,13 +14,9 @@
 
 <img width="70" src="https://alleyread.com/images/logo.png"> [AlleyRead](https://alleyread.com/) - 重塑你的信息源
 
-<img width="35" src="https://www.podletter.club/assets/images/logo-collapsed@2x.png"> [PodLetter 播客简报导航](https://www.podletter.club/)
+[竹白专栏检索](https://zb.liey.cn/) ; [竹白百科](https://www.zhubai.wiki/)
 
 [RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
-
-<img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 独立开发产品变现周刊 https://www.ezindie.com/
-
-<img width="35" src="https://www.outsightchina.com/img/nav-logo.27cf7cfc.svg"> [看鉴中国 | Outsight China](https://www.outsightchina.com/)
 
 [小鸟文学 ios app](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）newsletter
 
@@ -82,8 +78,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |:---|:---|:---|
 |<img src="http://larocqueinc.com/wp-content/uploads/2020/04/Notion-Logo.png" width="65"> [Notion](https://www.notion.so/) , [Terms and Privacy](https://www.notion.so/Terms-and-Privacy-28ffdd083dc3473e9c2da6ec011b58ac)|<img src="https://zhiy.cc/logo.png" width="30"> [知园](https://zhiy.cc) , [用户协议](https://www.notion.so/3c407a8bb529444a88dcef35032b117f)|<img src="https://gw.alipayobjects.com/mdn/prod_resou/afts/img/A*OwZWQ68zSTMAAAAAAAAAAABkARQnAQ" width="50"> [语雀](https://www.yuque.com/) , [服务协议](https://www.yuque.com/terms)|
 |<img src="https://cdn.substack.com/image/fetch/w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack-nomargin.png" width="30"> [Substack](https://substack.com) , [Privacy Policy](https://substack.com/privacy)|<img src="https://www.podletter.club/assets/images/logos/Hedwig.png" width="30"> [Hedwig](https://hedwig.pub)|<img src="https://www.podletter.club/assets/images/logos/Medium.png" width="30"> [Medium](https://medium.com/)|
-|<img src="https://boolie.org/wp-content/uploads/2021/05/teaser_revue_newsletter_service.png" width="30"> [Revue](https://www.getrevue.co/)|<img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)|<img src="https://www.podletter.club/assets/images/logos/Zhubai.png" width="30"> [竹白](https://zhubai.love/)|
-|[Convertkit](https://convertkit.com/) , [Privacy Policy](https://convertkit.com/privacy)|||
+| [Convertkit](https://convertkit.com/) , [Privacy Policy](https://convertkit.com/privacy) |<img src="https://hypper.cn/static/header-logo.523f0942.svg" width="30"> [氢舟](https://hypper.cn/)|<img src="https://www.podletter.club/assets/images/logos/Zhubai.png" width="30"> [竹白](https://zhubai.love/)|
+| [小报童](https://xiaobot.net/home.html), [隐私协议](https://help.xiaobot.net/privacy.html) |||
 
 
 |Email |RSS|
@@ -110,6 +106,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |:---|:---|
 |<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作. [https://rsshub.app/zhubai/podpress]|
 |<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作. [RSS](https://rsshub.app/zhubai/podcast)|
+|<img width="35" src="https://www.ezindie.com/_nuxt/img/logo_orange.30eac5b.png"> 独立开发产品变现周刊|https://www.ezindie.com/|
 |[电子达摩](https://sagaiam.zhubai.love/)|致敬吉恩·史密斯。 这份通讯主要关注数字世界内与喜马拉雅有关的讨论 。—— 由 萨特的落叶 创作|
 |<img width="35" src="https://read.deeplearning.ai/the-batch/_next/image?url=%2Fthe-batch%2Fstatic%2Fimages%2Fbrandimages%2Fthebatchlogo.png"> The Batch: Weekly AI news for engineers, executives, and enthusiasts.|订阅更新订阅更新https://read.deeplearning.ai/the-batch/|
 |[TLDR Newsletter](https://tldr.tech/)|TLDR is a daily newsletter with links and TLDRs of the most interesting stories in startups 🚀, tech 📱, and programming 💻!|
@@ -282,8 +279,10 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[调查员手记](https://2999.hedwig.pub/)| Nowhere to go but everywhere |
 |<img width="35" src="https://qiniu.zhiy.cc/584d45d0dd17a1bd297af2577bd00a71/584d45d0dd17a1bd297af2577bd00a71"> [元朔](https://zhiy.cc/yyds)| 分享深度职场经验、技巧、公文写作干货和效率软件等，用我所知，陪你前行。 目前，推送的Newsletter均为免费，欢迎订阅。 |
 |<img width="35" src="https://imgs.zhubai.love/e312c8ce1f8246059f42c06cc091a477.jpeg"> [一人杂志](https://matsuri.zhubai.love/)| 介绍工具，分享新知，阐述洞见。 |
+|[一稻iTo](https://eureka121.zhubai.love/)| 像运营实际的企业一样来运营自媒体/Newsletter，借此增进对多元模型思维 & 投资的理解 |
 |[可乐周报](https://coke.do/)| happy xiao 简短实用的效率方法，健康习惯，思维模式。微博@i大狗熊 |
 |<img src="https://i.typlog.com/yitianshijie/8404617956_6524515.png" width="30"> [一天世界](https://yitianshijie.net/)|浓烟烈焰，摄魄勾魂。翱翔万里，神采飞扬。不鳥萬如一主理。IPN 出品。 [会员计划](https://member.yitianshijie.net/) ; [RSS](https://yitianshijie.net/episodes/feed.xml)|
+|[有(冇)用](https://usefulness.zhubai.love/)|由视觉设计师 Abbie 和艺术编辑 Kwen 发起，是一份从我们的角度捕捉生活中「有冇用信息」的收藏室。包含但不限于新闻评议、职业感悟，生活琐事、书影音推荐等等，希望能与大家一起发现生活中更多的美好～|
 |[意游未尽](https://pangliacci.hedwig.pub/)|个人在游戏内外的思考；“就爱玩游戏俱乐部”成员讨论内容提要；值得一提的本周游戏新闻。|
 |<img width="35" src="https://imgs.zhubai.love/6982c8460aa142a780459496b134ed2a.jpg"> [杂事](https://maguisine.zhubai.love/)|独立出版收集狂的吐槽与推荐—— 由 ShivaD 创作|
 |[工劳小报](https://newsletter.laborinfocn.com/)|关注当代打工人，双周发布工人、劳动相关动态、深度报道、评论的整理小报。|
@@ -536,7 +535,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://css-weekly.com/</td>
 </tr>
 <tr>
-    <td rowspan="16">海外</td>
+    <td rowspan="17">海外</td>
     <td>Southern and Eastern Europe 巴尔干半岛与东欧</td>
     <td>Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Kosovo, North Macedonia, Moldova, Montenegro, Romania,Serbia, Turkey, Greece, Ukraine, the Czech Republic, Slovakia, Hungary and Poland.</td>
     <td>https://balkaninsight.com/feed/
@@ -571,6 +570,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>Slow Chinese 每周漫闻</td>
     <td>https://newsletter.slowchinese.net/</td>
     <td>a weekly newsletter to help you learn, use, and understand modern Chinese language the way people speak it today.</td>
+</tr>
+<tr>
+    <td>看鉴中国 | Outsight China</td>
+    <td>https://www.outsightchina.com/</td>
+    <td></td>
 </tr>
 <tr>
     <td>China Skinny</td>
@@ -716,6 +720,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://china-aerospace.blog/</td>
 </tr>
 </table>
+
 
 
 
