@@ -13,7 +13,7 @@
 |创作平台|[AlleyRead](https://alleyread.com/) - 重塑你的信息源|[竹白专栏检索](https://zb.liey.cn/)|[竹白百科](https://www.zhubai.wiki/)|
 |:---|:---|:---|:---|
 |[Substack](#Substack)|[竹白](#竹白)|[知园](#知园)|[语雀](#语雀)|
-|[小报童](#小报童)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Ghost](@Ghost)|
+|[小报童](#小报童)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Ghost](#Ghost)|
 
 [RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
 
