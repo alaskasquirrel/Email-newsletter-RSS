@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -92,7 +92,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |财新电邮订阅|https://other.caixin.com/e_newsletter/|
 |Star Rocket 科技創業週報|https://blog.starrocket.io/star-rocket-newsletter/|
 |[Interconnected](https://interconnected.blog/)|Where Tech, Investing, Geopolitics Come Together|
-|神经现实 - Messages from the unseen world. [RSS](https://neu-reality.com/feed/)|https://neu-reality.com/|
+|生信爱好者周刊|https://shixiangwang.github.io/weekly/|
+|「很大声周刊」记录每周工作、生活所见。|https://github.com/hendasheng/HenDaShengWeekly|
+|Resources神经现实 - Messages from the unseen world. [RSS](https://neu-reality.com/feed/)|https://neu-reality.com/|
 |Tw93🩴 潮流周刊，记录我的不枯燥生活 [RSS](https://weekly.tw93.fun/rss.xml)|https://weekly.tw93.fun/|
 |龙爪槐守望者 - 体验碎周报 [RSS](https://www.ftium4.com/rss.xml)|https://www.ftium4.com/|
 |每周分享 - 费照君|https://feizhaojun.com/|
@@ -133,6 +135,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |不如读书 \| 乌鸦哥哥|https://wuyagege.substack.com/|
 |China Explained / 解释中国|https://chinaexplained.substack.com/|
 |小星星通訊|https://news.oobe.tw/|
+|[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)||
 
 ### 竹白
 |创作平台：https://zhubai.love/|[竹白团队官方专栏](https://news.zhubai.love/)|
@@ -164,6 +167,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[本夜朽舎](https://honyakusha.zhubai.love/)|聊翻译，谈科技，分享玩具，胡侃游戏 —— 由 Harvey Janson 创作|
 |[电子达摩](https://sagaiam.zhubai.love/)|致敬吉恩·史密斯。 这份通讯主要关注数字世界内与喜马拉雅有关的讨论 。—— 由 萨特的落叶 创作|
 |[对话练习](https://dahan.zhubai.love/)|大憨的生活田野手记。|
+|[富于理性](https://havefun.zhubai.love/)|求知若饥，虚心若愚。 2022 年聚焦于「创造财富」。|
 |[关雅荻·天生勇气](https://guanyadi.zhubai.love/)|户外极限运动的体验与思考（超马越野跑、环球帆船赛等）/ 影视文化等领域观察与思考 / 随机漫步的思考碎片|
 |[机器文摘](https://niupitools.zhubai.love/)|定期分享我看到的有趣的内容（不一定是最新的，但是有意思），因为大部分都与机器有关，所以先叫它“机器文摘（MachineDigest）”吧。|
 |[简悦周报](https://simpread.zhubai.love/)|简悦周报官方推送渠道，同时也会分享开发故事与生产力工具，效率等工具的使用心得 —— 由 Kenshin 创作|
@@ -181,6 +185,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[摄影小报](https://photography.zhubai.love/)| 一个摄影爱好者的好奇心探索。—— 由 东炜黄 创作 |
 |[生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。 —— 由 炜晨 创作 |
 |[事不过三](https://via.zhubai.love/)| 重要的事情不过三件：认识自己、好好学习、好好生活 —— 由 文浩 创作 |
+|[思考的价值](https://simon.zhubai.love/)| 我们每天都会接收到过载的信息，然而明月与砾同囊，其中的优质信息往往会被淹没，因此需要一个信息过滤服务来提升接收的信息质量。 思考的价值由此而来，分享内容的不限，偏向于 计算机技术 与 科技人文的方向。 内容存档可见：https://thinking.tomotoes.com/ |
 |[试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。 |
 |[吾栖之地](https://sirius.zhubai.love/)| 钟纯的不定期回顾，用文字创作Cyber空间的个人纪录片。—— 由 Chuwen 创作 |
 |[显济的闲言碎语](https://xianjijeffery.zhubai.love/)| 下午2:00-5:00在喝咖啡｜海外智能硬件产品设计师｜做了自己的网站：Jefferyho.com |
@@ -282,14 +287,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/629/thumb/90udvAmT.jpg"> [野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/418/047/thumb/logo.png"> [酷玩周刊](https://www.getrevue.co/profile/coldplay-weekly)| 发掘一切有趣的数字生活 |
 
-
-[极客阅读](https://jikeyuedu.cn/hot)  <a href="https://devurls.com/"><img width="100" src="https://devurls.com/images/logo-devurls.png"></a> 、 <a href="https://finurls.com/"><img width="100" src="https://finurls.com/images/logo-finurls.png"></a> 、 <a href="https://mathurls.com/"><img width="100" src="https://mathurls.com/images/logo-mathurls.png"></a> 、 <a href="https://physurls.com/"><img width="100" src="https://physurls.com/images/logo-physurls.png"></a> 、 <a href="https://sciurls.com/"><img width="100" src="https://sciurls.com/images/logo-sciurls.png"></a> 、 <a href="https://techurls.com/"><img width="100" src="https://techurls.com/images/logo-techurls.png"></a> 、 <a href="https://tuxurls.com/"><img width="100" src="https://tuxurls.com/images/logo-tuxurls.png"></a> 
-
-[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)  
-
 <img width="35" src="https://shuziyimin.org/assets/images/logo-collapsed@2x.png"> [数字游民导航](https://shuziyimin.org/)  ｜[Nomad List - Best Places to Live for Digital Nomads](https://nomadlist.com/)｜ [Awesome Tech Conferences](https://curatedtalks.com/)
-
-
 
 <table>
   <tr>
@@ -311,7 +309,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 <tr>
     <td>HelloGitHub</td>
     <td>分享GitHub上有趣、入门级的开源项目</td>
-    <td>https://hellogithub.com/</td>
+    <td>https://hellogithub.com/rss</td>
 </tr>
 <tr>
     <td>Lobsters</td>
@@ -692,6 +690,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://china-aerospace.blog/</td>
 </tr>
 </table>
+
 
 
 
