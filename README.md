@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -144,6 +144,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作. [RSS](https://rsshub.app/zhubai/podcast)|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。[RSS](https://rsshub.app/zhubai/young)|
 |[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。[RSS](https://rsshub.app/zhubai/podcast/101010)|
+|[1790的阅读笔记](https://ichigo.zhubai.love/)|Exploring My Curiosity and Sharing What I Learn along the Way.—— 由 Derek 创作|
 |[321来信](https://321laixin.zhubai.love/)|💌 3 个推荐，2 个碎片 ，1 个想法，周二更新，关注互联网新技术、社交媒体、人。|
 |[37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作. [RSS](https://rsshub.app/zhubai/kun37)|
 |[玩Android](https://android.zhubai.love/)|围绕安卓的一些技术知识点~|
@@ -152,6 +153,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[APP不释手应用周记](https://flyhink.zhubai.love/)|iOS 优质应用推荐及吐槽|
 |[Bytes by Alfred](https://alfxjx.zhubai.love/)|大前端技术前沿，科技好物推荐，生活方式和咖啡|
 |<img width="35" src="https://imgs.zhubai.love/7258a53245b94233a0a5ac4e5a24da8b.jpg"> [BLUE·周刊](https://huazi.zhubai.love/)[Link设计周刊](https://zjing.zhubai.love/)|本刊记录我每周发现的设计资源、设计资讯以及有关设计的文章。如果你刚好也感兴趣，真的太好了！—— 由 Huazi 创作. [RSS](https://rsshub.app/zhubai/huazi)长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。|
+|[DailyUp](https://dailyup.zhubai.love/)|发布数理思维每日挑战，分享育儿育己学习心得。日拱一卒无有尽，功不唐捐终入海！—— 由 大圣不是圣 创作|
 |[DecoHack周刊](https://decohack.zhubai.love/)|为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。 内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式 每周更新 —— 由 viggo 创作|
 |[DEADWOODS](https://whiteghostfire.zhubai.love/)|@WhiteGhostFire- 的Zine/艺术书专栏：已创作“通假字”系列Vol.1, Vol.2, Vol.3《绿色迷宫》；其他新书创作中……|
 |[Design Scenes Weekly](https://designscenes.zhubai.love/)|设计视角下的互联网资讯观察与节选 —— 由 fenx 创作|
@@ -161,10 +163,13 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[GeekPlux Lab](https://geekplux.zhubai.love/)|商业、技术、财富、个人提升等，Always Exploring|
 |[Link设计周刊](https://zjing.zhubai.love/)|长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。|
 |[Shyrism.News](https://shyrz.zhubai.love/)|一份甄选的时事通讯，两周一期，涵盖新奇趣闻、热点议题、前沿科技以及其他关于生活、关于未来的事物。|
+|[SurpriseBand](https://surpriseband.zhubai.love/)|让乐队被多一个人发现 —— 由 宝藏乐队 创作|
 |[The Quibbler](https://thequibbler.zhubai.love/)|这是一份关于互联网、科技领域的专栏，欢迎订阅 —— 由 李奇 创作|
 |<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)|小说和数据都可以看一天|
 |[叭叭呜](https://babawu.zhubai.love/)|商业分析、投资。 在科技革命、产业变革驱动的新世界，陪伴你做好「个人风投」—— 由 于欣烈 创作|
+|[重新思考](https://nsjkr.zhubai.love/)|每周六，我们也许可以一起「重新思考」。—— 由 南山居氪 创作|
 |[本夜朽舎](https://honyakusha.zhubai.love/)|聊翻译，谈科技，分享玩具，胡侃游戏 —— 由 Harvey Janson 创作|
+|[当众孤独](https://oracle.zhubai.love/)|想到哪儿就写到哪儿。—— 由 靳斯羽 创作|
 |[电子达摩](https://sagaiam.zhubai.love/)|致敬吉恩·史密斯。 这份通讯主要关注数字世界内与喜马拉雅有关的讨论 。—— 由 萨特的落叶 创作|
 |[对话练习](https://dahan.zhubai.love/)|大憨的生活田野手记。|
 |[富于理性](https://havefun.zhubai.love/)|求知若饥，虚心若愚。 2022 年聚焦于「创造财富」。|
@@ -175,6 +180,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[前路](https://xiwei.zhubai.love/)|This is a road... —— 由 xiwei 创作|
 |[青陈 QingChen](https://qingchen.zhubai.love/)|分享广义的阅读。关于产品、科技、设计与人文 —— 由 汗青 创作|
 |[曲率飞船](https://warpdrive.zhubai.love/)|用思想熨平身边的空间，一起在曲率驱动下探索生活的边界吧！【 新知｜阅读｜生活｜社会 】—— 由 亦银河 创作|
+|[工作进阶笔记](https://workreview.zhubai.love/)|Daily Review - What I learn today —— 由 七白 创作|
 |<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
 |[可持续的小勇气](https://sustainablecourage.zhubai.love/)| 一封由个人观察和经历出发，关注生活中可持续的勇气与良善的故事，同时也会收集一些包括但不限于社会创新与设计、人文方面的资讯。希望我的通讯能够给你带来一点点阅读的价值，和一点快乐。—— 由 土狗 创作 |
@@ -270,8 +276,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |竹本一世 - 关注工具、产品、人机交互、Web3 和创作者经济|https://benyu.zhubai.love/|
 |[Futurow 未来派](https://futurow.zhubai.love/)|爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么 —— 由 FinnYan 创作|
 
-### Revue
-|创作平台：https://www.getrevue.co/|即将关闭|
+### Getrevue
+|创作平台：https://www.getrevue.co/|已经宣布关站，详见 [www.getrevue.co/app/offboard](http://www.getrevue.co/app/offboard)|
 |:---|:---|
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/426/708/thumb/5pDG_j2h.jpg"> [吴说每日精选加密新闻](https://www.getrevue.co/profile/wublockchain12/)| 吴说每日晚报，提供每天最重要的加密新闻与深度好文。 |
