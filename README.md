@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -84,6 +84,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img src="https://lockrmail.com/wp-content/themes/lockrmail/images/footer/lock.svg" width="30"> [LockrMail](https://lockrmail.com/open-beta/) 马甲邮箱 [Privacy Policy](https://lockrmail.com/privacy-policy/)|<img width="35" src="https://f-droid.org/repo/co.appreactor.news/en/icon_3mEWStLniEIC3X8nsnnwENlnwhZuKQchRd4o6YDFNoY=.png">  [News](https://f-droid.org/packages/co.appreactor.news/) Feed reader and podcast player for Android|
 | [SimpleLogin](https://simplelogin.io/)  Emails are forwarded to your real email address. If you reply to a sender it will use your alias, too. It is designed to be user friendly and available on many platforms. |[Dinosaur Rss](https://dinorss.org/) A simple, efficient, open source RSS reader service (Win/Mac)|
 |[Disroot: Secure email for your desktop client or via a web interface](https://disroot.org/) , [Privacy Policy ](https://disroot.org/en/privacy_policy)|Disroot<img width="35" src="https://ravenreader.app/wp-content/themes/ravenreader-site/dist/images/raven-logo_c1651b25.svg"> [Raven Reader](https://ravenreader.app/) - All your articles in one place. Beautiful.|
+||[RssCafe](https://rss.cafe/welcome)|
 
 |自搭自建|独立站点|
 |:---|:---|
@@ -115,7 +116,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="35" src="https://i.typlog.com/wangyr45/8354037005_710322.png"> 太隐 - [棱镜通讯](https://wangyurui.com/)|每期选一个话题，Newsletter棱镜通讯主要关注记录、挖掘科学创造、社会思想和个体生活。|
 |唯理通讯 Veritas Newsletter|https://www.veritaschina.org/newsletter/|
 |新闻实验室・方可成｜newslab.info|https://newslab.info/|
-|Manjusaka 的每周周报，记录自己的日常生活|https://manjusaka.itscoder.com/weekly|
+|李者鳌 Manjusaka 的每周周报，记录自己的日常生活|https://www.manjusaka.blog/weekly|
 |骇客邦|https://haikebang.com/|
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
 |TLDR Newsletter - A Byte Sized Daily Tech Newsletter|https://tldr.tech/|
@@ -275,6 +276,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[unBlock 区块链周报](https://unblock.zhubai.love/)|从技术角度解读区块链热点，区块链入门教程|
 |竹本一世 - 关注工具、产品、人机交互、Web3 和创作者经济|https://benyu.zhubai.love/|
 |[Futurow 未来派](https://futurow.zhubai.love/)|爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么 —— 由 FinnYan 创作|
+|Glassnode Insights - The Week Onchain Newsletter|https://insights.glassnode.com/tag/newsletter/|
 
 ### Getrevue
 |创作平台：https://www.getrevue.co/|已经宣布关站，详见 [www.getrevue.co/app/offboard](http://www.getrevue.co/app/offboard)|
