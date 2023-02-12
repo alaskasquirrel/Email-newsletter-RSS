@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -137,6 +137,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |China Explained / 解释中国|https://chinaexplained.substack.com/|
 |小星星通訊|https://news.oobe.tw/|
 |[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)||
+|[Roam 漫游研究所](https://jimmylv.substack.com/)|欢迎一起学习探索 Roam 的技巧、方法论和用例。—— 吕立青|
 
 ### 竹白
 |创作平台：https://zhubai.love/|[竹白团队官方专栏](https://news.zhubai.love/)|
@@ -163,12 +164,14 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[FE news](https://rottenpen.zhubai.love/)|分享前端，生活，我的周报～ 做梦都想去米哈游（可惜去字节跳动不用做梦 —— 由 rottenpen 创作|
 |[GeekPlux Lab](https://geekplux.zhubai.love/)|商业、技术、财富、个人提升等，Always Exploring|
 |[Link设计周刊](https://zjing.zhubai.love/)|长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。|
-|[Shyrism.News](https://shyrz.zhubai.love/)|一份甄选的时事通讯，两周一期，涵盖新奇趣闻、热点议题、前沿科技以及其他关于生活、关于未来的事物。|
+|[ROB1N的卧谈会](https://robinpeng.zhubai.love/)|闲话二三 —— 由 ROB1N 创作|
+|[Shyrism.News](https://shyrz.zhubai.love/)|一份甄选的时事通讯，两周一期，涵盖新奇趣闻、热点议题、前沿科技以及其他关于生活、关于未来的事物 —— 由 Shyrz 创作|
 |[SurpriseBand](https://surpriseband.zhubai.love/)|让乐队被多一个人发现 —— 由 宝藏乐队 创作|
 |[The Quibbler](https://thequibbler.zhubai.love/)|这是一份关于互联网、科技领域的专栏，欢迎订阅 —— 由 李奇 创作|
 |<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)|小说和数据都可以看一天|
 |[叭叭呜](https://babawu.zhubai.love/)|商业分析、投资。 在科技革命、产业变革驱动的新世界，陪伴你做好「个人风投」—— 由 于欣烈 创作|
-|[重新思考](https://nsjkr.zhubai.love/)|每周六，我们也许可以一起「重新思考」。—— 由 南山居氪 创作|
+|[柏事可乐🥤](https://superdouble.zhubai.love/)|互联网打工人的思考，保持好奇，保持联系 —— 由 超级加倍 创作|
+|[重新思考](https://nsjkr.zhubai.love/) <img width="35" src="https://img.zhubai.love/b84dfa8aad2d4255bb68ab303414ea3e.jpeg">|每周六，我们也许可以一起「重新思考」。—— 由 南山居氪 创作|
 |[本夜朽舎](https://honyakusha.zhubai.love/)|聊翻译，谈科技，分享玩具，胡侃游戏 —— 由 Harvey Janson 创作|
 |[当众孤独](https://oracle.zhubai.love/)|想到哪儿就写到哪儿。—— 由 靳斯羽 创作|
 |[电子达摩](https://sagaiam.zhubai.love/)|致敬吉恩·史密斯。 这份通讯主要关注数字世界内与喜马拉雅有关的讨论 。—— 由 萨特的落叶 创作|
@@ -181,7 +184,9 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[前路](https://xiwei.zhubai.love/)|This is a road... —— 由 xiwei 创作|
 |[青陈 QingChen](https://qingchen.zhubai.love/)|分享广义的阅读。关于产品、科技、设计与人文 —— 由 汗青 创作|
 |[曲率飞船](https://warpdrive.zhubai.love/)|用思想熨平身边的空间，一起在曲率驱动下探索生活的边界吧！【 新知｜阅读｜生活｜社会 】—— 由 亦银河 创作|
+|[搞机日记](https://luzhnan.zhubai.love/)|路中南的搞机日记|
 |[工作进阶笔记](https://workreview.zhubai.love/)|Daily Review - What I learn today —— 由 七白 创作|
+|[南北大街](https://nsblvd.zhubai.love/)|上海的一小块 —— 由 南北大街 创作|
 |<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
 |[可持续的小勇气](https://sustainablecourage.zhubai.love/)| 一封由个人观察和经历出发，关注生活中可持续的勇气与良善的故事，同时也会收集一些包括但不限于社会创新与设计、人文方面的资讯。希望我的通讯能够给你带来一点点阅读的价值，和一点快乐。—— 由 土狗 创作 |
@@ -194,13 +199,17 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[事不过三](https://via.zhubai.love/)| 重要的事情不过三件：认识自己、好好学习、好好生活 —— 由 文浩 创作 |
 |[思考的价值](https://simon.zhubai.love/)| 我们每天都会接收到过载的信息，然而明月与砾同囊，其中的优质信息往往会被淹没，因此需要一个信息过滤服务来提升接收的信息质量。 思考的价值由此而来，分享内容的不限，偏向于 计算机技术 与 科技人文的方向。 内容存档可见：https://thinking.tomotoes.com/ |
 |[试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。 |
+|[瞬间 Press](https://photup.zhubai.love/)| 放下相机，认真思考 —— 由 按快门的陈王 创作 |
 |[吾栖之地](https://sirius.zhubai.love/)| 钟纯的不定期回顾，用文字创作Cyber空间的个人纪录片。—— 由 Chuwen 创作 |
 |[显济的闲言碎语](https://xianjijeffery.zhubai.love/)| 下午2:00-5:00在喝咖啡｜海外智能硬件产品设计师｜做了自己的网站：Jefferyho.com |
+|[闲棋冷子](https://lengzi.zhubai.love/)| 研究交叉领域，训练思维模型 —— 由 kok 创作 |
 |<img width="35" src="https://imgs.zhubai.love/1597b71b2fb845389ae68bf69da413ec.jpg"> [驯鹿漫游](https://reindeerramble.zhubai.love/)| 记录我近期收集的有趣信息及一些联想。不定期更新。个人主页：https://eddiehe.super.site/  —— 由 Eddie He 创作 |
 |[香江望北](https://hongkong.zhubai.love/)| 关注香港也关心内地，心系祖国又放眼四海。 |
 |[「养鹅厂」每周通讯](https://radiochicken.zhubai.love/)| 人的行为总是一再重复。因此卓越不是一时的行为，而是习惯。 |
 |[夜岚卧听风吹雨](https://likalan.zhubai.love/)| 正是喃喃私语时。 |
 |[野鱼志](https://bobfu.zhubai.love/)| 一份创作者社群田野笔记，由傅丰元、Forrest 和灵感买家俱乐部成员撰写。 |
+|[夜游船渡口](https://yeyouchuan.zhubai.love/)| 一艘见闻之船，欢迎登船 —— 由 夜游船 创作 |
+|[游牧教室](https://youmujiaoshi.zhubai.love/)| 人文阅读课 —— 由 游牧教室 创作 |
 |[一颗小树](https://xiaoshu.zhubai.love/)| 分享我的日常。我关注的领域包括但不限于互联网、技术、开源、投资理财、Web3，每周更新相关内容，欢迎你来。—— 由 也树 创作 |
 | [一稻iTo](https://eureka121.zhubai.love/) | 像运营实际的企业一样来运营自媒体/Newsletter，借此增进对多元模型思维 & 投资的理解 |
 | [一人杂志](https://matsuri.zhubai.love/) | 介绍工具，分享新知，阐述洞见 —— 由 马自立 创作 |
