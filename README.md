@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -91,10 +91,13 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |工劳导航 - 中国工人网址导航|https://laborinfocn.com/|
 |阮一峰 · 科技爱好者周刊 [RSS](https://www.ruanyifeng.com/blog/atom.xml)|https://github.com/ruanyf/weekly|
 |财新电邮订阅|https://other.caixin.com/e_newsletter/|
+|DTO Weekly Curations|https://tinyletter.com/dto/archive|
 |Star Rocket 科技創業週報|https://blog.starrocket.io/star-rocket-newsletter/|
 |[Interconnected](https://interconnected.blog/)|Where Tech, Investing, Geopolitics Come Together|
 |生信爱好者周刊|https://shixiangwang.github.io/weekly/|
+|[随意搜寻](https://suiyisouxun.com/)|记录过去一周，搜寻到的令我有所感悟的信息|
 |「很大声周刊」记录每周工作、生活所见。|https://github.com/hendasheng/HenDaShengWeekly|
+|[54321周刊](https://github.com/versun/54321-Weekly)||
 |Resources神经现实 - Messages from the unseen world. [RSS](https://neu-reality.com/feed/)|https://neu-reality.com/|
 |Tw93🩴 潮流周刊，记录我的不枯燥生活 [RSS](https://weekly.tw93.fun/rss.xml)|https://weekly.tw93.fun/|
 |龙爪槐守望者 - 体验碎周报 [RSS](https://www.ftium4.com/rss.xml)|https://www.ftium4.com/|
@@ -109,6 +112,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |一份来自意识光谱的「摘星」邀请函 - 商业内观|https://if.zoepi.online/|
 |<img width="50" src="https://anpu-prod.s3.ap-northeast-1.amazonaws.com/9d1cda8ec597412ea4d5b505dcfbfaee.jpg"> [anpu](https://www.anpu-oystermusic.com/)|张悬（歌手）|
 |羅越𐃏尋回微博|https://luoyue2020.micro.blog/|
+|[月维素材周刊](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)|[RSS](https://moonvy.com/blog/rss.xml)|
 |[Dailyio](https://iois.me/) – 人机关系指南|Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions)|
 |<img width="35" src="https://replay.justinbot.com/album-logo.png?imageMogr2/quality/80"> Re:Play 是由三位不专业的音乐爱好者([@Justin](https://twitter.com/MapleShadow), [@Oscar](https://twitter.com/oscarlee_) 和 [@Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张唱片。|imageMogr2/format/webphttps://replay.cafe/|
 |结绳志 Tying Knots – 人类学的观点、技艺与行动|https://tyingknots.net/|
@@ -165,7 +169,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[GeekPlux Lab](https://geekplux.zhubai.love/)|商业、技术、财富、个人提升等，Always Exploring|
 |[Link设计周刊](https://zjing.zhubai.love/)|长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。|
 |[ROB1N的卧谈会](https://robinpeng.zhubai.love/)|闲话二三 —— 由 ROB1N 创作|
-|[Shyrism.News](https://shyrz.zhubai.love/)|一份甄选的时事通讯，两周一期，涵盖新奇趣闻、热点议题、前沿科技以及其他关于生活、关于未来的事物 —— 由 Shyrz 创作|
+|[CyberClip](https://shyrz.zhubai.love/)|一份甄选的时事通讯，两周一期，涵盖新奇趣闻、热点议题、前沿科技以及其他关于生活、关于未来的事物 —— 由 Shyrz 创作|
 |[SurpriseBand](https://surpriseband.zhubai.love/)|让乐队被多一个人发现 —— 由 宝藏乐队 创作|
 |[The Quibbler](https://thequibbler.zhubai.love/)|这是一份关于互联网、科技领域的专栏，欢迎订阅 —— 由 李奇 创作|
 |<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)|小说和数据都可以看一天|
@@ -185,8 +189,10 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[青陈 QingChen](https://qingchen.zhubai.love/)|分享广义的阅读。关于产品、科技、设计与人文 —— 由 汗青 创作|
 |[曲率飞船](https://warpdrive.zhubai.love/)|用思想熨平身边的空间，一起在曲率驱动下探索生活的边界吧！【 新知｜阅读｜生活｜社会 】—— 由 亦银河 创作|
 |[搞机日记](https://luzhnan.zhubai.love/)|路中南的搞机日记|
+|[浮想细说](https://zhiliaofuxiang.zhubai.love/)|想到啥写啥，看到啥写啥 —— 由 知了 创作|
 |[工作进阶笔记](https://workreview.zhubai.love/)|Daily Review - What I learn today —— 由 七白 创作|
 |[南北大街](https://nsblvd.zhubai.love/)|上海的一小块 —— 由 南北大街 创作|
+|[啰里啰唆](https://luoliluosuo.zhubai.love/)|啰里啰唆是一份针对互联网和生活爱好者的数字杂志，旨在发现和分享一切有趣的东西。部分内容来自互联网采编，也有一些是编者本人的思考和短文，话题不固定，每期大约十五分钟阅读量，暂定每周四发布。—— 由 萝的卜 创作|
 |<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
 |[可持续的小勇气](https://sustainablecourage.zhubai.love/)| 一封由个人观察和经历出发，关注生活中可持续的勇气与良善的故事，同时也会收集一些包括但不限于社会创新与设计、人文方面的资讯。希望我的通讯能够给你带来一点点阅读的价值，和一点快乐。—— 由 土狗 创作 |
@@ -196,6 +202,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[若有所播](https://tobepodcasting.zhubai.love/)| 这是一份由播客专栏「若有所播」主理人、《北海怪兽》主播若冰撰写的生活阅读电子报，如无意外，两周一更。 除了 newsletter 以外，你还可以收听播客《北海怪兽》、订阅公众号「若有所播」、订阅小报童「若有所播」。 |
 |[摄影小报](https://photography.zhubai.love/)| 一个摄影爱好者的好奇心探索。—— 由 东炜黄 创作 |
 |[生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。 —— 由 炜晨 创作 |
+|[假设检验](https://jiashejianyan.zhubai.love/)| 生活｜阅读｜品牌｜投资 不见不散！—— 由 johnbens 创作 |
 |[事不过三](https://via.zhubai.love/)| 重要的事情不过三件：认识自己、好好学习、好好生活 —— 由 文浩 创作 |
 |[思考的价值](https://simon.zhubai.love/)| 我们每天都会接收到过载的信息，然而明月与砾同囊，其中的优质信息往往会被淹没，因此需要一个信息过滤服务来提升接收的信息质量。 思考的价值由此而来，分享内容的不限，偏向于 计算机技术 与 科技人文的方向。 内容存档可见：https://thinking.tomotoes.com/ |
 |[试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。 |
@@ -213,6 +220,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[一颗小树](https://xiaoshu.zhubai.love/)| 分享我的日常。我关注的领域包括但不限于互联网、技术、开源、投资理财、Web3，每周更新相关内容，欢迎你来。—— 由 也树 创作 |
 | [一稻iTo](https://eureka121.zhubai.love/) | 像运营实际的企业一样来运营自媒体/Newsletter，借此增进对多元模型思维 & 投资的理解 |
 | [一人杂志](https://matsuri.zhubai.love/) | 介绍工具，分享新知，阐述洞见 —— 由 马自立 创作 |
+| [一叶知秋](https://discovery.zhubai.love/) | 正如《淮南子·说山训》所说：“以小明大，见一叶落而知岁之将暮，睹瓶中之冰而知天下之寒。”诚邀诸位与我在此相聚，一叶知秋，愿我的零零碎语，于你能助你探索一二。—— 由 秋 S 创作 |
 | [有(冇)用](https://usefulness.zhubai.love/) | 「有(冇)用」由视觉设计师 Abbie 和艺术编辑 Kwen 发起，是一份从我们的角度捕捉生活中「有冇用信息」的收藏室。包含但不限于新闻评议、职业感悟，生活琐事、书影音推荐等等，希望能与大家一起发现生活中更多的美好～ |
 | [杂食](https://maguisine.zhubai.love/) | 独立出版收集狂的吐槽与推荐 —— 由 ShivaD 创作 |
 | [自说自话周报](https://landisland.zhubai.love/) | 没有记录就没有发生，而记录本身已经是一种反抗。—— 由 陆屿 创作 |
@@ -237,6 +245,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 ### 小报童
 |创作平台：https://xiaobot.net/home.html|[隐私协议](https://help.xiaobot.net/privacy.html)|
 |:---|:---|
+|简历的故事：分享简历与面试背后的故事|https://xiaobot.net/p/Peter1981_HR|
 |惊鸿壹面|https://xiaobot.net/p/qianguyihao|
 
 ### Hedwig
