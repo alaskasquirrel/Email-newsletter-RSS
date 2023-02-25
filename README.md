@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -151,6 +151,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。[RSS](https://rsshub.app/zhubai/young)|
 |[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。[RSS](https://rsshub.app/zhubai/podcast/101010)|
 |[1790的阅读笔记](https://ichigo.zhubai.love/)|Exploring My Curiosity and Sharing What I Learn along the Way.—— 由 Derek 创作|
+|[舍阀登岸](https://220525.zhubai.love/)|记录。表达。交流。创作。—— 由 雯子 创作|
 |[321来信](https://321laixin.zhubai.love/)|💌 3 个推荐，2 个碎片 ，1 个想法，周二更新，关注互联网新技术、社交媒体、人。|
 |[37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作. [RSS](https://rsshub.app/zhubai/kun37)|
 |[玩Android](https://android.zhubai.love/)|围绕安卓的一些技术知识点~|
@@ -277,25 +278,6 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。|https://laixin.one/|
 |Random Lab 随机实验室|https://random-lab.ghost.io/|
 
-|Crypto、Web3、DeFi...|站点|
-|:---|:---|
-|Bitcoin Optech https://bitcoinops.org/|Helping Bitcoin-based businesses integrate scaling technology.|
-|Web3Caff Research|https://web3caff.substack.com/|
-|!DeFiNOW 0x三井瘦|https://0xmitsui.substack.com/|
-|CT Daily|https://ctdaily.xyz/|
-|SeeDAO 市政厅|https://seedaogov.substack.com/|
-|ChainFeeds Selection|https://chainfeeds.substack.com/|
-|CRYPTO HOT  陈默 Marco Chan|https://cryptohot.substack.com/|
-|BanklessCN 中文频道|https://0xbanklesscn.substack.com/|
-|「StarkNet 中文」社区|https://starknetzh.substack.com/|
-|深潮 TechFlow|https://techflowpost.substack.com/|
-|Jack’s Newsletter|https://jackxiong.substack.com/|
-|un.Block 周报|https://unblock256.substack.com/|
-|[unBlock 区块链周报](https://unblock.zhubai.love/)|从技术角度解读区块链热点，区块链入门教程|
-|竹本一世 - 关注工具、产品、人机交互、Web3 和创作者经济|https://benyu.zhubai.love/|
-|[Futurow 未来派](https://futurow.zhubai.love/)|爱捣鼓者的日常，软件、开源、运营、阅读，什么有趣捣鼓什么 —— 由 FinnYan 创作|
-|Glassnode Insights - The Week Onchain Newsletter|https://insights.glassnode.com/tag/newsletter/|
-
 ### Getrevue
 |创作平台：https://www.getrevue.co/|已经宣布关站，详见 [www.getrevue.co/app/offboard](http://www.getrevue.co/app/offboard)|
 |:---|:---|
@@ -323,7 +305,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <th>RSS</th>
   </tr>
 <tr>
-    <td rowspan="25">每日时报</td>
+    <td rowspan="24">每日时报</td>
     <td>以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。</td>
     <td>https://wubaiqing.github.io/zaobao/other/latest.html</td>
 </tr>
@@ -428,11 +410,6 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>关注创业与技术，每天推送3到5篇优质英文文章</td>
     <td>https://wanqu.co/feed/<br></td>
   </tr>
-<tr>
-    <td>iyouport</td>
-    <td></td>
-    <td>https://iyouport.substack.com/</td>
-</tr>
   <tr>
     <td><img src="https://techtaiwan.com/app/uploads/2021/05/logo-techtaiwan-1.png" width="75">TechTaiwan</td>
     <td>Founded in 2021, TechTaiwan offers daily news updates and insights on Taiwan’s technology industry, especially semiconductor, electric vehicles, telecom and industry 4.0.</td>
@@ -716,6 +693,8 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
     <td>https://china-aerospace.blog/</td>
 </tr>
 </table>
+
+
 
 
 
