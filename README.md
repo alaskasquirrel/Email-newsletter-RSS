@@ -142,6 +142,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |小星星通訊|https://news.oobe.tw/|
 |[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)||
 |[Roam 漫游研究所](https://jimmylv.substack.com/)|欢迎一起学习探索 Roam 的技巧、方法论和用例。—— 吕立青|
+|<img width="35" src="https://i.imgur.com/yW9VkpV.jpg"> [硬核小卒](https://hardcored.substack.com)| 关注科技、计算机、被动收入、读书、写作等话题。适合长期主义者、热爱学习和探索的朋友订阅。|
 
 ### 竹白
 |创作平台：https://zhubai.love/|[竹白团队官方专栏](https://news.zhubai.love/)|
