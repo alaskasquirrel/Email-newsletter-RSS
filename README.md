@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -98,6 +98,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[随意搜寻](https://suiyisouxun.com/)|记录过去一周，搜寻到的令我有所感悟的信息|
 |「很大声周刊」记录每周工作、生活所见。|https://github.com/hendasheng/HenDaShengWeekly|
 |[54321周刊](https://github.com/versun/54321-Weekly)||
+|[Indie Dev Weekly](https://www.shudao.wang/posts)|[Wang Shudao](https://github.com/vulgur)|
 |Resources神经现实 - Messages from the unseen world. [RSS](https://neu-reality.com/feed/)|https://neu-reality.com/|
 |Tw93🩴 潮流周刊，记录我的不枯燥生活 [RSS](https://weekly.tw93.fun/rss.xml)|https://weekly.tw93.fun/|
 |龙爪槐守望者 - 体验碎周报 [RSS](https://www.ftium4.com/rss.xml)|https://www.ftium4.com/|
@@ -130,9 +131,10 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |每日一荐|https://github.com/azl397985856/daily-featured|
 
 ### Substack
-|创作平台：https://substack.com/|[Privacy Policy](https://substack.com/privacy)|
+|创作平台：https://substack.com/|[Substack Privacy Policy](https://substack.com/privacy)|
 |:---|:---|
 |王垠|[Yin’s Memos](https://yinwang0.substack.com/) ；[垠的备忘录](https://yinwang1.substack.com/).|
+|[13 報 ](https://www.ethanhuang13.com/) 開發者週報|Ethan Huang，台灣人，Apple/iOS 開發者。|
 |[Λ-Reading](https://rizime.substack.com/)|包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
 |[ChinAI Newsletter](https://chinai.substack.com/)|Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
 |Last Week in AI|https://lastweekin.ai/|
@@ -147,7 +149,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 ### 竹白
 |创作平台：https://zhubai.love/|[竹白团队官方专栏](https://news.zhubai.love/)|
 |:---|:---|
-|<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作. [https://rsshub.app/zhubai/podpress]|
+|<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作.|
 |<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作. [RSS](https://rsshub.app/zhubai/podcast)|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。[RSS](https://rsshub.app/zhubai/young)|
 |[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。[RSS](https://rsshub.app/zhubai/podcast/101010)|
@@ -235,7 +237,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 | [自说自话周报](https://landisland.zhubai.love/) | 没有记录就没有发生，而记录本身已经是一种反抗。—— 由 陆屿 创作 |
 
 ### 知园
-|创作平台：https://zhiy.cc/|[用户协议](https://www.notion.so/shixiancom/3c407a8bb529444a88dcef35032b117f)|
+|创作平台：https://zhiy.cc/|[知园用户协议](https://www.notion.so/shixiancom/3c407a8bb529444a88dcef35032b117f)|
 |:---|:---|
 |王龙行|https://zhiy.cc/long|
 |草稿拾遗 - 潦草学者 的思考与感受 长期关注效率工具，互联网商业|https://zhiy.cc/messy|
@@ -245,14 +247,14 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |我的社群成长札记 - 这是我建立自己社群的札记，作为自己复盘的地方，让这些灵灵闪闪的碎片连接成片，纪念这段“跑江湖”的旅程，也作为第一手实践资料，供大家学习。以后合起来也许就是一本书了~|https://zhiy.cc/communitynote|
 
 ### 语雀
-|创作平台：https://www.yuque.com/|[服务协议](https://www.yuque.com/terms)|
+|创作平台：https://www.yuque.com/|[语雀服务协议](https://www.yuque.com/terms)|
 |:---|:---|
 |[城堡阅读](https://www.yuque.com/gaohui-bdaa2/chengbao)|分享个体见闻、探索内心宇宙。 [RSS](https://rsshub.app/yuque/doc/297292)|
 |Web 技术周刊|https://www.yuque.com/zenany/fe_weekly|
 |穿过麦田|https://www.yuque.com/aiyouzhanglei/ldxx|
 
 ### 小报童
-|创作平台：https://xiaobot.net/home.html|[隐私协议](https://help.xiaobot.net/privacy.html)|
+|创作平台：https://xiaobot.net/home.html|[小报童隐私协议](https://help.xiaobot.net/privacy.html)|
 |:---|:---|
 |简历的故事：分享简历与面试背后的故事|https://xiaobot.net/p/Peter1981_HR|
 |惊鸿壹面|https://xiaobot.net/p/qianguyihao|
@@ -274,12 +276,12 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |声波微步 - 有关泛社会议题的观察、解读和生活方式分享|https://voiceshare.hedwig.pub/|
 
 ### Notion
-|创作平台：https://www.notion.so/|[Terms & privacy](https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac)|
+|创作平台：https://www.notion.so/|[Notion Terms & privacy](https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac)|
 |:---|:---|
 |一飞周报|https://harryyifei.com/weekly|
 
 ### Ghost
-|创作平台：https://ghost.org/|[Privacy](https://ghost.org/privacy/)|
+|创作平台：https://ghost.org/|[Ghost Privacy](https://ghost.org/privacy/)|
 |:---|:---|
 |灵感买家俱乐部 - 一群独立创作者、自学者和冒险者，和一份创作者社群田野笔记。|https://club.q24.io/|
 |<img width="45" src="https://invisible.school/content/images/2021/02/----2-1.png">「看不见的学园」是一档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。|https://invisible.school/|
