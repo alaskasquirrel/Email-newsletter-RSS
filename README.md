@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -108,6 +108,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |笨方法实验室通信|https://hardwaylab.com/|
 |Manny Li 曼報｜掌握科技與商業趨勢|https://manny-li.com/|
 |<img width="35" src="https://i.typlog.com/kaopubear/8400353439_936224.png">「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。|https://podcast.kaopubear.top/|
+|优质网站同好者周刊|https://blog.nicelinks.site/|
 |混沌周刊 – 有关科技，有关开发，有关生活|https://weekly.love/|
 |小胖の窝 - O ever youthful, O ever weeping.|https://littlefat.cn/|
 |一份来自意识光谱的「摘星」邀请函 - 商业内观|https://if.zoepi.online/|
@@ -115,6 +116,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |羅越𐃏尋回微博|https://luoyue2020.micro.blog/|
 |[月维素材周刊](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)|[RSS](https://moonvy.com/blog/rss.xml)|
 |[Dailyio](https://iois.me/) – 人机关系指南|Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions)|
+|Ethan's Blog|https://ethanwong.page/|
 |<img width="35" src="https://replay.justinbot.com/album-logo.png?imageMogr2/quality/80"> Re:Play 是由三位不专业的音乐爱好者([@Justin](https://twitter.com/MapleShadow), [@Oscar](https://twitter.com/oscarlee_) 和 [@Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张唱片。|imageMogr2/format/webphttps://replay.cafe/|
 |结绳志 Tying Knots – 人类学的观点、技艺与行动|https://tyingknots.net/|
 |一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。|https://blog.yitianshijie.net/|
@@ -143,6 +145,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |China Explained / 解释中国|https://chinaexplained.substack.com/|
 |小星星通訊|https://news.oobe.tw/|
 |[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)||
+|MonoGoto Newsletter|https://monogoto.substack.com/|
 |[Roam 漫游研究所](https://jimmylv.substack.com/)|欢迎一起学习探索 Roam 的技巧、方法论和用例。—— 吕立青|
 |<img width="35" src="https://i.imgur.com/yW9VkpV.jpg"> [硬核小卒](https://hardcored.substack.com)|关注科技、计算机、被动收入、读书、写作等话题。适合长期主义者、热爱学习和探索的朋友订阅。|
 
@@ -205,7 +208,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
 |[可持续的小勇气](https://sustainablecourage.zhubai.love/)| 一封由个人观察和经历出发，关注生活中可持续的勇气与良善的故事，同时也会收集一些包括但不限于社会创新与设计、人文方面的资讯。希望我的通讯能够给你带来一点点阅读的价值，和一点快乐。—— 由 土狗 创作 |
 |[互联网时代的搜商](https://search.zhubai.love/)| 关于搜索技巧的种种，做一个互联网淘金者 |
-|[漫无目的](https://manwumudi.zhubai.love/)| 系好安全带，带上小水杯，让我们漫无目的的飘向外太空 —— 由 Dennis 创作 |
+|[漫无目的](https://manwumudi.zhubai.love/)| 系好安全带，带上小水杯，让我们漫无目的的飘向外太空 —— 由 [Dennis](https://www.domon.cn/) 创作 |
 |[你我之间](https://betweenuandme.zhubai.love/)| 分享自己所阅读、所思考的文字，并再在这里发现成长。—— 由 Crusher 创作 |
 |[若有所播](https://tobepodcasting.zhubai.love/)| 这是一份由播客专栏「若有所播」主理人、《北海怪兽》主播若冰撰写的生活阅读电子报，如无意外，两周一更。 除了 newsletter 以外，你还可以收听播客《北海怪兽》、订阅公众号「若有所播」、订阅小报童「若有所播」。 |
 |[摄影小报](https://photography.zhubai.love/)| 一个摄影爱好者的好奇心探索。—— 由 东炜黄 创作 |
