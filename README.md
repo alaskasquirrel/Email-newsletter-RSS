@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -109,6 +109,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |Manny Li 曼報｜掌握科技與商業趨勢|https://manny-li.com/|
 |<img width="35" src="https://i.typlog.com/kaopubear/8400353439_936224.png">「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。|https://podcast.kaopubear.top/|
 |优质网站同好者周刊|https://blog.nicelinks.site/|
+|[TechWeekly](https://textdata.cn/tags/techweekly/)|大邓和他的PYTHON|
 |混沌周刊 – 有关科技，有关开发，有关生活|https://weekly.love/|
 |小胖の窝 - O ever youthful, O ever weeping.|https://littlefat.cn/|
 |一份来自意识光谱的「摘星」邀请函 - 商业内观|https://if.zoepi.online/|
@@ -176,6 +177,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[Efficiency](https://noise.zhubai.love/)|这里书写一些专栏内容，你能发现更多，常用标签：#自动化 #效率 #RSS #Notion 主页：www.noisework.cn —— 由 诺伊斯 创作|
 |[FE news](https://rottenpen.zhubai.love/)|分享前端，生活，我的周报～ 做梦都想去米哈游（可惜去字节跳动不用做梦 —— 由 rottenpen 创作|
 |[GeekPlux Lab](https://geekplux.zhubai.love/)|商业、技术、财富、个人提升等，Always Exploring|
+|[Hey Jude](https://dontbeafraid.zhubai.love/)|关于生活、自我探索与自由职业的勇气。播客《大差不差》《Hey Jude》主播。—— 由 朱弟不是弟弟 创作|
 |[Link设计周刊](https://zjing.zhubai.love/)|长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。|
 |[unBlock 区块链周报](https://unblock.zhubai.love/)|从技术角度解读区块链热点，区块链入门教程|
 |[ROB1N的卧谈会](https://robinpeng.zhubai.love/)|闲话二三 —— 由 ROB1N 创作|
