@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -92,6 +92,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |阮一峰 · 科技爱好者周刊 [RSS](https://www.ruanyifeng.com/blog/atom.xml)|https://github.com/ruanyf/weekly|
 |财新电邮订阅|https://other.caixin.com/e_newsletter/|
 |DTO Weekly Curations|https://tinyletter.com/dto/archive|
+|Ben's Bites|https://www.bensbites.co/|
 |Star Rocket 科技創業週報|https://blog.starrocket.io/star-rocket-newsletter/|
 |[Interconnected](https://interconnected.blog/)|Where Tech, Investing, Geopolitics Come Together|
 |生信爱好者周刊|https://shixiangwang.github.io/weekly/|
@@ -132,6 +133,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[了概（已休刊）](https://liaoguy.com/)|一个主打用图文帮助读者在5分钟内快速了解当前世界范围内所发生的重要事件的付费订阅制媒体，涉及的主题包括国际关系、政治、经济、科技等。|
 |[科技島讀](https://daodu.tech/) – 這一次做掌握趨勢的人|由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。|
 |每日一荐|https://github.com/azl397985856/daily-featured|
+|[sre-weekly](https://xibolun.github.io/tags/sre-weekly/)|Peng ganyu blog|
 
 ### Substack
 |创作平台：https://substack.com/|[Substack Privacy Policy](https://substack.com/privacy)|
@@ -141,11 +143,15 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |可乐周报|https://www.kele.me/|
 |[13 報 ](https://www.ethanhuang13.com/) 開發者週報|Ethan Huang，台灣人，Apple/iOS 開發者。|
 |[Λ-Reading](https://rizime.substack.com/)|包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
+|Bear Academy Newsletter|https://beardesign.substack.com/|
+|ByteByteGo Newsletter|https://blog.bytebytego.com/archive|
 |[ChinAI Newsletter](https://chinai.substack.com/)|Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
+|[Data Stitches](https://datastitches.substack.com/)|分享数据可视化，交互叙事项目以及创作者们使用的工具。|
+|[Kneeling Bus](https://kneelingbus.substack.com/)|Drew Austin|
 |Last Week in AI|https://lastweekin.ai/|
 |维舟|https://weizhou.substack.com/|
-|不如读书 \| 乌鸦哥哥|https://wuyagege.substack.com/|
-|China Explained / 解释中国|https://chinaexplained.substack.com/|
+|透明盒子计划|https://clearbox.substack.com/|
+|推播助栏 Enrich Podcast Wave|https://enrichpodwave.substack.com/archive|
 |小星星通訊|https://news.oobe.tw/|
 |[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)||
 |MonoGoto Newsletter|https://monogoto.substack.com/|
@@ -295,6 +301,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |<img width="45" src="https://invisible.school/content/images/2021/02/----2-1.png">「看不见的学园」是一档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。|https://invisible.school/|
 |《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。|https://laixin.one/|
 |Random Lab 随机实验室|https://random-lab.ghost.io/|
+|TypeFuture|https://typefuture.com/|
 
 ### Getrevue
 |创作平台：https://www.getrevue.co/|已经宣布关站，详见 [www.getrevue.co/app/offboard](http://www.getrevue.co/app/offboard)|
