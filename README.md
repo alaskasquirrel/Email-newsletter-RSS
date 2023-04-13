@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -146,6 +146,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |Bear Academy Newsletter|https://beardesign.substack.com/|
 |ByteByteGo Newsletter|https://blog.bytebytego.com/archive|
 |[ChinAI Newsletter](https://chinai.substack.com/)|Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
+|[Chiwi Journal](https://chiwijournal.substack.com/)|Camellia Yang|
 |[Data Stitches](https://datastitches.substack.com/)|分享数据可视化，交互叙事项目以及创作者们使用的工具。|
 |[Kneeling Bus](https://kneelingbus.substack.com/)|Drew Austin|
 |Last Week in AI|https://lastweekin.ai/|
@@ -153,8 +154,11 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |透明盒子计划|https://clearbox.substack.com/|
 |推播助栏 Enrich Podcast Wave|https://enrichpodwave.substack.com/archive|
 |小星星通訊|https://news.oobe.tw/|
-|[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)||
+|Infinite Loops||
+|[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)|https://infiniteloops.substack.com/archive|
 |MonoGoto Newsletter|https://monogoto.substack.com/|
+|[Neckar Substack](https://neckar.substack.com/)|Frederik Gieschen|
+|Not Boring by Packy McCormick|https://www.notboring.co/archive|
 |[Roam 漫游研究所](https://jimmylv.substack.com/)|欢迎一起学习探索 Roam 的技巧、方法论和用例。—— 吕立青|
 |<img width="35" src="https://i.imgur.com/yW9VkpV.jpg"> [硬核小卒](https://hardcored.substack.com)|关注科技、计算机、被动收入、读书、写作等话题。适合长期主义者、热爱学习和探索的朋友订阅。|
 
