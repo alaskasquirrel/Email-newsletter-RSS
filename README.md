@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -197,6 +197,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[CyberClip](https://shyrz.zhubai.love/)|一份甄选的时事通讯，两周一期，涵盖新奇趣闻、热点议题、前沿科技以及其他关于生活、关于未来的事物 —— 由 Shyrz 创作|
 |[SurpriseBand](https://surpriseband.zhubai.love/)|让乐队被多一个人发现 —— 由 宝藏乐队 创作|
 |[The Quibbler](https://thequibbler.zhubai.love/)|这是一份关于互联网、科技领域的专栏，欢迎订阅 —— 由 李奇 创作|
+|[YICHA设计周刊](https://yicha.zhubai.love/)|互联网设计师的精读文章和设计资源|
 |<img width="35" src="https://imgs.zhubai.pub/811db0763afc4b46868f027ff12e261b.png"> [Yiqin Fu](https://yiqinfu.zhubai.love/)|小说和数据都可以看一天|
 |[叭叭呜](https://babawu.zhubai.love/)|商业分析、投资。 在科技革命、产业变革驱动的新世界，陪伴你做好「个人风投」—— 由 于欣烈 创作|
 |[白话Kubernetes入门实践](https://getk8e.zhubai.love/)|通过手写一套容器集群k8e，探讨 K8S落地的各项技术细节和实际的决策思路，让 K8S 的管理员/开发者可以轻松应对各种云化应用分发的场景 —— 由 老肖 创作|
@@ -217,6 +218,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[搞机日记](https://luzhnan.zhubai.love/)|路中南的搞机日记|
 |[浮想细说](https://zhiliaofuxiang.zhubai.love/)|想到啥写啥，看到啥写啥 —— 由 知了 创作|
 |[工作进阶笔记](https://workreview.zhubai.love/)|Daily Review - What I learn today —— 由 七白 创作|
+|[麦赳究的礼物](https://zjustfun.zhubai.love/)|希望我的分享能够为你带来些许喜悦，这份喜悦就是我送给你的礼物！—— 由 Benzhang 创作|
 |[南北大街](https://nsblvd.zhubai.love/)|上海的一小块 —— 由 南北大街 创作|
 |[啰里啰唆](https://luoliluosuo.zhubai.love/)|啰里啰唆是一份针对互联网和生活爱好者的数字杂志，旨在发现和分享一切有趣的东西。部分内容来自互联网采编，也有一些是编者本人的思考和短文，话题不固定，每期大约十五分钟阅读量，暂定每周四发布。—— 由 萝的卜 创作|
 |<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
