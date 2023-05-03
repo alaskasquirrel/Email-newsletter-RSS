@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -220,6 +220,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[工作进阶笔记](https://workreview.zhubai.love/)|Daily Review - What I learn today —— 由 七白 创作|
 |[麦赳究的礼物](https://zjustfun.zhubai.love/)|希望我的分享能够为你带来些许喜悦，这份喜悦就是我送给你的礼物！—— 由 Benzhang 创作|
 |[南北大街](https://nsblvd.zhubai.love/)|上海的一小块 —— 由 南北大街 创作|
+|[创业老杨](https://chuang.zhubai.love/)|连续创业的老兵，服务创业者的创业者，在一个号称一线城市的郑州，说号称是因为还有超一线城市，这里的创业者很无奈，人才、技术，唯一不缺的就是市场，所以这里也走出了像蜜雪冰城、UU跑腿、老板餐饮内参、巴奴火锅、三全食品等知名品牌，可对于我们这些初创的企业好像就不是那么友好了。|
 |[啰里啰唆](https://luoliluosuo.zhubai.love/)|啰里啰唆是一份针对互联网和生活爱好者的数字杂志，旨在发现和分享一切有趣的东西。部分内容来自互联网采编，也有一些是编者本人的思考和短文，话题不固定，每期大约十五分钟阅读量，暂定每周四发布。—— 由 萝的卜 创作|
 |<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
@@ -232,10 +233,12 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[生活奇旅](https://weichen.zhubai.love/)| 成功只是手段，好好生活才是目的。设计一个更健康、更富足、更明智和更有趣的生活。 —— 由 炜晨 创作 |
 |[假设检验](https://jiashejianyan.zhubai.love/)| 生活｜阅读｜品牌｜投资 不见不散！—— 由 johnbens 创作 |
 |[事不过三](https://via.zhubai.love/)| 重要的事情不过三件：认识自己、好好学习、好好生活 —— 由 文浩 创作 |
+|[山甫楽 Saan Flare](https://speciouspm.zhubai.love/)| 通过观察去理解，借助表达以存在。尝试去感知正在发生的事情。关注产品设计，用户体验，交设计以及 AIGC。 |
 |[人生玩家](https://lifeplayer.zhubai.love/)| 人生是一场无限游戏。我们要持续玩下去，一直获得乐趣，以及尽量幸福 —— 由 猛犸 创作 |
 |[思考的价值](https://simon.zhubai.love/)| 我们每天都会接收到过载的信息，然而明月与砾同囊，其中的优质信息往往会被淹没，因此需要一个信息过滤服务来提升接收的信息质量。 思考的价值由此而来，分享内容的不限，偏向于 计算机技术 与 科技人文的方向。 内容存档可见：https://thinking.tomotoes.com/ |
 |[试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。 |
 |[瞬间 Press](https://photup.zhubai.love/)| 放下相机，认真思考 —— 由 按快门的陈王 创作 |
+|[图南](https://tunan.zhubai.love/)| 梦想是改善普通人的精神生活｜我的生命就是燃料｜学习怎样解释尘土为何成山 |
 |[吾栖之地](https://sirius.zhubai.love/)| 钟纯的不定期回顾，用文字创作Cyber空间的个人纪录片。—— 由 Chuwen 创作 |
 |[显济的闲言碎语](https://xianjijeffery.zhubai.love/)| 下午2:00-5:00在喝咖啡｜海外智能硬件产品设计师｜做了自己的网站：Jefferyho.com |
 |[闲棋冷子](https://lengzi.zhubai.love/)| 研究交叉领域，训练思维模型 —— 由 kok 创作 |
