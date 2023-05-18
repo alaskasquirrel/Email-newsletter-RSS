@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -86,17 +86,19 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |:---|:---|
 |工劳导航 - 中国工人网址导航|https://laborinfocn.com/|
 |阮一峰 · 科技爱好者周刊 [RSS](https://www.ruanyifeng.com/blog/atom.xml)|https://github.com/ruanyf/weekly|
+|二丫讲梵·学习周刊 [RSS](https://wiki.eryajf.net/rss.xml)|https://wiki.eryajf.net/learning-weekly/|
 |财新电邮订阅|https://other.caixin.com/e_newsletter/|
 |DTO Weekly Curations|https://tinyletter.com/dto/archive|
 |Ben's Bites|https://www.bensbites.co/|
 |Star Rocket 科技創業週報|https://blog.starrocket.io/star-rocket-newsletter/|
 |[Interconnected](https://interconnected.blog/)|Where Tech, Investing, Geopolitics Come Together|
-|生信爱好者周刊|https://shixiangwang.github.io/weekly/|
+|生信爱好者周刊 [RSS](https://shixiangwang.github.io/weekly/feed_rss_created.xml)|https://shixiangwang.github.io/weekly/|
 |[随意搜寻](https://suiyisouxun.com/)|记录过去一周，搜寻到的令我有所感悟的信息|
 |「很大声周刊」记录每周工作、生活所见。|https://github.com/hendasheng/HenDaShengWeekly|
 |[54321周刊](https://github.com/versun/54321-Weekly)||
 |[Indie Dev Weekly](https://www.shudao.wang/posts)|[Wang Shudao](https://github.com/vulgur)|
 |Resources神经现实 - Messages from the unseen world. [RSS](https://neu-reality.com/feed/)|https://neu-reality.com/|
+|[RWeekly](https://rweekly.org/)|Blogs to Learn R from the Community|
 |Tw93🩴 潮流周刊，记录我的不枯燥生活 [RSS](https://weekly.tw93.fun/rss.xml)|https://weekly.tw93.fun/|
 |龙爪槐守望者 - 体验碎周报 [RSS](https://www.ftium4.com/rss.xml)|https://www.ftium4.com/|
 |每周分享 - 费照君|https://feizhaojun.com/|
@@ -125,12 +127,16 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |骇客邦|https://haikebang.com/|
 |<img src="https://cdn.substack.com/image/fetch/w_264,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0a20ecc-bc78-4d0a-bed0-7901fce9e3e8_1280x1280.png" width="30"> [Privatdozent - by Jørgen Veisdal](https://www.privatdozent.co/)|a weekly newsletter on the history of mathematics and physics|
 |TLDR Newsletter - A Byte Sized Daily Tech Newsletter|https://tldr.tech/|
+|前端周刊 frontend-weekly|https://frontend-weekly.com/|
+|倾城之链|https://github.com/nicejade/nicelinks-weekly|
 |[ 轻芒封面](https://www.getrevue.co/profile/qingmang)(停刊) > [阅览室](https://read.land/)(进行时)|每周一到周五，和轻芒一起深度阅读。[PDF存档](https://wj.qq.com/s2/9116430/80fa/)|
 |[了概（已休刊）](https://liaoguy.com/)|一个主打用图文帮助读者在5分钟内快速了解当前世界范围内所发生的重要事件的付费订阅制媒体，涉及的主题包括国际关系、政治、经济、科技等。|
 |[科技島讀](https://daodu.tech/) – 這一次做掌握趨勢的人|由前电脑公司高管和律师周钦华创办，以科技和商业为关注重点，每一期会聚焦于一个热点话题进行深度分析，文章逻辑清晰结构分明，专业性很强。|
 |每日一荐|https://github.com/azl397985856/daily-featured|
 |[sre-weekly](https://xibolun.github.io/tags/sre-weekly/)|Peng ganyu blog|
 |无聊科技正经事|https://weekly.panshenlian.com/|
+|老胡的周刊|https://weekly.howie6879.com/|
+|殷东亮的周刊|https://yindongliang.com/weekly/|
 
 ### Substack
 |创作平台：https://substack.com/|[Substack Privacy Policy](https://substack.com/privacy)|
