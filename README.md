@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -6,14 +6,14 @@
 
 
 
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！期待你的参与 Issues or Fork  订阅🎧 [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)了解更多讯息!
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿感谢 阮一峰[科技爱好者周报](https://github.com/ruanyf/weekly)对于本项目的收纳推荐！期待你的参与 Issues or Fork，订阅🎧 [Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)了解更多讯息!
 
 [焦虑自救小册](https://github.com/chenyukang/anxiety-handbook)｜[今天吃什么？](https://www.douban.com/gallery/topic/47412/)｜[生活在农村…隐士](https://www.douban.com/group/647259/)｜[边缘县城生活报告](https://www.douban.com/gallery/topic/173106/).
 
-|创作平台|[AlleyRead](https://alleyread.com/) - 重塑你的信息源|[竹白专栏检索](https://zb.liey.cn/)|[竹白百科](https://www.zhubai.wiki/)|
-|:---|:---|:---|:---|
-|[Substack](#Substack)|[竹白](#竹白)|[知园](#知园)|[语雀](#语雀)|
-|[小报童](#小报童)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Ghost](#Ghost)|
+|创作平台|[AlleyRead](https://alleyread.com/) - 重塑你的信息源|[竹白专栏检索](https://zb.liey.cn/)|[竹白百科](https://www.zhubai.wiki/)||
+|:---|:---|:---|:---|----|
+|[Substack](#Substack)|[竹白](#竹白)|[知园](#知园)|[语雀](#语雀)|[小报童](#小报童)|
+|[Ghost](#Ghost)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Quail](https://quail.ink/)||
 
 [RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
 
@@ -324,7 +324,17 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |Random Lab 随机实验室|https://random-lab.ghost.io/|
 |TypeFuture|https://typefuture.com/|
 
-### Getrevue
+### Quail 
+
+|创作平台：https://quail.ink/|[Privacy Policy](https://quail.ink/privacy)|
+|:---|:---|
+|[歌词经理 lyric](https://quail.ink/lyric/)|[RSS](https://quail.ink/lyric/feed/atom)|
+|[橘子汽水铺](https://quail.ink/orange/)|[RSS](https://quail.ink/orange/feed/atom)|
+|[向阳乔木](https://quail.ink/vista8/)|[RSS](https://quail.ink/vista8/feed/atom)|
+|[CreativityOverflow](https://quail.ink/goldengrape/)|[RSS](https://quail.ink/goldengrape/feed/atom)|
+
+### Getrevue 
+
 |创作平台：https://www.getrevue.co/|已经宣布关站，详见 [www.getrevue.co/app/offboard](http://www.getrevue.co/app/offboard)|
 |:---|:---|
 |<img src="https://s3.amazonaws.com/revue/profiles/images/000/249/859/thumb/2e0c1a5f4f52467af67c926e9cd84bb9.jpeg?1620261472" width="30"> [叁拾一周](https://www.getrevue.co/profile/Elizen)| 骨子里是个农民，皮肉中有点小资，表面上像个书生。 |
