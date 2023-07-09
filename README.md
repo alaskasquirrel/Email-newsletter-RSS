@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿免责声明：
 
 1. `本项目所有内容,仅供学习和研究使用,请勿使用本项目所包含的技术手段用于非法用途,任何人造成的任何负面影响,与本人无关.`
 2. `本文档所有内容、新闻皆不代表本人态度、立场,如果有建议或方案,欢迎提交 issues`
@@ -89,6 +89,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |Python潮流周刊 [RSS](https://pythoncat.top/rss.xml)|[豌豆花下猫](https://pythoncat.top/) 主理，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长职业和副业的收入。|
 |二丫讲梵·学习周刊 [RSS](https://wiki.eryajf.net/rss.xml)|https://wiki.eryajf.net/learning-weekly/|
 |财新电邮订阅|https://other.caixin.com/e_newsletter/|
+|[王建硕](https://home.wangjianshuo.com/cn/)||
 |DTO Weekly Curations|https://tinyletter.com/dto/archive|
 |Ben's Bites|https://www.bensbites.co/|
 |Star Rocket 科技創業週報|https://blog.starrocket.io/star-rocket-newsletter/|
@@ -148,6 +149,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |可乐周报|https://www.kele.me/|
 |[13 報 ](https://www.ethanhuang13.com/) 開發者週報|Ethan Huang，台灣人，Apple/iOS 開發者。|
 |[Λ-Reading](https://rizime.substack.com/)|包括但不限于书和阅读、好书提纯阅读、认知科学、科技哲学、新科技以及其它给生活带来一丝美好的事物。|
+|afterschool 放学以后|https://afterschool2021.substack.com/|
 |Bear Academy Newsletter|https://beardesign.substack.com/|
 |ByteByteGo Newsletter|https://blog.bytebytego.com/archive|
 |[ChinAI Newsletter](https://chinai.substack.com/)|Jeff Ding's weekly translations of writings from Chinese thinkers on China's AI landscape.|
@@ -156,6 +158,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[Kneeling Bus](https://kneelingbus.substack.com/)|Drew Austin|
 |Last Week in AI|https://lastweekin.ai/|
 |维舟|https://weizhou.substack.com/|
+|随机波动 StochasticVolatility|https://stochasticvolatility.substack.com/|
 |透明盒子计划|https://clearbox.substack.com/|
 |推播助栏 Enrich Podcast Wave|https://enrichpodwave.substack.com/archive|
 |小星星通訊|https://news.oobe.tw/|
@@ -248,6 +251,7 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[思考的价值](https://simon.zhubai.love/)| 我们每天都会接收到过载的信息，然而明月与砾同囊，其中的优质信息往往会被淹没，因此需要一个信息过滤服务来提升接收的信息质量。 思考的价值由此而来，分享内容的不限，偏向于 计算机技术 与 科技人文的方向。 内容存档可见：https://thinking.tomotoes.com/ |
 |[山真海味](https://mountainsea.zhubai.love/)| 13年进场的早期比特币拥趸， 游戏在crypto与美股中, 极低风险偏好的投资者。 |
 |[试行错误](https://shixingcuowu.zhubai.love/)| 反复探索，不断试错。如果你也关注阅读、心理、生活、科技、产品，不妨一起走吧！同行的人比目的地更重要。 |
+|[时代之物](https://designandtime.zhubai.love/)| 理解设计，理解设计背后的人。 |
 |[瞬间 Press](https://photup.zhubai.love/)| 放下相机，认真思考 —— 由 按快门的陈王 创作 |
 |[图南](https://tunan.zhubai.love/)| 梦想是改善普通人的精神生活｜我的生命就是燃料｜学习怎样解释尘土为何成山 |
 |[吾栖之地](https://sirius.zhubai.love/)| 钟纯的不定期回顾，用文字创作Cyber空间的个人纪录片。—— 由 Chuwen 创作 |
@@ -347,7 +351,6 @@ Discover the best newsletters to subscribe - [Newsletterest](https://newslettere
 |[惊奇短信](https://www.getrevue.co/profile/gexu)| 船长的惊奇短信 |
 |[若有所播丨To Be Podcasting](https://www.getrevue.co/profile/tobepodcasting)|  |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/283/200/thumb/QQ%E5%9B%BE%E7%89%8720210702102835.jpg"> [其思秒想](https://www.getrevue.co/profile/yolo365)| 记录过去一周间，看到的让我有所触动和有趣的内容信息，以及体验发现的书/影/好物。 |
-|<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/230/226/thumb/WechatIMG25.jpeg"> [随机波动](https://www.getrevue.co/profile/stovol/)| 一档由三位女性媒体人创办的泛文化类播客。 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/790/thumb/logo.jpg"> [同时](https://www.getrevue.co/profile/tongshi)| 葛小孩 |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/413/629/thumb/90udvAmT.jpg"> [野生架构师](https://www.getrevue.co/profile/lcomplete)| 💌 这是由 lcomplete 每周发送的 newsletter，它分享简短实用的效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 等，感谢你的阅读！ |
 |<img width="35" src="https://s3.amazonaws.com/revue/profiles/images/000/418/047/thumb/logo.png"> [酷玩周刊](https://www.getrevue.co/profile/coldplay-weekly)| 发掘一切有趣的数字生活 |
