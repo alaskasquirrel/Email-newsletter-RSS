@@ -15,37 +15,6 @@
 |[Substack](#Substack)|[竹白](#竹白)|[知园](#知园)|[语雀](#语雀)|[小报童](#小报童)|
 |[Ghost](#Ghost)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Quail](https://quail.ink/)|[xLog](https://xlog.app/)|
 
-[RSSHub](https://rsshub.app/) 一个开源、简单易用、易于扩展的 RSS 生成器。可以配合浏览器扩展 [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar) 和 移动端辅助 App [RSSBud](https://github.com/Cay-Zhang/RSSBud) (iOS) 与 [RSSAid](https://github.com/LeetaoGoooo/RSSAid) (Android) 食用。
-
-[小鸟文学 iOS app](https://apps.apple.com/cn/app/%E5%B0%8F%E9%B8%9F%E6%96%87%E5%AD%A6/id1541992205), （[用户隐私协议](https://app.aves.art/page/privacy_agreement)）newsletter
-
-[中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 👍
-
-[Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters)
-
-Discover the best newsletters to subscribe - [Newsletterest](https://newsletterest.com/discover)
-
-方可成： [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
-
-[察说花园](https://chasays.zhubai.love/)：[Newsletter-list](https://github.com/chasays/newsletter-list) 
-
-[如何轻松地写一份 Newsletter](https://xiao.do/issues/26-newsletter-577662) 
-
-[Every](https://every.to/) Think things through
-
-[RSS Source](https://rss-source.com/) 订阅源推荐
-
- [Kill the Newsletter!  Convert email newsletters into Atom feeds](https://kill-the-newsletter.com/)
-
-[Feeddd](https://github.com/feeddd/feeds) 免费的公众号 RSS，支持扩展任意 app.
-
-[给微信公众号生成RSS](https://wechat.privacyhide.com/)
-
-
-******
-
-
-
 <a href="https://new.shuge.org/"><img src="https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png" width="75"></a> [书格](https://new.shuge.org/)：每个人都能自由地看到我们的文明。🔥
 
 [考古日报](https://zhuanlan.zhihu.com/c_42421668) 
