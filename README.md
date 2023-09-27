@@ -280,7 +280,7 @@
 |创作平台：https://ghost.org/|[Ghost Privacy](https://ghost.org/privacy/)|
 |:---|:---|
 |灵感买家俱乐部 - 一群独立创作者、自学者和冒险者，和一份创作者社群田野笔记。|https://club.q24.io/|
-|<img width="45" src="https://invisible.school/content/images/2021/02/----2-1.png">「看不见的学园」是一档定期更新的通讯栏目，每周两到五篇，通过电邮发送，亦有线上版本；内容涵盖文学、社科、技术、设计、艺术等领域，也有可能是我刚写完的小说。|https://invisible.school/|
+|「隐形学园」是一份关注思想、技术与艺术的在线杂志，汇聚有深度的内容，闯入不一样的世界。|https://invisible.school/|
 |《林中来信》是一份由会员付费支持的电子通讯，由郝海龙出品。期待能在一个因为信息过载而容易浅尝辄止的时代，提供一种持久而不乏味的阅读体验。会员每月将收到四篇常规通讯及一篇月报，均通过电子邮件发送。内容包括但不限于我对人间（科技、教育、人文）的观察与思考，以及文艺评论（如书评）。|https://laixin.one/|
 |Random Lab 随机实验室|https://random-lab.ghost.io/|
 |TypeFuture|https://typefuture.com/|
