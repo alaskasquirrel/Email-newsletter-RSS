@@ -19,6 +19,12 @@
 
 [考古日报](https://zhuanlan.zhihu.com/c_42421668) 
 
+| China Books Review            | 上海书评                           | NYT Book Review                               | Washington Post Book Review                            | London Review of Books |
+| ----------------------------- | ---------------------------------- | --------------------------------------------- | ------------------------------------------------------ | ---------------------- |
+| https://chinabooksreview.com/ | https://www.thepaper.cn/list_26878 | http://www.nytimes.com/pages/books/index.html | https://www.washingtonpost.com/pb/entertainment/books/ | https://www.lrb.co.uk/ |
+
+
+
 <table>
   <tr>
   <th><a href="https://theshanghairen.com"> The Shanghairen 沪誌 </a></th>
@@ -34,8 +40,6 @@
   <td><a href="http://www.thetokyoiter.com/"><img width="125px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
   </tr>
 </table>
-[读写人](https://www.duxieren.com/)  书评杂志、书评博客、书评网站、读书资源聚合
-
 |自搭自建|独立站点|
 |:---|:---|
 |工劳导航 - 中国工人网址导航|https://laborinfocn.com/|
