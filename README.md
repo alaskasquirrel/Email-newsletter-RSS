@@ -40,6 +40,8 @@
   <td><a href="http://www.thetokyoiter.com/"><img width="125px" src="https://images.squarespace-cdn.com/content/v1/5642f955e4b07810c0ac5658/1588823669406-O6BCGNHMU69DM1DY0U8T/The_TOKYOITER_Thomas-Gibault.jpg"</a></td>
   </tr>
 </table>
+
+
 |自搭自建|独立站点|
 |:---|:---|
 |工劳导航 - 中国工人网址导航|https://laborinfocn.com/|
