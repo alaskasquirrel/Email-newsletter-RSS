@@ -53,6 +53,7 @@
 |[王建硕](https://home.wangjianshuo.com/cn/)||
 |DTO Weekly Curations|https://tinyletter.com/dto/archive|
 |Ben's Bites|https://www.bensbites.co/|
+|AI Weekly [RSS](https://aiweekly.co/feed)|[Discover what AI experts are reading and sharing right now](https://aiweekly.co/)|
 |Star Rocket 科技創業週報|https://blog.starrocket.io/star-rocket-newsletter/|
 |[Interconnected](https://interconnected.blog/)|Where Tech, Investing, Geopolitics Come Together|
 |生信爱好者周刊 [RSS](https://shixiangwang.github.io/weekly/feed_rss_created.xml)|https://shixiangwang.github.io/weekly/|
