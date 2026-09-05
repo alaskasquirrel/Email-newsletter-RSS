@@ -13,7 +13,7 @@
 |创作平台|[AlleyRead](https://alleyread.com/) - 重塑你的信息源|[竹白专栏检索](https://zb.liey.cn/)|[竹白百科](https://www.zhubai.wiki/)||
 |:---|:---|:---|:---|----|
 |[Substack](#Substack)|[竹白](#竹白)|[知园](#知园)|[语雀](#语雀)|[小报童](#小报童)|
-|[Ghost](#Ghost)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Quail](https://quail.ink/)|[xLog](https://xlog.app/)|
+|[Ghost](#Ghost)|[Hedwig](#Hedwig)|[Notion](#Notion)|[Quaily](https://quaily.com/)|[xLog](https://xlog.app/)|
 
 <a href="https://new.shuge.org/"><img src="https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png" width="75"></a> [书格](https://new.shuge.org/)：每个人都能自由地看到我们的文明。🔥
 
@@ -135,8 +135,8 @@
 ### 竹白
 |创作平台：https://zhubai.love/|[竹白团队官方专栏](https://news.zhubai.love/)|
 |:---|:---|
-|<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://podpress.zhubai.love/)|中文播客领域的动态和最新消息 —— 由 声湃 创作.|
-|<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://podcast.zhubai.love/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作. [RSS](https://rsshub.app/zhubai/podcast)|
+|<img width="35" src="https://imgs.zhubai.love/4e7423309ee849fbaddef334ee185b87.png"> [中文播客行业动态](https://quaily.com/wavpub)|中文播客领域的动态和最新消息 —— 由 声湃 创作.|
+|<img width="35" src="https://imgs.zhubai.love/1d5b74229a3f41c5ba3a1f4664642614.jpg"> [播客相对论](https://quaily.com/podcast/)|分享有趣、有意思、值得被更多人听到的播客节目，也希望能在评论中看到你给我推荐一些播客节目。 分享这些播客并不代表完全认同节目中出现的观点，喜欢所有新鲜事物，用包容的心态打破信息茧房。—— 由 赵杨君 创作. [RSS](https://rsshub.app/zhubai/podcast)|
 |[1000小食报](https://young.zhubai.love/)|从本土饮食出发，从个体经验和好奇出发，每周二发出的田野日志。[RSS](https://rsshub.app/zhubai/young)|
 |[101010](https://101010.zhubai.love/)|我是 Liam，在这里用文章分享值得记录的个人阅读和想法，包括科技新闻、工具、投资、职业发展和移民资讯等。[RSS](https://rsshub.app/zhubai/podcast/101010)|
 |[1790的阅读笔记](https://ichigo.zhubai.love/)|Exploring My Curiosity and Sharing What I Learn along the Way.—— 由 Derek 创作|
@@ -145,7 +145,7 @@
 |[37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作. [RSS](https://rsshub.app/zhubai/kun37)|
 |[玩Android](https://android.zhubai.love/)|围绕安卓的一些技术知识点~|
 |<img width="35" src="https://imgs.zhubai.love/bbeacde156ec4b939819e90056bf0626.png"> [After Work 下班后](https://tangweijuan.zhubai.love/)|分享 设计 —— 由 Tifa 创作|
-|[Anyway.Now](https://anyway.zhubai.love/)|安妮薇看看由设计、生活美学、数码科技为主题的播客 Anyway.FM 发行，为你提供设计相关行业的新闻资讯、网摘推荐等内容。同样欢迎在官网上浏览以获得更好的阅读体验: http://Anyway.FM/now|
+|[Anyway.Now](https://quaily.com/anyway)|安妮薇看看由设计、生活美学、数码科技为主题的播客 Anyway.FM 发行，为你提供设计相关行业的新闻资讯、网摘推荐等内容。同样欢迎在官网上浏览以获得更好的阅读体验: http://Anyway.FM/now|
 |[APP不释手应用周记](https://flyhink.zhubai.love/)|iOS 优质应用推荐及吐槽|
 |[Bytes by Alfred](https://alfxjx.zhubai.love/)|大前端技术前沿，科技好物推荐，生活方式和咖啡|
 |<img width="35" src="https://imgs.zhubai.love/7258a53245b94233a0a5ac4e5a24da8b.jpg"> [BLUE·周刊](https://huazi.zhubai.love/)[Link设计周刊](https://zjing.zhubai.love/)|本刊记录我每周发现的设计资源、设计资讯以及有关设计的文章。如果你刚好也感兴趣，真的太好了！—— 由 Huazi 创作. [RSS](https://rsshub.app/zhubai/huazi)长期关注ToB/G、Iot、SaaS行业，记录近7天内值得分享的内容。如果对你正好有帮助，那是最好的。|
@@ -188,7 +188,7 @@
 |[前路](https://xiwei.zhubai.love/)|This is a road... —— 由 xiwei 创作|
 |[前端食堂](https://hungryturbo.zhubai.love/)|周周尝鲜，人工筛选前端圈每周最新资讯。—— 由 童欧巴 创作|
 |[青陈 QingChen](https://qingchen.zhubai.love/)|分享广义的阅读。关于产品、科技、设计与人文 —— 由 汗青 创作|
-|[曲率飞船](https://warpdrive.zhubai.love/)|用思想熨平身边的空间，一起在曲率驱动下探索生活的边界吧！【 新知｜阅读｜生活｜社会 】—— 由 亦银河 创作|
+|[曲率飞船](https://quaily.com/warpdrive)|用思想熨平身边的空间，一起在曲率驱动下探索生活的边界吧！【 新知｜阅读｜生活｜社会 】—— 由 亦银河 创作|
 |[搞机日记](https://luzhnan.zhubai.love/)|路中南的搞机日记|
 |[浮想细说](https://zhiliaofuxiang.zhubai.love/)|想到啥写啥，看到啥写啥 —— 由 知了 创作|
 |[工作进阶笔记](https://workreview.zhubai.love/)|Daily Review - What I learn today —— 由 七白 创作|
@@ -198,7 +198,7 @@
 |[创业老杨](https://chuang.zhubai.love/)|连续创业的老兵，服务创业者的创业者，在一个号称一线城市的郑州，说号称是因为还有超一线城市，这里的创业者很无奈，人才、技术，唯一不缺的就是市场，所以这里也走出了像蜜雪冰城、UU跑腿、老板餐饮内参、巴奴火锅、三全食品等知名品牌，可对于我们这些初创的企业好像就不是那么友好了。|
 |[啰里啰唆](https://luoliluosuo.zhubai.love/)|啰里啰唆是一份针对互联网和生活爱好者的数字杂志，旨在发现和分享一切有趣的东西。部分内容来自互联网采编，也有一些是编者本人的思考和短文，话题不固定，每期大约十五分钟阅读量，暂定每周四发布。—— 由 萝的卜 创作|
 |[落日间](https://xpaidia.zhubai.love/)|「[落日间](https://xpaidia.com/)」的双周创作简报和内测项目 —— 由 叶梓涛 创作|
-|<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://somethinginmybrain.zhubai.love/)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
+|<img width="35" src="https://imgs.zhubai.love/9819b8c6cddd46d289f1f304803d03d2.png"> [我脑袋里的怪东西](https://quaily.com/somethinginmybrain)| 无聊的通勤 + 奇怪的脑袋。—— 由 Hillsomec黄曦 创作 |
 |[知行录](https://vivigoodenough.zhubai.love/)| Live. Love. Learn. Earn. —— 由 Vivi Goodenough 创作 |
 |[可持续的小勇气](https://sustainablecourage.zhubai.love/)| 一封由个人观察和经历出发，关注生活中可持续的勇气与良善的故事，同时也会收集一些包括但不限于社会创新与设计、人文方面的资讯。希望我的通讯能够给你带来一点点阅读的价值，和一点快乐。—— 由 土狗 创作 |
 |[互联网时代的搜商](https://search.zhubai.love/)| 关于搜索技巧的种种，做一个互联网淘金者 |
@@ -217,11 +217,11 @@
 |[时代之物](https://designandtime.zhubai.love/)| 理解设计，理解设计背后的人。 |
 |[瞬间 Press](https://photup.zhubai.love/)| 放下相机，认真思考 —— 由 按快门的陈王 创作 |
 |[图南](https://tunan.zhubai.love/)| 梦想是改善普通人的精神生活｜我的生命就是燃料｜学习怎样解释尘土为何成山 |
-|[吾栖之地](https://sirius.zhubai.love/)| 钟纯的不定期回顾，用文字创作Cyber空间的个人纪录片。—— 由 Chuwen 创作 |
+|[吾栖之地](https://quaily.com/love_action)| 钟纯的不定期回顾，用文字创作Cyber空间的个人纪录片。—— 由 Chuwen 创作 |
 |[显济的闲言碎语](https://xianjijeffery.zhubai.love/)| 下午2:00-5:00在喝咖啡｜海外智能硬件产品设计师｜做了自己的网站：Jefferyho.com |
 |[闲棋冷子](https://lengzi.zhubai.love/)| 研究交叉领域，训练思维模型 —— 由 kok 创作 |
 |[偷懒爱好者周刊](https://toolight.zhubai.love/)| 偷懒爱好者周刊，分享产品、工具、新鲜事 —— 由 soar 创作 |
-|<img width="35" src="https://imgs.zhubai.love/1597b71b2fb845389ae68bf69da413ec.jpg"> [驯鹿漫游](https://reindeerramble.zhubai.love/)| 记录我近期收集的有趣信息及一些联想。不定期更新。个人主页：https://eddiehe.super.site/  —— 由 Eddie He 创作 |
+|<img width="35" src="https://imgs.zhubai.love/1597b71b2fb845389ae68bf69da413ec.jpg"> [驯鹿漫游](https://quaily.com/reindeer-ramble)| 记录我近期收集的有趣信息及一些联想。不定期更新。个人主页：https://eddiehe.super.site/  —— 由 Eddie He 创作 |
 |[香江望北](https://hongkong.zhubai.love/)| 关注香港也关心内地，心系祖国又放眼四海。 |
 |[学到老 Shadow law](https://depykung.zhubai.love/)| 订阅本专栏，你将得到我的知识分享，内容就是我学到的一切知识。我最喜欢的活动之一就是学习，对咖啡、数码和设计感兴趣，关注社会、性别和美学等领域。—— 由 DEPYKUNG 创作 |
 |[「养鹅厂」每周通讯](https://radiochicken.zhubai.love/)| 人的行为总是一再重复。因此卓越不是一时的行为，而是习惯。 |
@@ -292,14 +292,14 @@
 |Random Lab 随机实验室|https://random-lab.ghost.io/|
 |TypeFuture|https://typefuture.com/|
 
-### Quail 
+### Quaily 
 
-|创作平台：https://quail.ink/|[Privacy Policy](https://quail.ink/privacy)|
+|创作平台：https://quaily.com/|[Privacy Policy](https://quaily.com/privacy)|
 |:---|:---|
-|[歌词经理 lyric](https://quail.ink/lyric/)|[RSS](https://quail.ink/lyric/feed/atom)|
-|[橘子汽水铺](https://quail.ink/orange/)|[RSS](https://quail.ink/orange/feed/atom)|
-|[向阳乔木](https://quail.ink/vista8/)|[RSS](https://quail.ink/vista8/feed/atom)|
-|[CreativityOverflow](https://quail.ink/goldengrape/)|[RSS](https://quail.ink/goldengrape/feed/atom)|
+|[歌词经理 lyric](https://quaily.com/lyric/)|[RSS](https://quaily.com/lyric/feed/atom)|
+|[橘子汽水铺](https://quaily.com/orange/)|[RSS](https://quaily.com/orange/feed/atom)|
+|[向阳乔木](https://quaily.com/vista8/)|[RSS](https://quaily.com/vista8/feed/atom)|
+|[CreativityOverflow](https://quaily.com/goldengrape/)|[RSS](https://quaily.com/goldengrape/feed/atom)|
 
 ### Getrevue 
 
