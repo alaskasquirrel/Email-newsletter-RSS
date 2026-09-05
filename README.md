@@ -123,6 +123,7 @@
 |推播助栏 Enrich Podcast Wave|https://enrichpodwave.substack.com/archive|
 |小星星通訊|https://news.oobe.tw/|
 |Infinite Loops||
+|[💌 321 来信](https://321letter.substack.com/)| 3 篇阅读分享，2 个产品推荐 ，1 个思考，关注 AI 和创业，周二投递。—— [0xinhua](https://substack.com/@0xinhua)|
 |[MacroMarketsDaily Newsletter](https://www.macromarketsdaily.com/)|https://infiniteloops.substack.com/archive|
 |MonoGoto Newsletter|https://monogoto.substack.com/|
 |[Neckar Substack](https://neckar.substack.com/)|Frederik Gieschen|
@@ -140,7 +141,6 @@
 |[1790的阅读笔记](https://ichigo.zhubai.love/)|Exploring My Curiosity and Sharing What I Learn along the Way.—— 由 Derek 创作|
 |[1Link.Fun](https://happyfire.zhubai.love/)|欢迎访问。 这里是 1Link.Fun, 我会在这里每周更新 10 条有趣的链接, 主要包含: 科技新闻 网站推荐 工具推荐 偶尔推荐一些图片 / 视频. 取名为 1Link 是想做成类似 《意林》 这样的杂志，让你在闲暇之余消磨一下时间。|
 |[舍阀登岸](https://220525.zhubai.love/)|记录。表达。交流。创作。—— 由 雯子 创作|
-|[321来信](https://321laixin.zhubai.love/)|💌 3 个推荐，2 个碎片 ，1 个想法，周二更新，关注互联网新技术、社交媒体、人。|
 |[37Engr.](https://kun37.zhubai.love/)|讲述别人家工程师的故事 —— 由 kun 创作. [RSS](https://rsshub.app/zhubai/kun37)|
 |[玩Android](https://android.zhubai.love/)|围绕安卓的一些技术知识点~|
 |<img width="35" src="https://imgs.zhubai.love/bbeacde156ec4b939819e90056bf0626.png"> [After Work 下班后](https://tangweijuan.zhubai.love/)|分享 设计 —— 由 Tifa 创作|
