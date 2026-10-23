@@ -81,7 +81,7 @@
 |[月维素材周刊](https://moonvy.com/blog/subjects/%E6%9C%88%E7%BB%B4%E7%B4%A0%E6%9D%90%E5%91%A8%E5%88%8A/)|[RSS](https://moonvy.com/blog/rss.xml)|
 |[Dailyio](https://iois.me/) – 人机关系指南|Dailyio 由科技观察家赵赛坡创立，定位于一个由会员付费支持的内容服务，努力成为一份兼具深度洞察和全球视野的科技商业评论，内容涵盖 AI、云计算技术与产业变革以及围绕 iPad Pro 的生产力课程等，所有付费内容均通过邮件发送给订阅读者。[会员计划](https://iois.me/product/dailyio-pro-subscriptions)|
 |Ethan's Blog|https://ethanwong.page/|
-|<img width="35" src="https://replay.justinbot.com/album-logo.png?imageMogr2/quality/80"> Re:Play 是由三位不专业的音乐爱好者([@Justin](https://twitter.com/MapleShadow), [@Oscar](https://twitter.com/oscarlee_) 和 [@Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张唱片。|imageMogr2/format/webphttps://replay.cafe/|
+|<img width="35" src="https://replay.justinbot.com/album-logo.png?imageMogr2/quality/80"> Re:Play 是由三位不专业的音乐爱好者([@Justin](https://twitter.com/MapleShadow), [@Oscar](https://twitter.com/oscarlee_) 和 [@Clu](https://twitter.com/designedbyclu))，发起音乐分享的 Newsletter，每两周我们各自会与大家分享一张唱片。|https://replay.cafe/|
 |结绳志 Tying Knots – 人类学的观点、技艺与行动|https://tyingknots.net/|
 |一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。|https://blog.yitianshijie.net/|
 |<img width="35" src="https://i.typlog.com/wangyr45/8354037005_710322.png"> 太隐 - [棱镜通讯](https://wangyurui.com/)|每期选一个话题，Newsletter棱镜通讯主要关注记录、挖掘科学创造、社会思想和个体生活。|
