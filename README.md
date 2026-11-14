@@ -68,6 +68,7 @@
 |每周分享 - 费照君|https://feizhaojun.com/|
 |破茧日报|https://guozh.net/category/daily-information-share/|
 |<img width="35" src="https://www.ezindie.com/_nuxt/img/logo.1e183d5.jpg"> 独立开发变现周刊 [RSS](https://www.ezindie.com/feed/rss.xml)|https://www.ezindie.com/|
+|听说了吗？AI 解读站 [RSS](https://anymesgs.com/rss.xml)|https://anymesgs.com/newsletter/ 每天挑几条 AI 新闻，判断真假后用人话讲清楚，配动图和交互演示。|
 |笨方法实验室通信|https://hardwaylab.com/|
 |Manny Li 曼報｜掌握科技與商業趨勢|https://manny-li.com/|
 |<img width="35" src="https://i.typlog.com/kaopubear/8400353439_936224.png">「熊言熊语」是一档关注学习分享和知识科普的播客栏目，我们希望用声音记录改变与成长。思考问题的熊和他的朋友们一起聊学习工作、聊科研科普。|https://podcast.kaopubear.top/|
